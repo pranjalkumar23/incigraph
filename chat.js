@@ -47,7 +47,94 @@ function addChatMessage(role, html) {
   chatMessages.scrollTop = chatMessages.scrollHeight;
 }
 
-function handleQuery(rawText) {
+function applyEntityRelation(best, relation, { viaSemantic } = {}) {
+  const wasEmpty = nodesDS.length === 0;
+  const nid = ensureNode(best.type, best.id, best.name);
+  const suffix = viaSemantic ? ` <span class="tag">interpreted from phrasing</span>` : "";
+
+  if (relation) {
+    const rel = EXPANDERS[best.type] && EXPANDERS[best.type][relation];
+    if (rel) {
+      rel.run(nid, best.id);
+      markExpanded(nid, relation);
+      focusOn(nid);
+      addChatMessage("assistant", `${rel.label} for <strong>${escapeHtml(best.name)}</strong>.${suffix}`);
+    } else {
+      addChatMessage("assistant", `${TYPE_LABEL[best.type]} "${escapeHtml(best.name)}" doesn't support that relationship. Hover it in the graph to see what's available.`);
+    }
+  } else {
+    addChatMessage("assistant", `Added <strong>${escapeHtml(best.name)}</strong> (${TYPE_LABEL[best.type]}) to the graph.${suffix} Hover it to expand.`);
+  }
+
+  if (wasEmpty) {
+    network.fit({ animation: false });
+  } else {
+    settleLayout(nid);
+  }
+}
+
+function showEntityDetails(best, { viaSemantic } = {}) {
+  const suffix = viaSemantic ? ` <span class="tag">interpreted from phrasing</span>` : "";
+  addChatMessage("assistant", `Showing details for <strong>${escapeHtml(best.name)}</strong> in the side panel.${suffix}`);
+  renderEntityDetailsStandalone(best.type, best.id, best.name);
+}
+
+const STOPWORDS = new Set([
+  "the", "a", "an", "of", "to", "in", "on", "at", "for", "with", "this", "that", "is", "are", "do", "does",
+  "and", "or", "what", "who", "how", "where", "when", "why", "which", "can", "could", "would", "should",
+  "i", "me", "my", "you", "your", "we", "us", "our", "it", "its", "be", "been", "being",
+  "please", "tell", "show", "list", "find", "get", "give", "display", "need", "want", "like", "help",
+  "more", "info", "information", "about", "details", "detail", "buy", "have", "has", "had", "just",
+  "also", "really", "some", "any", "all", "there", "here", "out", "up", "down",
+]);
+
+function findEntityWindow(text) {
+  const words = text.split(/\s+/).filter(Boolean);
+  for (let len = words.length; len >= 1; len--) {
+    for (let start = 0; start + len <= words.length; start++) {
+      const windowWords = words.slice(start, start + len);
+      const candidate = windowWords.join(" ");
+      if (candidate.length < 3) continue;
+      if (windowWords.every((w) => STOPWORDS.has(w))) continue;
+      const found = search(candidate, "all");
+      if (found.length > 0) return found[0];
+    }
+  }
+  return null;
+}
+
+const SEMANTIC_BUCKET_TO_RELATION = { sellers: "sellers", brands: "brands", products: "products", chemicals: "chemicals", outreach: "outreach", brand: "brand", show: null };
+const RESET_CONFIDENCE = 0.75;
+const MIN_CONFIDENCE = 0.15;
+
+async function trySemanticFallback(normalized) {
+  if (!window.NLU || typeof window.NLU.classify !== "function") return false;
+  const best = await window.NLU.classify(normalized).catch(() => null);
+  if (!best || best.sim < MIN_CONFIDENCE) return false;
+
+  // Reset has no entity to ground it, so it needs a much closer phrasing match
+  // than relation/details intents, which are validated against a real known entity below.
+  if (best.relation === "reset" && best.sim >= RESET_CONFIDENCE) {
+    resetGraph();
+    addChatMessage("assistant", "Cleared the graph.");
+    return true;
+  }
+
+  const entityMatch = findEntityWindow(normalized);
+  if (!entityMatch) return false;
+
+  if (best.relation === "details") {
+    showEntityDetails(entityMatch, { viaSemantic: true });
+    return true;
+  }
+
+  const relation = SEMANTIC_BUCKET_TO_RELATION[best.relation] ?? null;
+  const relationAvailable = relation && EXPANDERS[entityMatch.type] && EXPANDERS[entityMatch.type][relation];
+  applyEntityRelation(entityMatch, relationAvailable ? relation : null, { viaSemantic: true });
+  return true;
+}
+
+async function handleQuery(rawText) {
   const text = rawText.trim();
   if (!text) return;
   addChatMessage("user", escapeHtml(text));
@@ -65,14 +152,10 @@ function handleQuery(rawText) {
   if (detailsMatch) {
     const entityText = detailsMatch[1].trim();
     const results = search(entityText, "all");
-    if (results.length === 0) {
-      addChatMessage("assistant", `Couldn't find anything matching "${escapeHtml(entityText)}".`);
+    if (results.length > 0) {
+      showEntityDetails(results[0]);
       return;
     }
-    const best = results[0];
-    addChatMessage("assistant", `Showing details for <strong>${escapeHtml(best.name)}</strong> in the side panel.`);
-    renderEntityDetailsStandalone(best.type, best.id, best.name);
-    return;
   }
 
   let relation = null;
@@ -87,32 +170,14 @@ function handleQuery(rawText) {
   }
 
   const results = search(entityText, "all");
-  if (results.length === 0) {
-    addChatMessage("assistant", `Couldn't find anything matching "${escapeHtml(entityText)}".`);
+  if (results.length > 0) {
+    applyEntityRelation(results[0], relation);
     return;
   }
-  const best = results[0];
-  const wasEmpty = nodesDS.length === 0;
-  const nid = ensureNode(best.type, best.id, best.name);
 
-  if (relation) {
-    const rel = EXPANDERS[best.type] && EXPANDERS[best.type][relation];
-    if (rel) {
-      rel.run(nid, best.id);
-      markExpanded(nid, relation);
-      focusOn(nid);
-      addChatMessage("assistant", `${rel.label} for <strong>${escapeHtml(best.name)}</strong>.`);
-    } else {
-      addChatMessage("assistant", `${TYPE_LABEL[best.type]} "${escapeHtml(best.name)}" doesn't support that relationship. Hover it in the graph to see what's available.`);
-    }
-  } else {
-    addChatMessage("assistant", `Added <strong>${escapeHtml(best.name)}</strong> (${TYPE_LABEL[best.type]}) to the graph. Hover it to expand.`);
-  }
-
-  if (wasEmpty) {
-    network.fit({ animation: false });
-  } else {
-    settleLayout(nid);
+  const handledSemantically = await trySemanticFallback(normalized);
+  if (!handledSemantically) {
+    addChatMessage("assistant", `Couldn't find anything matching "${escapeHtml(entityText)}".`);
   }
 }
 
