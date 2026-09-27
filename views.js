@@ -84,7 +84,7 @@ function renderChemicalsGrid(filter) {
       const productsCount = productsUsingChemical(c.id).length;
       const brandsCount = brandsUsingChemical(c.id).length;
       return `<div class="entity-card" data-id="${c.id}">
-        ${chemStructureMarkup("chemical", c.id, "struct-grid", c.id, { width: 160, height: 100 }) || `<span class="entity-icon" style="background:${style.bg};border-color:${style.border};">${style.icon}</span>`}
+        <span class="entity-icon" style="background:${style.bg};border-color:${style.border};">${style.icon}</span>
         <p class="entity-name">${c.name}</p>
         <p class="entity-sub">${c.category}</p>
         <p class="entity-sub">${c.formula || `CAS ${c.cas}`}</p>
@@ -92,7 +92,6 @@ function renderChemicalsGrid(filter) {
       </div>`;
     })
     .join("");
-  list.forEach((c) => drawChemStructureIfNeeded("chemical", c.id, "struct-grid", c.id, { width: 160, height: 100 }));
   grid.querySelectorAll(".entity-card").forEach((el) => {
     el.addEventListener("click", () => {
       const c = CHEM_BY_ID[el.dataset.id];
