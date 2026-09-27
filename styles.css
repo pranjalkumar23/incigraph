@@ -688,3 +688,116 @@ html, body {
 .chat-input-row button:hover {
   background: #1f56c4;
 }
+
+/* Mobile */
+
+.nav-toggle-btn {
+  display: none;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: none;
+  font-size: 20px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 4px;
+}
+
+.nav-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 40;
+}
+
+.nav-backdrop.open {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .nav-toggle-btn {
+    display: flex;
+  }
+
+  .side-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 240px;
+    max-width: 80vw;
+    transform: translateX(-100%);
+    transition: transform 0.2s ease;
+    z-index: 50;
+  }
+
+  .side-nav.open {
+    transform: translateX(0);
+  }
+
+  .top-bar {
+    padding: 0 12px;
+    gap: 8px;
+  }
+
+  .top-search {
+    max-width: none;
+  }
+
+  .chain-trace-btn {
+    padding: 8px 10px;
+    margin-left: 0;
+  }
+
+  .view-header {
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 14px 16px;
+  }
+
+  .view-header input {
+    width: 100%;
+  }
+
+  .entity-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    padding: 14px;
+    gap: 10px;
+  }
+
+  .graph-panel {
+    padding: 12px;
+  }
+
+  .graph-toolbar {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .graph-toolbar h2 {
+    font-size: 14px;
+  }
+
+  .chat-drawer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    max-width: 100%;
+    z-index: 60;
+  }
+}
+
+@media (max-width: 480px) {
+  .top-bar-icon,
+  .top-bar-avatar {
+    display: none;
+  }
+
+  .chain-trace-btn .btn-label {
+    display: none;
+  }
+}

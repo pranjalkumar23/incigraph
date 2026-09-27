@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <title>InciGraph.ai — supply chain traceability</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tabler-icons/3.48.0/tabler-icons.min.css" />
 <link rel="stylesheet" href="styles.css" />
@@ -10,6 +11,7 @@
 </head>
 <body>
 <div class="app-shell">
+  <div id="navBackdrop" class="nav-backdrop"></div>
   <nav class="side-nav">
     <div class="side-nav-logo"><i class="ti ti-flask-2"></i> InciGraph.ai</div>
     <button class="nav-item active" data-view="graph"><i class="ti ti-layout-dashboard"></i> Dashboard</button>
@@ -24,11 +26,12 @@
 
   <div class="shell-main">
     <header class="top-bar">
+      <button id="navToggle" class="nav-toggle-btn" type="button" aria-label="Toggle menu"><i class="ti ti-menu-2"></i></button>
       <div class="top-search">
         <i class="ti ti-search"></i>
         <input id="globalSearch" type="text" placeholder="Search Chemical, Brand, Product..." autocomplete="off" />
       </div>
-      <button id="chemAiToggle" class="chain-trace-btn" type="button"><i class="ti ti-route"></i> AI Chat</button>
+      <button id="chemAiToggle" class="chain-trace-btn" type="button"><i class="ti ti-route"></i> <span class="btn-label">AI Chat</span></button>
       <i class="ti ti-bell top-bar-icon"></i>
       <div class="top-bar-avatar">CT</div>
     </header>

@@ -8,6 +8,24 @@ document.querySelectorAll(".nav-item").forEach((btn) => {
   btn.addEventListener("click", () => switchView(btn.dataset.view));
 });
 
+/* Mobile nav toggle */
+
+const navToggle = document.getElementById("navToggle");
+const sideNav = document.querySelector(".side-nav");
+const navBackdrop = document.getElementById("navBackdrop");
+
+function closeMobileNav() {
+  sideNav.classList.remove("open");
+  navBackdrop.classList.remove("open");
+}
+
+navToggle.addEventListener("click", () => {
+  sideNav.classList.toggle("open");
+  navBackdrop.classList.toggle("open");
+});
+navBackdrop.addEventListener("click", closeMobileNav);
+document.querySelectorAll(".nav-item").forEach((btn) => btn.addEventListener("click", closeMobileNav));
+
 function goToBrand(id) {
   switchView("graph");
   setRoot("brand", id, BRAND_BY_ID[id].name);
