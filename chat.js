@@ -1,5 +1,17 @@
-const RESET_PATTERN = /^(reset|clear( the)? graph|start over)$/i;
+const RESET_PATTERN = /^(?:reset(?:\s+the)?(?:\s+graph)?|clear(?:\s+the)?\s+graph|start over)$/i;
 const DETAILS_PATTERN = /^(?:details?\s+(?:about|of|on)|tell me about|info(?:rmation)?\s+(?:about|on))\s+(.+)$/i;
+
+const FILLER_PREFIX = /^(?:please|can you|could you|i want to|i want|i would like to|show me|give me|find me|get me|list me|list the|list|show|find|get|display|what are the|what are|what is the|what is)\s+/i;
+
+function stripFillers(s) {
+  let prev = s;
+  for (let i = 0; i < 4; i++) {
+    const next = prev.replace(FILLER_PREFIX, "");
+    if (next === prev) break;
+    prev = next;
+  }
+  return prev;
+}
 
 const INTENT_PATTERNS = [
   { relation: "sellers", re: /^(?:who\s+(?:sells|supplies)|sellers?\s+(?:of|for)|suppliers?\s+(?:of|for))\s+(.+)$/i },
@@ -41,14 +53,15 @@ function handleQuery(rawText) {
   addChatMessage("user", escapeHtml(text));
 
   const normalized = text.toLowerCase().replace(/[?.!]+$/, "").trim();
+  const stripped = stripFillers(normalized);
 
-  if (RESET_PATTERN.test(normalized)) {
+  if (RESET_PATTERN.test(stripped)) {
     resetGraph();
     addChatMessage("assistant", "Cleared the graph.");
     return;
   }
 
-  const detailsMatch = normalized.match(DETAILS_PATTERN);
+  const detailsMatch = stripped.match(DETAILS_PATTERN);
   if (detailsMatch) {
     const entityText = detailsMatch[1].trim();
     const results = search(entityText, "all");
@@ -63,9 +76,9 @@ function handleQuery(rawText) {
   }
 
   let relation = null;
-  let entityText = normalized;
+  let entityText = stripped;
   for (const intent of INTENT_PATTERNS) {
-    const m = normalized.match(intent.re);
+    const m = stripped.match(intent.re);
     if (m) {
       relation = intent.relation;
       entityText = m[1].trim();
