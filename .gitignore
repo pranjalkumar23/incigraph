@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+
+# raw scraped debug page dumps, not project source
+flipkart.html
+flipkart_product.html
+flipkart_search.html
+netmeds.html
+onemg.html
+page.html
+purplle_search.html

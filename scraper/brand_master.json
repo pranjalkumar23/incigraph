@@ -1,0 +1,3852 @@
+[
+  {
+    "umbrella_brand": "Lux",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Lux Soft Touch / Velvet Glow / Fresh Splash",
+        "category": "Bath & Body",
+        "key_products": "Soap bars, body wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lifebuoy",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Lifebuoy Total 10 / Neem / Lemon Fresh",
+        "category": "Bath & Body",
+        "key_products": "Germ-protection soaps, hand wash, sanitizer"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dove",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dove Beauty Bar",
+        "category": "Bath & Body",
+        "key_products": "Moisturising soap bars, body wash"
+      },
+      {
+        "sub_brand": "Dove Hair Care",
+        "category": "Hair Care",
+        "key_products": "Shampoo, conditioner, hair masks, serums"
+      },
+      {
+        "sub_brand": "Dove Men+Care",
+        "category": "Men's Grooming",
+        "key_products": "Body wash, deodorant, face wash"
+      },
+      {
+        "sub_brand": "Dove Deodorants",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Roll-ons, body sprays"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Pears",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Pears Pure & Gentle / Oil Clear / Germ Shield",
+        "category": "Bath & Body",
+        "key_products": "Transparent glycerine soaps, body wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Hamam",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Hamam Neem Tulsi & Aloe Vera",
+        "category": "Bath & Body",
+        "key_products": "Herbal soap"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Rexona",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Rexona Soap / Deodorant",
+        "category": "Bath & Body",
+        "key_products": "Soap, deodorants"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Liril",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Liril Lime & Tea Tree",
+        "category": "Bath & Body",
+        "key_products": "Soap"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Breeze",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Breeze",
+        "category": "Bath & Body",
+        "key_products": "Economy soap"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lever Ayush",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Lever Ayush",
+        "category": "Ayurvedic Care",
+        "key_products": "Ayurvedic soap, toothpaste, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Clinic Plus",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Clinic Plus Strength & Shine",
+        "category": "Hair Care",
+        "key_products": "Shampoo, hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Sunsilk",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Sunsilk Black Shine / Thick & Long / Stunning Black",
+        "category": "Hair Care",
+        "key_products": "Shampoo, conditioner, serum"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "TRESemmé",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "TRESemmé Keratin Smooth / Hair Fall Defense",
+        "category": "Hair Care",
+        "key_products": "Salon shampoo, conditioner, masks, styling"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Clear",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Clear Men / Clear Complete Active Care",
+        "category": "Hair Care",
+        "key_products": "Anti-dandruff shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Indulekha",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Indulekha Bringha",
+        "category": "Hair Care",
+        "key_products": "Ayurvedic hair oil, shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Love Beauty and Planet",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Love Beauty and Planet",
+        "category": "Hair Care",
+        "key_products": "Shampoo, conditioner, body wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Pond's",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Pond's Bright Beauty / Super Light Gel / Age Miracle / Pure Detox",
+        "category": "Skin Care",
+        "key_products": "Face wash, creams, serums, moisturisers"
+      },
+      {
+        "sub_brand": "Pond's Talc (Dreamflower / Magic)",
+        "category": "Bath & Body",
+        "key_products": "Talcum powder"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Glow & Lovely",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Glow & Lovely Advanced Multivitamin / Ayurvedic Care",
+        "category": "Skin Care",
+        "key_products": "Face cream, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Glow & Handsome",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Glow & Handsome",
+        "category": "Men's Grooming",
+        "key_products": "Men's face cream, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Vaseline",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Vaseline Intensive Care / Healthy Bright / Petroleum Jelly",
+        "category": "Skin Care",
+        "key_products": "Body lotion, petroleum jelly, lip care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Simple",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Simple Kind to Skin",
+        "category": "Skin Care",
+        "key_products": "Face wash, micellar water, moisturiser"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lakmé",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Lakmé Absolute",
+        "category": "Color Cosmetics",
+        "key_products": "Premium foundation, lipstick, highlighters"
+      },
+      {
+        "sub_brand": "Lakmé 9to5",
+        "category": "Color Cosmetics",
+        "key_products": "Primer, foundation, lipstick, CC cream"
+      },
+      {
+        "sub_brand": "Lakmé Eyeconic / Iconic",
+        "category": "Color Cosmetics",
+        "key_products": "Kajal, eyeliner, mascara"
+      },
+      {
+        "sub_brand": "Lakmé Sun Expert",
+        "category": "Skin Care",
+        "key_products": "Sunscreens"
+      },
+      {
+        "sub_brand": "Lakmé Peach Milk / Perfect Radiance",
+        "category": "Skin Care",
+        "key_products": "Moisturiser, day/night creams, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Elle 18",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Elle 18",
+        "category": "Color Cosmetics",
+        "key_products": "Mass lipstick, nail colour, kajal"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Axe",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Axe Signature / Dark Temptation",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Body spray, perfume, body wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Closeup",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Closeup Red Hot / Ever Fresh",
+        "category": "Oral Care",
+        "key_products": "Gel toothpaste, toothbrush"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Pepsodent",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Pepsodent Germicheck / Expert Protection",
+        "category": "Oral Care",
+        "key_products": "Toothpaste, toothbrush"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Minimalist",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Minimalist (acquired 2025)",
+        "category": "Skin Care",
+        "key_products": "Actives serums, sunscreens, moisturisers, hair serums"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dermalogica",
+    "parent_company": "Hindustan Unilever (HUL)",
+    "origin": "UK/Netherlands (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dermalogica",
+        "category": "Skin Care",
+        "key_products": "Professional skincare (premium)"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Olay",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Olay Regenerist / Total Effects / Luminous",
+        "category": "Skin Care",
+        "key_products": "Anti-ageing creams, serums, cleansers"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Pantene",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Pantene Pro-V Hair Fall Control / Silky Smooth",
+        "category": "Hair Care",
+        "key_products": "Shampoo, conditioner, oil replacement"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Head & Shoulders",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Head & Shoulders Cool Menthol / Anti-Hairfall",
+        "category": "Hair Care",
+        "key_products": "Anti-dandruff shampoo, conditioner"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Herbal Essences",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Herbal Essences Bio:renew",
+        "category": "Hair Care",
+        "key_products": "Shampoo, conditioner"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Gillette",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Gillette Mach3 / Fusion / Guard / Vector / SkinGuard",
+        "category": "Shaving",
+        "key_products": "Razors, cartridges"
+      },
+      {
+        "sub_brand": "Gillette Foam / Gel / Aftershave",
+        "category": "Shaving",
+        "key_products": "Shaving foam, gel, aftershave"
+      },
+      {
+        "sub_brand": "Gillette Venus",
+        "category": "Hair Removal",
+        "key_products": "Women's razors"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Old Spice",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Old Spice",
+        "category": "Men's Grooming",
+        "key_products": "Aftershave, deodorant, shaving cream"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Oral-B",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Oral-B Pro / Criss Cross / Electric",
+        "category": "Oral Care",
+        "key_products": "Manual & electric toothbrushes, toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Whisper",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Whisper Choice / Ultra / Bindazzz Nights",
+        "category": "Feminine Hygiene",
+        "key_products": "Sanitary pads"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Pampers",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Pampers Baby Dry / Premium Care",
+        "category": "Baby Care",
+        "key_products": "Diapers, wipes"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Braun",
+    "parent_company": "Procter & Gamble India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Braun",
+        "category": "Men's Grooming",
+        "key_products": "Trimmers, shavers, epilators"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Colgate",
+    "parent_company": "Colgate-Palmolive India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Colgate Strong Teeth / Dental Cream",
+        "category": "Oral Care",
+        "key_products": "Toothpaste"
+      },
+      {
+        "sub_brand": "Colgate MaxFresh",
+        "category": "Oral Care",
+        "key_products": "Gel toothpaste"
+      },
+      {
+        "sub_brand": "Colgate Total",
+        "category": "Oral Care",
+        "key_products": "Toothpaste"
+      },
+      {
+        "sub_brand": "Colgate Visible White / Visible White O2",
+        "category": "Oral Care",
+        "key_products": "Whitening toothpaste"
+      },
+      {
+        "sub_brand": "Colgate Sensitive / Sensitive Pro-Relief",
+        "category": "Oral Care",
+        "key_products": "Sensitivity toothpaste"
+      },
+      {
+        "sub_brand": "Colgate Swarna Vedshakti / Active Salt",
+        "category": "Oral Care",
+        "key_products": "Ayurvedic/herbal toothpaste"
+      },
+      {
+        "sub_brand": "Colgate Slim Soft / Zig Zag / Super Flexi",
+        "category": "Oral Care",
+        "key_products": "Toothbrushes"
+      },
+      {
+        "sub_brand": "Colgate Plax",
+        "category": "Oral Care",
+        "key_products": "Mouthwash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Palmolive",
+    "parent_company": "Colgate-Palmolive India",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Palmolive Aroma / Naturals",
+        "category": "Bath & Body",
+        "key_products": "Body wash, soap, hand wash"
+      },
+      {
+        "sub_brand": "Palmolive Shaving",
+        "category": "Shaving",
+        "key_products": "Shaving cream"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Johnson's Baby",
+    "parent_company": "Kenvue (formerly J&J Consumer)",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Johnson's Baby",
+        "category": "Baby Care",
+        "key_products": "Baby soap, shampoo, oil, powder, lotion, wipes"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Neutrogena",
+    "parent_company": "Kenvue (formerly J&J Consumer)",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Neutrogena Hydro Boost / Ultra Sheer / Deep Clean",
+        "category": "Skin Care",
+        "key_products": "Moisturisers, sunscreen, cleansers"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Clean & Clear",
+    "parent_company": "Kenvue (formerly J&J Consumer)",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Clean & Clear",
+        "category": "Skin Care",
+        "key_products": "Face wash, toner for oily/acne skin"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Aveeno",
+    "parent_company": "Kenvue (formerly J&J Consumer)",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Aveeno",
+        "category": "Skin Care",
+        "key_products": "Oat body lotion, baby care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Listerine",
+    "parent_company": "Kenvue (formerly J&J Consumer)",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Listerine Cool Mint / Total Care",
+        "category": "Oral Care",
+        "key_products": "Mouthwash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Stayfree",
+    "parent_company": "Kenvue (formerly J&J Consumer)",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Stayfree Secure / Dry Max",
+        "category": "Feminine Hygiene",
+        "key_products": "Sanitary pads"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Carefree",
+    "parent_company": "Kenvue (formerly J&J Consumer)",
+    "origin": "USA (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Carefree",
+        "category": "Feminine Hygiene",
+        "key_products": "Panty liners"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nivea",
+    "parent_company": "Beiersdorf (Nivea India)",
+    "origin": "Germany (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Nivea Creme / Soft",
+        "category": "Skin Care",
+        "key_products": "Multipurpose creams"
+      },
+      {
+        "sub_brand": "Nivea Body Lotion (Nourishing / Aloe / Cocoa)",
+        "category": "Bath & Body",
+        "key_products": "Body lotions, body wash"
+      },
+      {
+        "sub_brand": "Nivea Luminous630",
+        "category": "Skin Care",
+        "key_products": "Spot-correcting serums"
+      },
+      {
+        "sub_brand": "Nivea Sun",
+        "category": "Skin Care",
+        "key_products": "Sunscreens"
+      },
+      {
+        "sub_brand": "Nivea Lip Care",
+        "category": "Skin Care",
+        "key_products": "Lip balms"
+      },
+      {
+        "sub_brand": "Nivea Deodorants (Women)",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Roll-ons, sprays"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nivea Men",
+    "parent_company": "Beiersdorf (Nivea India)",
+    "origin": "Germany (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Nivea Men",
+        "category": "Men's Grooming",
+        "key_products": "Face wash, moisturiser, deodorant, shaving"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Eucerin",
+    "parent_company": "Beiersdorf (Nivea India)",
+    "origin": "Germany (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Eucerin",
+        "category": "Skin Care",
+        "key_products": "Dermo-cosmetic creams, sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "L'Oréal Paris",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "L'Oréal Paris Revitalift / Glycolic Bright",
+        "category": "Skin Care",
+        "key_products": "Serums, creams, cleansers"
+      },
+      {
+        "sub_brand": "L'Oréal Paris Total Repair 5 / Extraordinary Oil / Hyaluron Moisture",
+        "category": "Hair Care",
+        "key_products": "Shampoo, conditioner, serum"
+      },
+      {
+        "sub_brand": "L'Oréal Paris Excellence / Casting Crème Gloss",
+        "category": "Hair Colour",
+        "key_products": "Hair colour"
+      },
+      {
+        "sub_brand": "L'Oréal Paris Makeup",
+        "category": "Color Cosmetics",
+        "key_products": "Foundation, lipstick, mascara"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Garnier",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Garnier Skin Naturals / Bright Complete",
+        "category": "Skin Care",
+        "key_products": "Face wash, serum, sheet masks, micellar water"
+      },
+      {
+        "sub_brand": "Garnier Men",
+        "category": "Men's Grooming",
+        "key_products": "Face wash, moisturiser"
+      },
+      {
+        "sub_brand": "Garnier Fructis",
+        "category": "Hair Care",
+        "key_products": "Shampoo, conditioner"
+      },
+      {
+        "sub_brand": "Garnier Color Naturals",
+        "category": "Hair Colour",
+        "key_products": "Hair colour"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Maybelline New York",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Fit Me / Colossal / SuperStay / Sky High",
+        "category": "Color Cosmetics",
+        "key_products": "Foundation, kajal, mascara, lipstick"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "NYX Professional Makeup",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "NYX",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "L'Oréal Professionnel",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "L'Oréal Professionnel",
+        "category": "Professional Hair Care",
+        "key_products": "Salon hair care & colour"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Matrix",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Matrix Opti.Care / SoColor",
+        "category": "Professional Hair Care",
+        "key_products": "Salon shampoo, colour, treatments"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Biolage",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Biolage",
+        "category": "Professional Hair Care",
+        "key_products": "Salon shampoo, conditioner"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kérastase",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Kérastase",
+        "category": "Professional Hair Care",
+        "key_products": "Luxury hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Redken",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Redken",
+        "category": "Professional Hair Care",
+        "key_products": "Salon hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Cheryl's Cosmeceuticals",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Cheryl's",
+        "category": "Skin Care",
+        "key_products": "Salon/professional facial skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "CeraVe",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "CeraVe",
+        "category": "Skin Care",
+        "key_products": "Dermo-cosmetic cleansers, moisturisers"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "La Roche-Posay",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "La Roche-Posay",
+        "category": "Skin Care",
+        "key_products": "Dermo-cosmetics, sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kiehl's",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Kiehl's",
+        "category": "Skin Care",
+        "key_products": "Premium skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lancôme",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Lancôme",
+        "category": "Luxury Beauty",
+        "key_products": "Skincare, makeup, fragrance"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "YSL Beauty",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "YSL Beauty",
+        "category": "Luxury Beauty",
+        "key_products": "Makeup, fragrance"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Giorgio Armani Beauty",
+    "parent_company": "L'Oréal India",
+    "origin": "France (MNC)",
+    "company_type": "FMCG Major / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Armani Beauty",
+        "category": "Luxury Beauty",
+        "key_products": "Makeup, fragrance"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Estée Lauder",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Estée Lauder Advanced Night Repair / Double Wear",
+        "category": "Luxury Beauty",
+        "key_products": "Serums, foundation"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Clinique",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Clinique",
+        "category": "Luxury Beauty",
+        "key_products": "Skincare, makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "M·A·C",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "M·A·C Cosmetics",
+        "category": "Color Cosmetics",
+        "key_products": "Lipstick, foundation, makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bobbi Brown",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Bobbi Brown",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Too Faced",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Too Faced",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Smashbox",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Smashbox",
+        "category": "Color Cosmetics",
+        "key_products": "Primers, makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "The Ordinary (DECIEM)",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "The Ordinary",
+        "category": "Skin Care",
+        "key_products": "Actives serums"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Jo Malone London",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Jo Malone",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Luxury fragrance"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Tom Ford Beauty",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Tom Ford",
+        "category": "Luxury Beauty",
+        "key_products": "Fragrance, makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Aveda",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Aveda",
+        "category": "Professional Hair Care",
+        "key_products": "Salon hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bumble and bumble",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Bumble and bumble",
+        "category": "Hair Care",
+        "key_products": "Premium hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Forest Essentials",
+    "parent_company": "Estée Lauder Companies",
+    "origin": "USA (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Forest Essentials (minority stake)",
+        "category": "Ayurvedic Care",
+        "key_products": "Luxury Ayurvedic skin, hair, bath"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dabur Red",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dabur Red Paste / Red Gel",
+        "category": "Oral Care",
+        "key_products": "Ayurvedic toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dabur Herb'l",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dabur Herb'l Clove / Basil / Neem",
+        "category": "Oral Care",
+        "key_products": "Herbal toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Babool",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Babool",
+        "category": "Oral Care",
+        "key_products": "Toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Meswak",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Meswak",
+        "category": "Oral Care",
+        "key_products": "Toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dabur Amla",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dabur Amla / Amla Aloe Vera",
+        "category": "Hair Care",
+        "key_products": "Hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dabur Almond",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dabur Almond Hair Oil",
+        "category": "Hair Care",
+        "key_products": "Hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dabur Sarson Amla",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dabur Sarson Amla",
+        "category": "Hair Care",
+        "key_products": "Mustard-amla hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Vatika",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Vatika Shampoo / Hair Oil / Neem",
+        "category": "Hair Care",
+        "key_products": "Shampoo, hair oil, hair masks"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Anmol",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Anmol Sarson Amla (Dabur)",
+        "category": "Hair Care",
+        "key_products": "Hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Gulabari",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Gulabari",
+        "category": "Skin Care",
+        "key_products": "Rose water, face freshener, cold cream"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Fem",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Fem Bleach / Hair Removal",
+        "category": "Skin Care",
+        "key_products": "Bleach, hair removal cream"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Oxy Life",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Oxy Bleach",
+        "category": "Skin Care",
+        "key_products": "Bleach"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dabur Lal Tail",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dabur Lal Tail",
+        "category": "Baby Care",
+        "key_products": "Baby massage oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dabur Baby",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dabur Baby",
+        "category": "Baby Care",
+        "key_products": "Baby soap, shampoo, lotion"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Sesa",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Sesa",
+        "category": "Hair Care",
+        "key_products": "Ayurvedic hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dermoviva",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dermoviva",
+        "category": "Bath & Body",
+        "key_products": "Soap, body lotion"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dabur Uveda",
+    "parent_company": "Dabur India",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dabur Uveda",
+        "category": "Skin Care",
+        "key_products": "Ayurvedic skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Parachute",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Parachute Coconut Oil",
+        "category": "Hair Care",
+        "key_products": "Pure coconut oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Parachute Advansed",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Parachute Advansed Aloe Vera / Gold / Ayurvedic Hot Oil",
+        "category": "Hair Care",
+        "key_products": "Enriched hair oils"
+      },
+      {
+        "sub_brand": "Parachute Advansed Body Lotion",
+        "category": "Bath & Body",
+        "key_products": "Body lotions"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nihar Naturals",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Nihar Naturals / Shanti Amla",
+        "category": "Hair Care",
+        "key_products": "Hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Hair & Care",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Hair & Care",
+        "category": "Hair Care",
+        "key_products": "Non-sticky hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Livon",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Livon Serum",
+        "category": "Hair Care",
+        "key_products": "Hair serum"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Set Wet",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Set Wet Gel / Deodorant",
+        "category": "Men's Grooming",
+        "key_products": "Hair gel, wax, deodorant"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Mediker",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Mediker",
+        "category": "Hair Care",
+        "key_products": "Anti-lice shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Coco Soul",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Coco Soul",
+        "category": "Skin Care",
+        "key_products": "Coconut-based skin & hair"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Beardo",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Beardo",
+        "category": "Men's Grooming",
+        "key_products": "Beard oil, face wash, perfume, hair wax"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Just Herbs",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Just Herbs",
+        "category": "Ayurvedic Care",
+        "key_products": "Ayurvedic skincare, makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Pure Sense",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Pure Sense",
+        "category": "Skin Care",
+        "key_products": "Natural skin & bath"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Plix",
+    "parent_company": "Marico",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Plix (stake)",
+        "category": "Skin Care",
+        "key_products": "Skincare serums, hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Cinthol",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Cinthol Original / Lime / Cool",
+        "category": "Bath & Body",
+        "key_products": "Soap, body wash, talc"
+      },
+      {
+        "sub_brand": "Cinthol Deodorants",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Deodorant sprays"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Godrej No.1",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Godrej No.1 (Sandal / Lime / Jasmine)",
+        "category": "Bath & Body",
+        "key_products": "Soap"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Godrej Protekt",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Godrej Protekt",
+        "category": "Bath & Body",
+        "key_products": "Hand wash, sanitiser"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Godrej Magic",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Godrej Magic",
+        "category": "Bath & Body",
+        "key_products": "Powder-to-liquid hand wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Godrej Expert",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Godrej Expert Rich Crème / Easy 5-min",
+        "category": "Hair Colour",
+        "key_products": "Hair colour"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nupur",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Nupur Henna",
+        "category": "Hair Colour",
+        "key_products": "Henna"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Godrej Professional",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Godrej Professional",
+        "category": "Professional Hair Care",
+        "key_products": "Salon hair colour, care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Park Avenue",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Park Avenue (acquired 2023)",
+        "category": "Men's Grooming",
+        "key_products": "Deodorant, perfume, soap, shaving, talc"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "KS / Kamasutra",
+    "parent_company": "Godrej Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "KamaSutra Deodorants",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Deodorants"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Boroplus",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Boroplus Antiseptic Cream / Body Lotion / Prickly Heat",
+        "category": "Skin Care",
+        "key_products": "Antiseptic cream, lotion, powder"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Navratna",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Navratna Oil / Navratna Cool Talc",
+        "category": "Hair Care",
+        "key_products": "Cooling hair oil, talc"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kesh King",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Kesh King",
+        "category": "Hair Care",
+        "key_products": "Ayurvedic hair oil, shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Emami 7 Oils in One",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Emami 7 Oils in One",
+        "category": "Hair Care",
+        "key_products": "Hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Emami Smart and Handsome",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Emami Smart and Handsome (formerly Fair and Handsome)",
+        "category": "Men's Grooming",
+        "key_products": "Men's face cream, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dermicool",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dermicool",
+        "category": "Bath & Body",
+        "key_products": "Prickly heat powder"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "The Man Company",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "The Man Company",
+        "category": "Men's Grooming",
+        "key_products": "Perfumes, beard care, bath"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Brillare",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Brillare",
+        "category": "Hair Care",
+        "key_products": "Natural hair & skin care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Creme 21",
+    "parent_company": "Emami",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Creme 21 (India licence)",
+        "category": "Skin Care",
+        "key_products": "Creams, body lotion"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Fiama",
+    "parent_company": "ITC Limited",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Fiama Gel Bar / Shower Gel",
+        "category": "Bath & Body",
+        "key_products": "Gel bars, shower gels"
+      },
+      {
+        "sub_brand": "Fiama Men",
+        "category": "Men's Grooming",
+        "key_products": "Men's body wash, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Vivel",
+    "parent_company": "ITC Limited",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Vivel Aloe Vera / Cool Mint",
+        "category": "Bath & Body",
+        "key_products": "Soap, body wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Superia",
+    "parent_company": "ITC Limited",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Superia",
+        "category": "Bath & Body",
+        "key_products": "Economy soap, shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Engage",
+    "parent_company": "ITC Limited",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Engage Deodorant / Engage On / L'amante",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Deodorants, pocket perfume, eau de parfum"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Savlon",
+    "parent_company": "ITC Limited",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Savlon",
+        "category": "Bath & Body",
+        "key_products": "Antiseptic liquid, soap, hand wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Charmis",
+    "parent_company": "ITC Limited",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Charmis",
+        "category": "Skin Care",
+        "key_products": "Cold cream, moisturiser"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dermafique",
+    "parent_company": "ITC Limited",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dermafique",
+        "category": "Skin Care",
+        "key_products": "Premium derm skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Santoor",
+    "parent_company": "Wipro Consumer Care & Lighting",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Santoor Sandal & Turmeric / White",
+        "category": "Bath & Body",
+        "key_products": "Soap, hand wash, talc, body lotion"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Chandrika",
+    "parent_company": "Wipro Consumer Care & Lighting",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Chandrika Ayurvedic",
+        "category": "Bath & Body",
+        "key_products": "Ayurvedic soap"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Yardley London",
+    "parent_company": "Wipro Consumer Care & Lighting",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Yardley (India licence)",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Soap, talc, deodorant, perfume"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Enchanteur",
+    "parent_company": "Wipro Consumer Care & Lighting",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Enchanteur",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Perfumed talc, deodorant, body lotion"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Aramusk",
+    "parent_company": "Wipro Consumer Care & Lighting",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Aramusk",
+        "category": "Men's Grooming",
+        "key_products": "Men's soap, talc"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Safewash",
+    "parent_company": "Wipro Consumer Care & Lighting",
+    "origin": "India",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Safewash",
+        "category": "Bath & Body",
+        "key_products": "Hand wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Himalaya",
+    "parent_company": "Himalaya Wellness",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Himalaya Purifying Neem",
+        "category": "Skin Care",
+        "key_products": "Face wash, face pack, scrub"
+      },
+      {
+        "sub_brand": "Himalaya Herbals Lip Care",
+        "category": "Skin Care",
+        "key_products": "Lip balm"
+      },
+      {
+        "sub_brand": "Himalaya Hair Care",
+        "category": "Hair Care",
+        "key_products": "Anti-dandruff/anti-hair-fall shampoo, oil"
+      },
+      {
+        "sub_brand": "Himalaya Complete Care / Sparkling White",
+        "category": "Oral Care",
+        "key_products": "Herbal toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Himalaya Baby",
+    "parent_company": "Himalaya Wellness",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Himalaya Baby",
+        "category": "Baby Care",
+        "key_products": "Baby lotion, powder, soap, shampoo, oil, diapers"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Himalaya MEN",
+    "parent_company": "Himalaya Wellness",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Himalaya MEN",
+        "category": "Men's Grooming",
+        "key_products": "Face wash, face cream"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dant Kanti",
+    "parent_company": "Patanjali Ayurved",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Dant Kanti / Dant Kanti Red",
+        "category": "Oral Care",
+        "key_products": "Toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kesh Kanti",
+    "parent_company": "Patanjali Ayurved",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Kesh Kanti",
+        "category": "Hair Care",
+        "key_products": "Shampoo, hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Saundarya",
+    "parent_company": "Patanjali Ayurved",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Patanjali Saundarya",
+        "category": "Skin Care",
+        "key_products": "Face wash, cream, aloe gel"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Patanjali",
+    "parent_company": "Patanjali Ayurved",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Patanjali Aloe Vera Gel",
+        "category": "Skin Care",
+        "key_products": "Aloe vera gel"
+      },
+      {
+        "sub_brand": "Patanjali Soaps (Haldi Chandan / Neem)",
+        "category": "Bath & Body",
+        "key_products": "Soap"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dettol",
+    "parent_company": "Reckitt",
+    "origin": "UK (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Dettol Original / Cool / Skincare",
+        "category": "Bath & Body",
+        "key_products": "Antiseptic soap, body wash, hand wash, antiseptic liquid"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Veet",
+    "parent_company": "Reckitt",
+    "origin": "UK (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Veet",
+        "category": "Hair Removal",
+        "key_products": "Hair removal cream, wax strips"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Durex",
+    "parent_company": "Reckitt",
+    "origin": "UK (MNC)",
+    "company_type": "FMCG Major",
+    "sub_lines": [
+      {
+        "sub_brand": "Durex",
+        "category": "Sexual Wellness",
+        "key_products": "Condoms, lubricants"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Sensodyne",
+    "parent_company": "Haleon",
+    "origin": "UK (MNC)",
+    "company_type": "Consumer Health",
+    "sub_lines": [
+      {
+        "sub_brand": "Sensodyne Rapid Relief / Repair & Protect",
+        "category": "Oral Care",
+        "key_products": "Sensitivity toothpaste, brushes"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Parodontax",
+    "parent_company": "Haleon",
+    "origin": "UK (MNC)",
+    "company_type": "Consumer Health",
+    "sub_lines": [
+      {
+        "sub_brand": "Parodontax",
+        "category": "Oral Care",
+        "key_products": "Gum-care toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Polident",
+    "parent_company": "Haleon",
+    "origin": "UK (MNC)",
+    "company_type": "Consumer Health",
+    "sub_lines": [
+      {
+        "sub_brand": "Polident",
+        "category": "Oral Care",
+        "key_products": "Denture care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Mamaearth",
+    "parent_company": "Honasa Consumer",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Mamaearth Onion / Vitamin C / Ubtan",
+        "category": "Skin Care",
+        "key_products": "Face wash, serum, sunscreen, creams"
+      },
+      {
+        "sub_brand": "Mamaearth Hair Care",
+        "category": "Hair Care",
+        "key_products": "Onion hair oil, shampoo"
+      },
+      {
+        "sub_brand": "Mamaearth Baby",
+        "category": "Baby Care",
+        "key_products": "Baby lotion, wash, diaper cream"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "The Derma Co",
+    "parent_company": "Honasa Consumer",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "The Derma Co",
+        "category": "Skin Care",
+        "key_products": "Actives serums, sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Aqualogica",
+    "parent_company": "Honasa Consumer",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Aqualogica",
+        "category": "Skin Care",
+        "key_products": "Hydration skincare, sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dr. Sheth's",
+    "parent_company": "Honasa Consumer",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Dr. Sheth's",
+        "category": "Skin Care",
+        "key_products": "Derm skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "BBlunt",
+    "parent_company": "Honasa Consumer",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "BBlunt",
+        "category": "Hair Care",
+        "key_products": "Hair colour, styling, shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Staze",
+    "parent_company": "Honasa Consumer",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Staze 9to9",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nykaa Cosmetics",
+    "parent_company": "FSN E-Commerce (Nykaa)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Nykaa Cosmetics",
+        "category": "Color Cosmetics",
+        "key_products": "Lipstick, nail enamel, eye makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kay Beauty",
+    "parent_company": "FSN E-Commerce (Nykaa)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Kay Beauty (with Katrina Kaif)",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nykaa SKINRX",
+    "parent_company": "FSN E-Commerce (Nykaa)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Nykaa SKINRX",
+        "category": "Skin Care",
+        "key_products": "Actives skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nykaa Naturals",
+    "parent_company": "FSN E-Commerce (Nykaa)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Nykaa Naturals",
+        "category": "Skin Care",
+        "key_products": "Natural skin & hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nykaa Wanderlust",
+    "parent_company": "FSN E-Commerce (Nykaa)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Nykaa Wanderlust",
+        "category": "Bath & Body",
+        "key_products": "Body wash, lotions, mists"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Dot & Key",
+    "parent_company": "FSN E-Commerce (Nykaa)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Dot & Key",
+        "category": "Skin Care",
+        "key_products": "Sunscreens, serums, lip balms"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kica",
+    "parent_company": "FSN E-Commerce (Nykaa)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Kica",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Earth Rhythm",
+    "parent_company": "FSN E-Commerce (Nykaa)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Earth Rhythm (stake)",
+        "category": "Skin Care",
+        "key_products": "Clean skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "MyGlamm",
+    "parent_company": "Good Glamm Group",
+    "origin": "India",
+    "company_type": "D2C / New-age (portfolio in flux)",
+    "sub_lines": [
+      {
+        "sub_brand": "MyGlamm",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup, skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "POPxo",
+    "parent_company": "Good Glamm Group",
+    "origin": "India",
+    "company_type": "D2C / New-age (portfolio in flux)",
+    "sub_lines": [
+      {
+        "sub_brand": "POPxo Makeup",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "St. Botanica",
+    "parent_company": "Good Glamm Group",
+    "origin": "India",
+    "company_type": "D2C / New-age (portfolio in flux)",
+    "sub_lines": [
+      {
+        "sub_brand": "St. Botanica",
+        "category": "Skin Care",
+        "key_products": "Natural skin & hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Organic Harvest",
+    "parent_company": "Good Glamm Group",
+    "origin": "India",
+    "company_type": "D2C / New-age (portfolio in flux)",
+    "sub_lines": [
+      {
+        "sub_brand": "Organic Harvest",
+        "category": "Skin Care",
+        "key_products": "Organic skin care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "The Moms Co",
+    "parent_company": "Good Glamm Group",
+    "origin": "India",
+    "company_type": "D2C / New-age (portfolio in flux)",
+    "sub_lines": [
+      {
+        "sub_brand": "The Moms Co",
+        "category": "Baby Care",
+        "key_products": "Baby & maternity care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Sirona",
+    "parent_company": "Good Glamm Group",
+    "origin": "India",
+    "company_type": "D2C / New-age (portfolio in flux)",
+    "sub_lines": [
+      {
+        "sub_brand": "Sirona",
+        "category": "Feminine Hygiene",
+        "key_products": "Menstrual cups, intimate care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "mCaffeine",
+    "parent_company": "Pep Technologies",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "mCaffeine",
+        "category": "Skin Care",
+        "key_products": "Coffee body scrub, face wash, body wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Hyphen",
+    "parent_company": "Pep Technologies",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Hyphen (with Kriti Sanon)",
+        "category": "Skin Care",
+        "key_products": "Skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Man Matters",
+    "parent_company": "Mosaic Wellness",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Man Matters",
+        "category": "Men's Grooming",
+        "key_products": "Hair-fall, beard growth, skin"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Be Bodywise",
+    "parent_company": "Mosaic Wellness",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Be Bodywise",
+        "category": "Skin Care",
+        "key_products": "Women's skin & hair"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Little Joys",
+    "parent_company": "Mosaic Wellness",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Little Joys",
+        "category": "Baby Care",
+        "key_products": "Kids wellness"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bare Anatomy",
+    "parent_company": "Innovist",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Bare Anatomy",
+        "category": "Hair Care",
+        "key_products": "Shampoo, conditioner, hair serum"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Chemist at Play",
+    "parent_company": "Innovist",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Chemist at Play",
+        "category": "Bath & Body",
+        "key_products": "Body wash, body lotion"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Sunscoop",
+    "parent_company": "Innovist",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Sunscoop",
+        "category": "Skin Care",
+        "key_products": "Sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bajaj Almond Drops",
+    "parent_company": "Bajaj Consumer Care",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Bajaj Almond Drops",
+        "category": "Hair Care",
+        "key_products": "Hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bajaj",
+    "parent_company": "Bajaj Consumer Care",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Bajaj Brahmi Amla / Amla Shikakai / Jasmine / Coconut",
+        "category": "Hair Care",
+        "key_products": "Hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bajaj Nomarks",
+    "parent_company": "Bajaj Consumer Care",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Nomarks",
+        "category": "Skin Care",
+        "key_products": "Anti-marks cream, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Banjara's",
+    "parent_company": "Bajaj Consumer Care",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Banjara's",
+        "category": "Skin Care",
+        "key_products": "Herbal face packs, hair colour"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Chik",
+    "parent_company": "CavinKare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Chik",
+        "category": "Hair Care",
+        "key_products": "Sachet shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Meera",
+    "parent_company": "CavinKare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Meera",
+        "category": "Hair Care",
+        "key_products": "Herbal shampoo, hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Karthika",
+    "parent_company": "CavinKare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Karthika",
+        "category": "Hair Care",
+        "key_products": "Shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nyle",
+    "parent_company": "CavinKare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Nyle Naturals",
+        "category": "Hair Care",
+        "key_products": "Shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Indica",
+    "parent_company": "CavinKare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Indica",
+        "category": "Hair Colour",
+        "key_products": "Hair colour"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Spinz",
+    "parent_company": "CavinKare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Spinz",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Talc, deodorant, perfume"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Fairever",
+    "parent_company": "CavinKare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Fairever",
+        "category": "Skin Care",
+        "key_products": "Face cream"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Raaga Professional",
+    "parent_company": "CavinKare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Raaga Professional",
+        "category": "Professional Hair Care",
+        "key_products": "Salon colour & care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Margo",
+    "parent_company": "Jyothy Labs",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Margo Neem",
+        "category": "Bath & Body",
+        "key_products": "Neem soap, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Neem",
+    "parent_company": "Jyothy Labs",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Neem Toothpaste",
+        "category": "Oral Care",
+        "key_products": "Toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Fa",
+    "parent_company": "Jyothy Labs",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Fa (India licence)",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Deodorants, body wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Everyuth",
+    "parent_company": "Zydus Wellness",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Everyuth Naturals",
+        "category": "Skin Care",
+        "key_products": "Scrubs, peel-off masks, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nycil",
+    "parent_company": "Zydus Wellness",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Nycil",
+        "category": "Bath & Body",
+        "key_products": "Prickly heat powder"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Medimix",
+    "parent_company": "Cholayil (AVA Group)",
+    "origin": "India",
+    "company_type": "Regional / Legacy",
+    "sub_lines": [
+      {
+        "sub_brand": "Medimix Classic / Ayurvedic",
+        "category": "Bath & Body",
+        "key_products": "Ayurvedic soap, face wash, hand wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Krishna Tulasi",
+    "parent_company": "Cholayil (AVA Group)",
+    "origin": "India",
+    "company_type": "Regional / Legacy",
+    "sub_lines": [
+      {
+        "sub_brand": "Krishna Tulasi",
+        "category": "Bath & Body",
+        "key_products": "Herbal soap"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Mysore Sandal",
+    "parent_company": "Karnataka Soaps & Detergents (KSDL)",
+    "origin": "India (Govt PSU)",
+    "company_type": "Regional / Legacy",
+    "sub_lines": [
+      {
+        "sub_brand": "Mysore Sandal / Mysore Sandal Gold / Millennium",
+        "category": "Bath & Body",
+        "key_products": "Sandalwood soap, talc, incense"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Vicco",
+    "parent_company": "Vicco Laboratories",
+    "origin": "India",
+    "company_type": "Regional / Legacy",
+    "sub_lines": [
+      {
+        "sub_brand": "Vicco Vajradanti",
+        "category": "Oral Care",
+        "key_products": "Ayurvedic toothpaste, tooth powder"
+      },
+      {
+        "sub_brand": "Vicco Turmeric",
+        "category": "Skin Care",
+        "key_products": "Turmeric cream, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Boroline",
+    "parent_company": "GD Pharmaceuticals",
+    "origin": "India",
+    "company_type": "Regional / Legacy",
+    "sub_lines": [
+      {
+        "sub_brand": "Boroline",
+        "category": "Skin Care",
+        "key_products": "Antiseptic cream"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Keo Karpin",
+    "parent_company": "Dey's Medical",
+    "origin": "India",
+    "company_type": "Regional / Legacy",
+    "sub_lines": [
+      {
+        "sub_brand": "Keo Karpin",
+        "category": "Hair Care",
+        "key_products": "Hair oil"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Anchor",
+    "parent_company": "Anchor Health & Beauty Care",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Anchor White / Gel",
+        "category": "Oral Care",
+        "key_products": "Toothpaste, toothbrush"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Nirma",
+    "parent_company": "Nirma",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Nirma Beauty Soap / Nima",
+        "category": "Bath & Body",
+        "key_products": "Soap"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Streax",
+    "parent_company": "Hygienic Research Institute",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Streax / Streax Professional",
+        "category": "Hair Colour",
+        "key_products": "Hair colour, serum, salon products"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lotus Herbals",
+    "parent_company": "Lotus Herbals",
+    "origin": "India",
+    "company_type": "Herbal / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Lotus Herbals WhiteGlow / YouthRx",
+        "category": "Skin Care",
+        "key_products": "Face wash, creams, face packs"
+      },
+      {
+        "sub_brand": "Lotus Safe Sun",
+        "category": "Skin Care",
+        "key_products": "Sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lotus Make-up",
+    "parent_company": "Lotus Herbals",
+    "origin": "India",
+    "company_type": "Herbal / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Lotus Make-up Ecostay",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lotus Professional",
+    "parent_company": "Lotus Herbals",
+    "origin": "India",
+    "company_type": "Herbal / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Lotus Professional",
+        "category": "Skin Care",
+        "key_products": "Salon facial kits"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lotus Organics+",
+    "parent_company": "Lotus Herbals",
+    "origin": "India",
+    "company_type": "Herbal / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Lotus Organics+",
+        "category": "Skin Care",
+        "key_products": "Organic skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Lotus Botanicals",
+    "parent_company": "Lotus Herbals",
+    "origin": "India",
+    "company_type": "Herbal / Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Lotus Botanicals",
+        "category": "Skin Care",
+        "key_products": "Botanical skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Biotique",
+    "parent_company": "Biotique",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Bio Kelp / Bio Bhringraj / Bio Morning Nectar",
+        "category": "Skin & Hair Care",
+        "key_products": "Shampoo, oil, face wash, sunscreen, creams"
+      },
+      {
+        "sub_brand": "Biotique Natural Makeup",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "VLCC",
+    "parent_company": "VLCC Personal Care",
+    "origin": "India",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "VLCC Skin Care",
+        "category": "Skin Care",
+        "key_products": "Facial kits, sunscreens, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Shahnaz Husain",
+    "parent_company": "Shahnaz Husain Group",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Shahnaz Husain",
+        "category": "Skin Care",
+        "key_products": "Ayurvedic skin & hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Jovees",
+    "parent_company": "Jovees Herbal",
+    "origin": "India",
+    "company_type": "Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Jovees",
+        "category": "Skin Care",
+        "key_products": "Facial kits, face wash, creams"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Khadi Natural",
+    "parent_company": "Khadi Natural",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Khadi Natural",
+        "category": "Ayurvedic Care",
+        "key_products": "Soaps, oils, face packs, shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Sri Sri Tattva",
+    "parent_company": "Sri Sri Tattva",
+    "origin": "India",
+    "company_type": "Ayurvedic / Herbal",
+    "sub_lines": [
+      {
+        "sub_brand": "Sri Sri Tattva",
+        "category": "Ayurvedic Care",
+        "key_products": "Soap, shampoo, toothpaste"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kama Ayurveda",
+    "parent_company": "Kama Ayurveda (Puig stake)",
+    "origin": "India",
+    "company_type": "Premium Ayurvedic",
+    "sub_lines": [
+      {
+        "sub_brand": "Kumkumadi / Bringadi",
+        "category": "Ayurvedic Care",
+        "key_products": "Luxury Ayurvedic skin & hair oils"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Fogg",
+    "parent_company": "Vini Cosmetics",
+    "origin": "India",
+    "company_type": "FMCG / Fragrance",
+    "sub_lines": [
+      {
+        "sub_brand": "Fogg / Fogg Scent / Fogg Xtremo",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Deodorants, perfumes"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Wild Stone",
+    "parent_company": "McNroe Consumer Products",
+    "origin": "India",
+    "company_type": "FMCG / Fragrance",
+    "sub_lines": [
+      {
+        "sub_brand": "Wild Stone / Wild Stone Code",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Deodorants, perfumes, soap, shaving"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Denver",
+    "parent_company": "Vanesa Care",
+    "origin": "India",
+    "company_type": "FMCG / Fragrance",
+    "sub_lines": [
+      {
+        "sub_brand": "Denver Hamilton / Black Code",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Deodorants, perfumes, talc"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Layer'r",
+    "parent_company": "Adjavis Venture",
+    "origin": "India",
+    "company_type": "FMCG / Fragrance",
+    "sub_lines": [
+      {
+        "sub_brand": "Layer'r Shot",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Deodorants"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Wottagirl",
+    "parent_company": "Adjavis Venture",
+    "origin": "India",
+    "company_type": "FMCG / Fragrance",
+    "sub_lines": [
+      {
+        "sub_brand": "Wottagirl",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Women's body splash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Skinn",
+    "parent_company": "Titan Company",
+    "origin": "India",
+    "company_type": "Fragrance",
+    "sub_lines": [
+      {
+        "sub_brand": "Skinn by Titan",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Perfumes"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Ajmal",
+    "parent_company": "Ajmal Perfumes",
+    "origin": "India/UAE",
+    "company_type": "Fragrance",
+    "sub_lines": [
+      {
+        "sub_brand": "Ajmal",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Perfumes, attars, deodorants"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bella Vita Organic",
+    "parent_company": "Idam Natural Wellness",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Bella Vita",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Perfumes, skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Villain",
+    "parent_company": "Brandman Retail",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Villain",
+        "category": "Deodorants & Fragrance",
+        "key_products": "Men's perfumes, grooming"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bombay Shaving Company",
+    "parent_company": "Bombay Shaving Company",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Bombay Shaving Company",
+        "category": "Men's Grooming",
+        "key_products": "Razors, shaving kits, trimmers, skincare, women's razors"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Ustraa",
+    "parent_company": "Happily Unmarried",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Ustraa",
+        "category": "Men's Grooming",
+        "key_products": "Beard care, deodorant, hair care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Supermax",
+    "parent_company": "Supermax Personal Care",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Supermax / Topaz / Vidyut",
+        "category": "Shaving",
+        "key_products": "Blades, razors"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Plum",
+    "parent_company": "Pureplay Skin Sciences",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Plum Goodness",
+        "category": "Skin Care",
+        "key_products": "Skincare, body care (Plum BodyLovin'), makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Pilgrim",
+    "parent_company": "Heavenly Secrets",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Pilgrim",
+        "category": "Skin Care",
+        "key_products": "Korean/Spanish-inspired skin & hair care, makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Foxtale",
+    "parent_company": "Foxtale",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Foxtale",
+        "category": "Skin Care",
+        "key_products": "Serums, sunscreens, moisturisers"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Deconstruct",
+    "parent_company": "Deconstruct",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Deconstruct",
+        "category": "Skin Care",
+        "key_products": "Actives serums, sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Re'equil",
+    "parent_company": "Re'equil",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Re'equil",
+        "category": "Skin Care",
+        "key_products": "Derm skincare, sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "WOW Skin Science",
+    "parent_company": "Body Cupid",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "WOW",
+        "category": "Skin & Hair Care",
+        "key_products": "Apple cider vinegar shampoo, face wash, oils"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Juicy Chemistry",
+    "parent_company": "Juicy Chemistry",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Juicy Chemistry",
+        "category": "Skin Care",
+        "key_products": "Organic skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Arata",
+    "parent_company": "Arata",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Arata",
+        "category": "Hair Care",
+        "key_products": "Natural hair & skin care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Vilvah",
+    "parent_company": "Vilvah",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Vilvah",
+        "category": "Bath & Body",
+        "key_products": "Goat-milk soaps, skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Traya",
+    "parent_company": "Traya Health",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Traya",
+        "category": "Hair Care",
+        "key_products": "Hair-fall treatment kits, oils, shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Perfora",
+    "parent_company": "Perfora",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Perfora",
+        "category": "Oral Care",
+        "key_products": "Electric toothbrush, toothpaste, mouthwash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Pee Safe",
+    "parent_company": "Redcliffe Hygiene",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Pee Safe",
+        "category": "Feminine Hygiene",
+        "key_products": "Toilet seat spray, pads, intimate care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Everteen",
+    "parent_company": "Wet and Dry Personal Care",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Everteen",
+        "category": "Feminine Hygiene",
+        "key_products": "Pads, intimate wash, hair removal"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Paree",
+    "parent_company": "Soft Care",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Paree",
+        "category": "Feminine Hygiene",
+        "key_products": "Sanitary pads"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "SUGAR",
+    "parent_company": "Sugar Cosmetics (Vellvette Lifestyle)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "SUGAR Cosmetics",
+        "category": "Color Cosmetics",
+        "key_products": "Lipstick, foundation, kajal"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "SUGAR POP",
+    "parent_company": "Sugar Cosmetics (Vellvette Lifestyle)",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "SUGAR POP",
+        "category": "Color Cosmetics",
+        "key_products": "Mass-price makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Swiss Beauty",
+    "parent_company": "Swiss Beauty",
+    "origin": "India",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Swiss Beauty",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Insight",
+    "parent_company": "Insight Cosmetics",
+    "origin": "India",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Insight",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Blue Heaven",
+    "parent_company": "Blue Heaven Cosmetics",
+    "origin": "India",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Blue Heaven",
+        "category": "Color Cosmetics",
+        "key_products": "Mass makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Colorbar",
+    "parent_company": "Colorbar Cosmetics",
+    "origin": "India",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Colorbar",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup, nail colour"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Faces Canada",
+    "parent_company": "Faces Canada",
+    "origin": "India",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Faces Canada",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Renee",
+    "parent_company": "Renee Cosmetics",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Renee",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup, perfume"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Mars",
+    "parent_company": "Mars Cosmetics",
+    "origin": "India",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Mars",
+        "category": "Color Cosmetics",
+        "key_products": "Mass makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Recode",
+    "parent_company": "Recode Studios",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Recode",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Cetaphil",
+    "parent_company": "Galderma",
+    "origin": "Switzerland (MNC)",
+    "company_type": "Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "Cetaphil / Cetaphil Baby",
+        "category": "Skin Care",
+        "key_products": "Gentle cleanser, moisturiser, sunscreen"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bioderma",
+    "parent_company": "NAOS",
+    "origin": "France (MNC)",
+    "company_type": "Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "Bioderma Sensibio / Photoderm",
+        "category": "Skin Care",
+        "key_products": "Micellar water, sunscreen"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Sebamed",
+    "parent_company": "Sebapharma (via USV)",
+    "origin": "Germany (MNC)",
+    "company_type": "Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "Sebamed / Sebamed Baby",
+        "category": "Skin Care",
+        "key_products": "pH 5.5 cleansers, baby care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "La Shield",
+    "parent_company": "Glenmark Pharmaceuticals",
+    "origin": "India",
+    "company_type": "Pharma / Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "La Shield",
+        "category": "Skin Care",
+        "key_products": "Sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Scalpe",
+    "parent_company": "Glenmark Pharmaceuticals",
+    "origin": "India",
+    "company_type": "Pharma / Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "Scalpe",
+        "category": "Hair Care",
+        "key_products": "Anti-dandruff shampoo"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Suncros",
+    "parent_company": "Sun Pharma",
+    "origin": "India",
+    "company_type": "Pharma / Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "Suncros",
+        "category": "Skin Care",
+        "key_products": "Sunscreens"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Venusia",
+    "parent_company": "Dr. Reddy's Laboratories",
+    "origin": "India",
+    "company_type": "Pharma / Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "Venusia",
+        "category": "Skin Care",
+        "key_products": "Moisturisers, lotion"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Acnestar",
+    "parent_company": "Mankind Pharma",
+    "origin": "India",
+    "company_type": "Pharma / Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "Acnestar",
+        "category": "Skin Care",
+        "key_products": "Anti-acne gel, face wash"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Manforce",
+    "parent_company": "Mankind Pharma",
+    "origin": "India",
+    "company_type": "Pharma / Derma",
+    "sub_lines": [
+      {
+        "sub_brand": "Manforce",
+        "category": "Sexual Wellness",
+        "key_products": "Condoms"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Moods",
+    "parent_company": "HLL Lifecare",
+    "origin": "India (Govt PSU)",
+    "company_type": "Pharma",
+    "sub_lines": [
+      {
+        "sub_brand": "Moods",
+        "category": "Sexual Wellness",
+        "key_products": "Condoms"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Skore",
+    "parent_company": "TTK Healthcare",
+    "origin": "India",
+    "company_type": "FMCG",
+    "sub_lines": [
+      {
+        "sub_brand": "Skore",
+        "category": "Sexual Wellness",
+        "key_products": "Condoms"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Sofy",
+    "parent_company": "Unicharm India",
+    "origin": "Japan (MNC)",
+    "company_type": "Hygiene",
+    "sub_lines": [
+      {
+        "sub_brand": "Sofy Antibacteria / Bodyfit",
+        "category": "Feminine Hygiene",
+        "key_products": "Sanitary pads"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "MamyPoko",
+    "parent_company": "Unicharm India",
+    "origin": "Japan (MNC)",
+    "company_type": "Hygiene",
+    "sub_lines": [
+      {
+        "sub_brand": "MamyPoko Pants",
+        "category": "Baby Care",
+        "key_products": "Diapers"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Huggies",
+    "parent_company": "Kimberly-Clark",
+    "origin": "USA (MNC)",
+    "company_type": "Hygiene",
+    "sub_lines": [
+      {
+        "sub_brand": "Huggies",
+        "category": "Baby Care",
+        "key_products": "Diapers, wipes"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kotex",
+    "parent_company": "Kimberly-Clark",
+    "origin": "USA (MNC)",
+    "company_type": "Hygiene",
+    "sub_lines": [
+      {
+        "sub_brand": "Kotex",
+        "category": "Feminine Hygiene",
+        "key_products": "Sanitary pads"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Chicco",
+    "parent_company": "Artsana (Chicco)",
+    "origin": "Italy (MNC)",
+    "company_type": "Baby Care",
+    "sub_lines": [
+      {
+        "sub_brand": "Chicco",
+        "category": "Baby Care",
+        "key_products": "Baby lotion, shampoo, oil, wipes"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Mother Sparsh",
+    "parent_company": "Mother Sparsh",
+    "origin": "India",
+    "company_type": "D2C / New-age",
+    "sub_lines": [
+      {
+        "sub_brand": "Mother Sparsh",
+        "category": "Baby Care",
+        "key_products": "Water wipes, baby care"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Mee Mee",
+    "parent_company": "Me N Moms",
+    "origin": "India",
+    "company_type": "Baby Care",
+    "sub_lines": [
+      {
+        "sub_brand": "Mee Mee",
+        "category": "Baby Care",
+        "key_products": "Baby lotion, shampoo, wipes"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bigen",
+    "parent_company": "Hoyu",
+    "origin": "Japan (MNC)",
+    "company_type": "Hair Colour",
+    "sub_lines": [
+      {
+        "sub_brand": "Bigen",
+        "category": "Hair Colour",
+        "key_products": "Hair colour, powder dye"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Revlon",
+    "parent_company": "Revlon",
+    "origin": "USA (MNC)",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Revlon ColorStay / Super Lustrous",
+        "category": "Color Cosmetics",
+        "key_products": "Makeup"
+      },
+      {
+        "sub_brand": "Revlon Colorsilk",
+        "category": "Hair Colour",
+        "key_products": "Hair colour"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Innisfree",
+    "parent_company": "Amorepacific",
+    "origin": "South Korea (MNC)",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Innisfree",
+        "category": "Skin Care",
+        "key_products": "K-beauty skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Laneige",
+    "parent_company": "Amorepacific",
+    "origin": "South Korea (MNC)",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Laneige",
+        "category": "Skin Care",
+        "key_products": "Lip sleeping mask, skincare"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "COSRX",
+    "parent_company": "Amorepacific",
+    "origin": "South Korea (MNC)",
+    "company_type": "Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "COSRX",
+        "category": "Skin Care",
+        "key_products": "K-beauty actives"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Charlotte Tilbury",
+    "parent_company": "Puig",
+    "origin": "Spain (MNC)",
+    "company_type": "Prestige Beauty",
+    "sub_lines": [
+      {
+        "sub_brand": "Charlotte Tilbury",
+        "category": "Color Cosmetics",
+        "key_products": "Luxury makeup"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "The Body Shop",
+    "parent_company": "The Body Shop (India franchise)",
+    "origin": "UK",
+    "company_type": "Beauty Retail Brand",
+    "sub_lines": [
+      {
+        "sub_brand": "The Body Shop",
+        "category": "Bath & Body",
+        "key_products": "Body butters, skincare, fragrance"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Bath & Body Works",
+    "parent_company": "Bath & Body Works (Apparel Group licence)",
+    "origin": "USA",
+    "company_type": "Beauty Retail Brand",
+    "sub_lines": [
+      {
+        "sub_brand": "Bath & Body Works",
+        "category": "Bath & Body",
+        "key_products": "Body mists, lotions, candles"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Kimirica",
+    "parent_company": "Kimirica",
+    "origin": "India",
+    "company_type": "Premium",
+    "sub_lines": [
+      {
+        "sub_brand": "Kimirica",
+        "category": "Bath & Body",
+        "key_products": "Luxury bath & body"
+      }
+    ]
+  },
+  {
+    "umbrella_brand": "Soulflower",
+    "parent_company": "Soulflower",
+    "origin": "India",
+    "company_type": "Natural",
+    "sub_lines": [
+      {
+        "sub_brand": "Soulflower",
+        "category": "Bath & Body",
+        "key_products": "Handmade soaps, oils"
+      }
+    ]
+  }
+]

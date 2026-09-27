@@ -1,0 +1,179 @@
+umbrella_brand,parent_company,website,linkedin_company_url,confidence,notes
+Dabur Red,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-red-paste; no dedicated brand domain, using parent Dabur India official site"
+Dabur Herb'l,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-herbl; no dedicated brand domain, using parent Dabur India official site"
+Babool,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-babool; no dedicated brand domain, using parent Dabur India official site"
+Meswak,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-meswak; no dedicated brand domain, using parent Dabur India official site"
+Dabur Amla,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-amla-hair-oil; no dedicated global domain, using parent Dabur India official site"
+Dabur Almond,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-almond; no dedicated brand domain, using parent Dabur India official site"
+Dabur Sarson Amla,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"variant of Dabur Amla hair oil line; no dedicated domain, using parent Dabur India official site (also on daburinternational.com regionally)"
+Vatika,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand pages at dabur.com/our-brand/vatika-*; also regional Vatika Naturals sites via daburinternational.com, but no single dedicated global domain, using parent Dabur India site"
+Anmol,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-anmol; no dedicated brand domain, using parent Dabur India official site"
+Gulabari,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-gulabari; no dedicated brand domain, using parent Dabur India official site"
+Fem,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/fem; no dedicated brand domain, using parent Dabur India official site"
+Oxy Life,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/oxy-bleach; no dedicated brand domain, using parent Dabur India official site"
+Dabur Lal Tail,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"brand page at dabur.com/our-brand/dabur-lal-tail; no dedicated brand domain, using parent Dabur India official site"
+Dabur Baby,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"baby care range page at dabur.com/baby-care; no dedicated brand domain, using parent Dabur India official site"
+Sesa,Dabur India,https://www.sesacare.com,https://in.linkedin.com/company/sesa-care,dedicated-site,Sesa Care Pvt Ltd has its own dedicated site sesacare.com; verified via WebFetch as official Sesa Ayurvedic hair care site; Dabur India announced a proposed merger/acquisition of Sesa Care in 2024
+Dermoviva,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"no single dedicated global domain found; brand pages hosted across daburinternational.com regional sites and dabur-usa.com, using parent Dabur India official site"
+Dabur Uveda,Dabur India,https://www.dabur.com,https://in.linkedin.com/company/dabur-india-limited,parent-site,"no dedicated Uveda domain found; product info hosted on dabur.com/skin-care and press releases, using parent Dabur India official site"
+Parachute,Marico,https://www.parachutecoconutoil.marico.in/,https://in.linkedin.com/company/maricolimited,dedicated-site,verified via WebFetch as official Parachute Coconut Oil brand site with Marico branding and links to marico.com; LinkedIn used is parent Marico Limited page as no separate Parachute company page found
+Parachute Advansed,Marico,https://www.parachuteadvansed.com/,,dedicated-site,"Verified via fetch; title ""Parachute Advansed Coconut Oil for All Hair Types & Problems"""
+Nihar Naturals,Marico,https://www.niharnaturals.com/,,dedicated-site,Verified via fetch; page content confirms Nihar Naturals hair oil brand
+Hair & Care,Marico,https://marico.com/india/brands,,parent-site,"Dedicated domain hairandcareoilinserum.marico.in now 301-redirects to mylivonmysalon.com (a different Marico brand's site), so no longer usable; used Marico's own site instead"
+Livon,Marico,https://mylivonmysalon.com/,,dedicated-site,"Verified via fetch; title ""Livon Hair Serum for Women - Hair Care & Hair Styling Products | Livon"""
+Set Wet,Marico,https://www.setwet.com/,,dedicated-site,"Verified via fetch; title ""Set Wet"""
+Mediker,Marico,https://marico.com/india/brands,,parent-site,No dedicated Mediker website found; used parent Marico site
+Coco Soul,Marico,https://marico.com/india/brands,,parent-site,"Former dedicated domain cocosoul.in now serves a Saffola-branded page (canonical URL saffola.in), so it no longer represents Coco Soul; used parent Marico site instead"
+Beardo,Marico,https://beardo.in/,,dedicated-site,"Verified via fetch; title ""Men's Grooming Products - Beard, Hair & Fragrance - Beardo India"""
+Just Herbs,Marico,https://www.justherbs.in/,,dedicated-site,Verified via fetch; title confirms Just Herbs brand
+Pure Sense,Marico,https://marico.com/brands/pure-sense,,parent-site,Brand page is hosted on Marico's own corporate site rather than a separate dedicated domain
+Plix,Marico,https://www.plixlife.com/,,dedicated-site,Verified via fetch; page confirms Plix / The Plant Fix brand
+Cinthol,Godrej Consumer Products,https://www.godrejcp.com/,,parent-site,No dedicated Cinthol domain confirmed via search; used parent GCPL site
+Godrej No.1,Godrej Consumer Products,https://www.godrejcp.com/,,parent-site,No dedicated Godrej No.1 domain found; used parent GCPL site
+Godrej Protekt,Godrej Consumer Products,https://www.godrejprotekt.com/,,dedicated-site,"Domain surfaced in search with matching title (""Godrej Protekt Products: Personal Hygiene..."") and is owned by GCPL; automated fetch was blocked by bot protection (timeout/404 on repeated tries) so full content could not be re-verified directly"
+Godrej Magic,Godrej Consumer Products,,,not-found,not found
+Godrej Expert,Godrej Consumer Products,https://www.godrejcp.com/,,parent-site,Search-suggested domain godrejcolorexpert.com returned HTTP 404 (broken/discontinued); used parent GCPL site instead
+Nupur,Godrej Consumer Products,https://www.godrejcp.com/,,parent-site,"Former dedicated domain godrejnupur.com now resolves to an unrelated online gambling site (squatted/repurposed domain), confirmed via fetch; used parent GCPL site instead"
+Godrej Professional,Godrej Consumer Products,https://www.godrejprofessional.com/,,dedicated-site,"Domain surfaced in search with matching title (""Buy Hair Care & Styling Products | Official Godrej Professional Site"") and multiple legitimate sub-pages/social handles; automated fetch was blocked by bot protection (403/timeout) so full content could not be re-verified directly"
+Park Avenue,Godrej Consumer Products,https://www.godrejcp.com/,,parent-site,dedicated site parkavenuegrooming.com is currently unreachable (connection refused); using Godrej Consumer Products corporate site
+KS / Kamasutra,Godrej Consumer Products,https://kamasutracondoms.in/,,dedicated-site,verified via WebFetch; footer credits Godrej Ltd as owner
+Boroplus,Emami,https://boroplushealthyskin.com/,,dedicated-site,verified via WebFetch; footer credits Emami Limited
+Navratna,Emami,https://www.emamiltd.in/brands/navratna/,,parent-site,"brand page on Emami's own corporate site, no separate dedicated domain found"
+Kesh King,Emami,https://www.keshking.com/,,dedicated-site,verified via WebFetch; footer credits Emami Limited
+Emami 7 Oils in One,Emami,https://www.emamiltd.in/brands/7-oils-in-one/,,parent-site,"brand page on Emami's own corporate site, no separate dedicated domain found"
+Emami Smart and Handsome,Emami,https://www.emamiltd.in/brands/smart-and-handsome/,,parent-site,"brand page on Emami's own corporate site, no separate dedicated domain found"
+Dermicool,Emami,https://www.emamiltd.in/brands/dermicool-prickly-heat-powder/,,parent-site,verified via WebFetch; page identifies as Dermicool - Emami
+The Man Company,Emami,https://themancompany.com/,,dedicated-site,verified via WebFetch; footer credits Helios Lifestyle Limited (Emami-backed) as owner
+Brillare,Emami,https://www.brillare.co.in,,dedicated-site,verified via WebFetch; linked from Emami's brand page as Brillare's dedicated site
+Creme 21,Emami,https://creme21.in/,,dedicated-site,"verified via WebFetch; linked from Emami's brand page, distributed by Emami in India"
+Fiama,ITC Limited,https://www.fiama.in/,,dedicated-site,verified via WebFetch; footer links to itcportal.com
+Vivel,ITC Limited,https://www.vivel.in/,,dedicated-site,verified via WebFetch; footer credits ITC / itcportal.com
+Superia,ITC Limited,https://itcportal.com/itc-businesses/fmcg/Personal-care.html,,parent-site,"no working dedicated domain found (superia.in, superia.com unreachable); brand confirmed listed on ITC's personal care page"
+Engage,ITC Limited,https://www.engageshop.in/,,dedicated-site,verified via WebFetch; page references ITC Limited caution notice
+Savlon,ITC Limited,https://www.savlon.in,,dedicated-site,"verified via WebFetch; footer copyright ITC Limited, links to itcportal.com"
+Charmis,ITC Limited,https://itcportal.com/itc-businesses/fmcg/Personal-care.html,,parent-site,"no working dedicated domain found (charmis.in, charmis.com, mycharmis.com unreachable); brand confirmed listed on ITC's personal care page"
+Dermafique,ITC Limited,https://www.dermafique.com/,,dedicated-site,"verified via WebFetch; footer links to itcportal.com, page title references ITC Dermafique"
+Santoor,Wipro Consumer Care & Lighting,https://www.santoorstayyoung.com/,,dedicated-site,Dedicated consumer site for Santoor verified; also has a page on parent wiproconsumercare.com
+Chandrika,Wipro Consumer Care & Lighting,https://wiproconsumercare.com/chandrika/,,parent-site,No verified dedicated Chandrika domain in Wipro's control; chandrikasoaps.com is an unrelated/legacy SV Products site and was not used
+Yardley London,Wipro Consumer Care & Lighting,https://yardleyoflondon.com/,https://www.linkedin.com/company/yardley-india,dedicated-site,Verified dedicated India site; owned by Wipro since 2009
+Enchanteur,Wipro Consumer Care & Lighting,https://enchanteur.in/,https://linkedin.com/company/enchanteur,dedicated-site,Verified dedicated India e-commerce site; brand is under Wipro Unza
+Aramusk,Wipro Consumer Care & Lighting,https://wiproconsumercare.com/aramusk/,,parent-site,No dedicated Aramusk domain found; using verified brand page on parent Wipro Consumer Care site
+Safewash,Wipro Consumer Care & Lighting,https://wiproconsumercare.com/safewash/,,parent-site,Dedicated domain wiprosafewash.com returned server error on verification attempts; used verified brand page on parent Wipro Consumer Care site instead
+Himalaya,Himalaya Wellness,https://himalayawellness.in/,https://in.linkedin.com/company/himalayawellnesscompany,dedicated-site,Verified official India store site for Himalaya Wellness
+Himalaya Baby,Himalaya Wellness,https://himalayababycare.com/,,dedicated-site,Verified dedicated Himalaya Babycare site
+Himalaya MEN,Himalaya Wellness,https://himalayawellness.in/collections/mens-care,,parent-site,No dedicated Himalaya MEN domain found; using men's care collection page on parent himalayawellness.in site
+Dant Kanti,Patanjali Ayurved,https://www.patanjaliayurved.net/category/dant-kanti/22,,parent-site,No dedicated Dant Kanti domain; sold via parent patanjaliayurved.net category page
+Kesh Kanti,Patanjali Ayurved,https://www.patanjaliayurved.net/category/hair-care/24,,parent-site,No dedicated Kesh Kanti domain; sold via parent patanjaliayurved.net hair care category page
+Saundarya,Patanjali Ayurved,https://www.patanjaliayurved.net/category/skin-care/20,,parent-site,No dedicated Saundarya domain; sold via parent patanjaliayurved.net skin care category page
+Patanjali,Patanjali Ayurved,https://www.patanjaliayurved.net/,https://in.linkedin.com/company/patanjaliayurved,dedicated-site,Verified official Patanjali Ayurved Limited site
+Mamaearth,Honasa Consumer,https://mamaearth.in/,https://in.linkedin.com/company/mama-earth-in,dedicated-site,Verified official Mamaearth site owned by Honasa Consumer
+The Derma Co,Honasa Consumer,https://thedermaco.com/,https://www.linkedin.com/company/the-derma-co,dedicated-site,Verified official The Derma Co India site owned by Honasa Consumer
+Aqualogica,Honasa Consumer,https://aqualogica.in/,,dedicated-site,Verified official Aqualogica site owned by Honasa Consumer; LinkedIn page found but URL encoding was ambiguous (trademark symbol) so left blank to avoid a bad link
+Dr. Sheth's,Honasa Consumer,https://www.drsheths.com/,https://in.linkedin.com/company/drsheths,dedicated-site,Verified official Dr. Sheth's site owned by Honasa Consumer
+BBlunt,Honasa Consumer,https://bblunt.com/,https://in.linkedin.com/company/bblunt,dedicated-site,Verified official BBlunt site owned by Honasa Consumer
+Staze,Honasa Consumer,https://www.stazebeauty.com,https://www.linkedin.com/company/staze,dedicated-site,"verified via WebFetch title ""Staze 9to9 - Staze Beauty"""
+Nykaa Cosmetics,FSN E-Commerce (Nykaa),https://www.nykaa.com,,parent-site,house brand sold on Nykaa's own site; no separate dedicated domain found
+Kay Beauty,FSN E-Commerce (Nykaa),https://www.kaybeauty.com,https://www.linkedin.com/company/kay-beauty,dedicated-site,verified via WebFetch; co-created with Katrina Kaif and Nykaa
+Nykaa SKINRX,FSN E-Commerce (Nykaa),https://www.nykaa.com,,parent-site,brand store hosted within nykaa.com; no separate dedicated domain found
+Nykaa Naturals,FSN E-Commerce (Nykaa),https://www.nykaa.com,,parent-site,brand page hosted within nykaa.com; no separate dedicated domain found
+Nykaa Wanderlust,FSN E-Commerce (Nykaa),https://www.nykaawanderlust.com,,dedicated-site,"verified via WebFetch title ""Nykaa Wanderlust""; no dedicated LinkedIn company page found"
+Dot & Key,FSN E-Commerce (Nykaa),https://www.dotandkey.com,https://in.linkedin.com/company/dot-key-skincare,dedicated-site,verified via WebFetch; Nykaa holds majority stake
+Kica,FSN E-Commerce (Nykaa),https://www.kicaactive.com,https://in.linkedin.com/company/kica-active,dedicated-site,activewear brand acquired by Nykaa Fashion; dedicated domain confirmed via search
+Earth Rhythm,FSN E-Commerce (Nykaa),https://earthrhythm.com,https://www.linkedin.com/company/earth-rhythm,dedicated-site,"verified via WebFetch title ""Earth Rhythm""; Nykaa holds majority stake"
+MyGlamm,Good Glamm Group,,https://in.linkedin.com/company/myglamm,not-found,myglamm.com now only shows a Corporate Insolvency Resolution Process (CIRP) notice for Sanghvi Beauty and Technologies Pvt Ltd; not a working brand site
+POPxo,Good Glamm Group,,https://in.linkedin.com/company/popxo,not-found,popxo.com failed to resolve/load via WebFetch and browser tools despite multiple attempts; could not verify a working site
+St. Botanica,Good Glamm Group,,https://in.linkedin.com/company/st-botanica,not-found,stbotanica.com is a parked/expired GoDaddy domain (not the brand's actual site); no other verified official domain found
+Organic Harvest,Good Glamm Group,,https://in.linkedin.com/company/organic-harvest,not-found,organicharvest.in failed to resolve/load via WebFetch and browser tools; site reported to be under maintenance; could not verify a working site
+The Moms Co,Good Glamm Group,https://themomsco.com,https://in.linkedin.com/company/the-moms-co,dedicated-site,"verified via WebFetch title ""The Moms Co. - Natural Baby Care & Mom Care Products"""
+Sirona,Good Glamm Group,https://thesirona.com,https://in.linkedin.com/company/sironahygiene,dedicated-site,"verified via WebFetch title ""Sirona | India's Most Innovative Period Care Brand"""
+mCaffeine,Pep Technologies,https://mcaffeine.com,,dedicated-site,"verified via WebFetch title ""India's First Caffeinated Brand For Skin & Hair Care Products - mCaffeine"""
+Hyphen,Pep Technologies,https://letshyphen.com,,dedicated-site,"verified via WebFetch/Google search; Hyphen is Kriti Sanon's skincare brand built with Pep Technologies (parent of mCaffeine), confirmed via Google search results (Entrackr, GoKwik case study)"
+Man Matters,Mosaic Wellness,https://manmatters.com,,dedicated-site,"verified via WebFetch title ""Man Matters: Hair Loss, Beard, Skin & Men's Health"""
+Be Bodywise,Mosaic Wellness,https://bebodywise.com/,https://www.linkedin.com/company/be-bodywise,dedicated-site,
+Little Joys,Mosaic Wellness,https://ourlittlejoys.com/,,dedicated-site,
+Bare Anatomy,Innovist,https://innovist.com/,https://in.linkedin.com/company/innovist,parent-site,"Innovist hosts Bare Anatomy as a store/collection; no separate bareanatomy.com verified, using parent site"
+Chemist at Play,Innovist,https://innovist.com/,https://in.linkedin.com/company/innovist,parent-site,Innovist hosts Chemist at Play as a collection; no separate dedicated domain verified
+Sunscoop,Innovist,https://innovist.com/,https://in.linkedin.com/company/innovist,parent-site,Innovist hosts SunScoop as a collection; no separate dedicated domain verified
+Bajaj Almond Drops,Bajaj Consumer Care,https://bajajconsumercare.com/almond-hair-oil,https://in.linkedin.com/company/bajaj-consumer-care,parent-site,Dedicated domain bajajalmonddrops.in did not resolve/connect; using parent brand page
+Bajaj,Bajaj Consumer Care,https://bajajconsumercare.com/,https://in.linkedin.com/company/bajaj-consumer-care,dedicated-site,Bajaj brand is the corporate identity itself
+Bajaj Nomarks,Bajaj Consumer Care,https://bajajconsumercare.com/no-marks,https://in.linkedin.com/company/bajaj-consumer-care,parent-site,bajajnomarks.com redirects to this parent brand page
+Banjara's,Bajaj Consumer Care,https://banjaras.co.in/,,dedicated-site,
+Chik,CavinKare,https://www.cavinkare.com/,https://in.linkedin.com/company/cavinkare,parent-site,No dedicated Chik domain found; hosted under CavinKare corporate site
+Meera,CavinKare,https://www.cavinkare.com/,https://in.linkedin.com/company/cavinkare,parent-site,No dedicated Meera domain found; hosted under CavinKare corporate site
+Karthika,CavinKare,https://www.cavinkare.com/,https://in.linkedin.com/company/cavinkare,parent-site,No dedicated Karthika domain found; hosted under CavinKare corporate site
+Nyle,CavinKare,https://www.cavinkare.com/,https://in.linkedin.com/company/cavinkare,parent-site,No dedicated Nyle domain found; hosted under CavinKare corporate site
+Indica,CavinKare,https://www.cavinkare.com/,https://in.linkedin.com/company/cavinkare,parent-site,Guessed dedicated domain indicaeasyhaircolor.com did not resolve; using parent site
+Spinz,CavinKare,https://www.cavinkare.com/,https://in.linkedin.com/company/cavinkare,parent-site,No dedicated Spinz domain found; hosted under CavinKare corporate site
+Fairever,CavinKare,https://www.cavinkare.com/,https://in.linkedin.com/company/cavinkare,parent-site,No dedicated Fairever domain found; hosted under CavinKare corporate site
+Raaga Professional,CavinKare,https://www.raagaprofessional.com/,https://in.linkedin.com/company/cavinkare,dedicated-site,
+Margo,Jyothy Labs,https://www.jyothylabs.com/,,parent-site,Guessed dedicated domain margosoap.com did not resolve; using parent site
+Neem,Jyothy Labs,https://www.jyothylabs.com/products/margo/originalneem/,,parent-site,Neem/Margo has no dedicated domain; page on parent Jyothy Labs site verified via WebFetch
+Fa,Jyothy Labs,https://www.jyothylabs.com/products/fa/,,parent-site,Fa India sold under Jyothy Labs; global fa.com/int.fa.com exists but is not India-specific; used Jyothy Labs page
+Everyuth,Zydus Wellness,https://www.everyuth.com/,,dedicated-site,Verified via WebFetch: page confirms Everyuth Naturals by Zydus Wellness Ltd
+Nycil,Zydus Wellness,https://zyduswellness.com/brands/india/nycil/,,parent-site,Nycil has no dedicated domain; hosted on parent Zydus Wellness site
+Medimix,Cholayil (AVA Group),https://www.cholayil.com/,,parent-site,mymedimix.com exists but returned 403 on verification fetch; used parent Cholayil site verified via WebFetch as home of Medimix
+Krishna Tulasi,Cholayil (AVA Group),https://www.cholayil.com/,,parent-site,No dedicated site found for Krishna Tulasi; brand owned by Cholayil Private Limited
+Vicco,Vicco Laboratories,,,not-found,"viccolabs.com found via search but WebFetch showed footer 'Managed By: AADYA ENTERPRISES / Crafted by Togglehead' indicating third-party reseller site, not confirmed as official company-operated site"
+Boroline,GD Pharmaceuticals,https://boroline.com/,,dedicated-site,"Verified via WebFetch: G.D. Pharmaceuticals Pvt. Ltd. branding, contact feedback@boroline.com"
+Keo Karpin,Dey's Medical,https://keokarpin.com/,,dedicated-site,"Verified via WebFetch: official Dey's Medical brand site, contact care@keokarpin.com"
+Anchor,Anchor Health & Beauty Care,https://www.anchoruniversal.com/,,dedicated-site,anchorglobal.net redirects to anchoruniversal.com; verified via WebFetch as Anchor Consumer Products Pvt Ltd site
+Nirma,Nirma,https://nirma.co.in/,,dedicated-site,Verified via WebFetch as official Nirma Limited corporate site; no official LinkedIn company page confirmed via search
+Streax,Hygienic Research Institute,https://www.hriindia.com/,,parent-site,streax.in failed SSL certificate verification (hostname mismatch); used parent HRI site verified via WebFetch which prominently features Streax brand
+Lotus Herbals,Lotus Herbals,https://www.lotus.in/,https://in.linkedin.com/company/lotus-herbals,dedicated-site,Verified via WebFetch as official Lotus Herbals site
+Lotus Make-up,Lotus Herbals,https://www.lotus.in/pages/makeup,https://in.linkedin.com/company/lotus-herbals,dedicated-site,"Makeup line hosted on lotus.in, official Lotus Herbals domain"
+Lotus Professional,Lotus Herbals,https://lotus-professional.com/,,dedicated-site,Verified via WebFetch: contact email procare@lotusherbals.com confirms it is Lotus Herbals' professional division site
+Lotus Organics+,Lotus Herbals,https://www.lotus.in/pages/organics,,dedicated-site,"Organics+ line hosted on lotus.in, official Lotus Herbals domain"
+Lotus Botanicals,Lotus Herbals,https://www.lotusbotanicals.com/,,dedicated-site,Verified via WebFetch: footer states 'Manufactured by: Lotus Herbals Color Cosmetics / Marketed by: Lotus Herbals Pvt. Ltd.'
+Biotique,Biotique,https://www.biotique.com/,https://in.linkedin.com/company/biotique-advanced-ayurveda,dedicated-site,Verified via WebFetch: footer credits Bio Veda Action Research Co. as brand owners of Biotique
+VLCC,VLCC Personal Care,https://www.vlccproducts.com/,https://in.linkedin.com/company/vlcc-health-care-ltd.,dedicated-site,verified via WebFetch - official VLCC personal care products site
+Shahnaz Husain,Shahnaz Husain Group,https://shahnaz.in/,,dedicated-site,verified via WebFetch - official site; multiple fragmented LinkedIn company pages found so none included with confidence
+Jovees,Jovees Herbal,https://www.jovees.com/,https://in.linkedin.com/company/jovees-herbal,dedicated-site,verified via WebFetch - official Jovees Herbal site
+Khadi Natural,Khadi Natural,https://www.khadinatural.com/,https://in.linkedin.com/company/khadinatural,dedicated-site,"verified via WebFetch - official site; note there are several similarly-named lookalike domains (khadibeauty.com, khadiorganique.com, khadiindia.gov.in) that are distinct entities"
+Sri Sri Tattva,Sri Sri Tattva,https://www.srisritattva.com/,https://in.linkedin.com/company/srisritattva,dedicated-site,verified via WebFetch - official Sri Sri Tattva site
+Kama Ayurveda,Kama Ayurveda (Puig stake),https://www.kamaayurveda.com/in,https://in.linkedin.com/company/kama-ayurveda,dedicated-site,verified via WebFetch - official Kama Ayurveda site owned by Puig
+Fogg,Vini Cosmetics,https://www.viniinternational.com/,,parent-site,verified via WebFetch - this is Vini International's (parent Vini Cosmetics) site featuring Fogg as one of its brand lines; no dedicated Fogg-only domain found
+Wild Stone,McNroe Consumer Products,https://mcnroe.com/wild-stone/,https://in.linkedin.com/company/mcnroe-consumer-products-pvt-ltd,parent-site,"verified via WebFetch - Wild Stone brand page hosted on parent McNroe's corporate domain, no dedicated Wild Stone domain found"
+Denver,Vanesa Care,https://denverformen.com/,https://in.linkedin.com/company/vanesa-care-pvt-ltd,dedicated-site,verified via WebFetch - official Denver for Men site operated by Hamilton Sciences Pvt Ltd for Vanesa Care
+Layer'r,Adjavis Venture,https://www.layerr.com/,https://in.linkedin.com/company/adjavis-venture-limited,dedicated-site,verified via WebFetch - official Layer'r site by Adjavis Venture Limited
+Wottagirl,Adjavis Venture,https://wottagirl.com/,,dedicated-site,verified via WebFetch - official Layer'r Wottagirl site by Adjavis Venture Limited
+Skinn,Titan Company,https://www.skinn.in/,https://in.linkedin.com/company/skinn-by-titan-perfumes,dedicated-site,"verified via WebFetch - official Skinn by Titan site, owned and operated by Titan Company Limited"
+Bella Vita Organic,Idam Natural Wellness,https://bellavitaorganic.com/,,dedicated-site,"verified via WebFetch - official site, footer confirms Bella Vita Organic (IDAM Natural Wellness Pvt. Ltd.)"
+Villain,Brandman Retail,,,not-found,"not found - could not verify a real official site for this brand/parent combination; Brandman Retail's own site (brandmanretail.com) is an unrelated footwear/apparel distributor, and candidate Villain grooming domains tried did not resolve or did not match"
+Bombay Shaving Company,Bombay Shaving Company,https://www.bombayshavingcompany.com/,https://in.linkedin.com/company/bombay-shaving-company,dedicated-site,verified via WebFetch - official Bombay Shaving Company site
+Ustraa,Happily Unmarried,https://www.ustraa.com/,https://in.linkedin.com/company/happily-unmarried-marketing-pvt-ltd-,dedicated-site,verified via WebFetch - official Ustraa site operated by Happily Unmarried Marketing Pvt Ltd
+Supermax,Supermax Personal Care,,,not-found,"not found - candidate domains (supermax.in, supermaxrazors.com, supermaxpersonalcare.com) either did not resolve or returned no verifiable content"
+Plum,Pureplay Skin Sciences,https://plumgoodness.com/,,dedicated-site,verified via WebFetch - official Plum Goodness site; parent company Pureplay Skin Sciences not explicitly named on-site but brand match confirmed
+Pilgrim,Heavenly Secrets,https://discoverpilgrim.com/,https://www.linkedin.com/company/discover-pilgrim,dedicated-site,
+Foxtale,Foxtale,https://foxtale.in/,https://www.linkedin.com/company/foxtale-skin,dedicated-site,
+Deconstruct,Deconstruct,https://thedeconstruct.in/,https://www.linkedin.com/company/the-deconstruct,dedicated-site,
+Re'equil,Re'equil,https://www.reequil.com/,https://www.linkedin.com/company/reequilindia,dedicated-site,
+WOW Skin Science,Body Cupid,https://www.wowskinscience.com/,https://www.linkedin.com/company/buywow,dedicated-site,
+Juicy Chemistry,Juicy Chemistry,https://juicychemistry.com/,https://www.linkedin.com/company/juicy-chemistry,dedicated-site,
+Arata,Arata,https://www.arata.in/,https://www.linkedin.com/company/aratazerochemicals,dedicated-site,
+Vilvah,Vilvah,https://www.vilvah.com/,https://www.linkedin.com/company/vilvah,dedicated-site,
+Traya,Traya Health,https://traya.health/,https://www.linkedin.com/company/trayahealth,dedicated-site,
+Perfora,Perfora,https://perforacare.com/,https://www.linkedin.com/company/perforacare,dedicated-site,
+Pee Safe,Redcliffe Hygiene,https://www.peesafe.com/,https://www.linkedin.com/company/peesafe,dedicated-site,
+Everteen,Wet and Dry Personal Care,https://everteen.in/,,dedicated-site,
+Paree,Soft Care,https://soothehealthcare.com/,,parent-site,brand's own products sold under parent Soothe Healthcare's site; no dedicated Paree domain found
+SUGAR,Sugar Cosmetics (Vellvette Lifestyle),https://www.sugarcosmetics.com/,,dedicated-site,
+SUGAR POP,Sugar Cosmetics (Vellvette Lifestyle),https://www.sugarcosmetics.com/collections/sugar-pop,,parent-site,SUGAR POP is a product line/collection on parent SUGAR Cosmetics' site; no separate dedicated domain found
+Swiss Beauty,Swiss Beauty,https://swissbeauty.in/,,dedicated-site,
+Insight,Insight Cosmetics,https://www.insightcosmetics.in/,,dedicated-site,
+Blue Heaven,Blue Heaven Cosmetics,https://esmeconsumer.in/blue-heaven,,parent-site,"Blue Heaven's own domain (blueheavencosmetics.in) now redirects to parent Esme Consumer's site, which lists Blue Heaven as one of its brands"
+Colorbar,Colorbar Cosmetics,https://colorbarcosmetics.com/,https://in.linkedin.com/company/colorbarcosmetics,dedicated-site,
+Faces Canada,Faces Canada,https://www.facescanada.com/,https://in.linkedin.com/company/faces-cosmetics-india-ltd,dedicated-site,
+Renee,Renee Cosmetics,https://www.reneecosmetics.in/,https://in.linkedin.com/company/renee-cosmetics,dedicated-site,
+Mars,Mars Cosmetics,https://marscosmetics.in/,https://in.linkedin.com/company/mars-cosmetics,dedicated-site,
+Recode,Recode Studios,https://shop.recodestudios.com/,https://in.linkedin.com/company/recodestudios,dedicated-site,
+La Shield,Glenmark Pharmaceuticals,https://www.lashield.com/,,dedicated-site,
+Scalpe,Glenmark Pharmaceuticals,https://www.scalpecare.com/,,dedicated-site,
+Suncros,Sun Pharma,https://sunpharma.com/,,parent-site,no dedicated Suncros site found; using Sun Pharma parent corporate site
+Venusia,Dr. Reddy's Laboratories,https://www.drreddysvenusia.com/,,dedicated-site,
+Acnestar,Mankind Pharma,https://www.acnestar.com/,,dedicated-site,
+Manforce,Mankind Pharma,https://www.manforcecondoms.com/,,dedicated-site,
+Skore,TTK Healthcare,https://skorecondoms.com/,,dedicated-site,
+Mother Sparsh,Mother Sparsh,https://mothersparsh.com/,https://in.linkedin.com/company/mother-sparsh,dedicated-site,
+Mee Mee,Me N Moms,https://meemee.in/,,dedicated-site,
+Kimirica,Kimirica,https://kimirica.com/,https://in.linkedin.com/company/kimirica,dedicated-site,
+Soulflower,Soulflower,https://www.soulflower.in/,https://in.linkedin.com/company/soulflowerindia,dedicated-site,

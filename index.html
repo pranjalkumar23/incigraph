@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>InciGraph.ai — supply chain traceability</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tabler-icons/3.48.0/tabler-icons.min.css" />
+<link rel="stylesheet" href="styles.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.9/standalone/umd/vis-network.min.js"></script>
+</head>
+<body>
+<div class="app-shell">
+  <nav class="side-nav">
+    <div class="side-nav-logo"><i class="ti ti-flask-2"></i> InciGraph.ai</div>
+    <button class="nav-item active" data-view="graph"><i class="ti ti-layout-dashboard"></i> Dashboard</button>
+    <button class="nav-item" data-view="chemicals"><i class="ti ti-flask"></i> Chemicals</button>
+    <button class="nav-item" data-view="brands"><i class="ti ti-building-store"></i> Inventory</button>
+    <button class="nav-item" data-view="products"><i class="ti ti-package"></i> Samples</button>
+    <button class="nav-item placeholder-nav" data-view="analytics"><i class="ti ti-chart-bar"></i> Analytics</button>
+    <button class="nav-item placeholder-nav" data-view="compliance"><i class="ti ti-shield-check"></i> Compliance</button>
+    <button class="nav-item placeholder-nav" data-view="audit"><i class="ti ti-clipboard-check"></i> Audit</button>
+    <button class="nav-item placeholder-nav" data-view="settings"><i class="ti ti-settings"></i> Settings</button>
+  </nav>
+
+  <div class="shell-main">
+    <header class="top-bar">
+      <div class="top-search">
+        <i class="ti ti-search"></i>
+        <input id="globalSearch" type="text" placeholder="Search Chemical, Brand, Product..." autocomplete="off" />
+      </div>
+      <button id="chemAiToggle" class="chain-trace-btn" type="button"><i class="ti ti-route"></i> AI Chat</button>
+      <i class="ti ti-bell top-bar-icon"></i>
+      <div class="top-bar-avatar">CT</div>
+    </header>
+
+    <main class="main-content">
+      <section id="view-graph" class="view active">
+        <div class="graph-panel">
+          <div class="graph-toolbar">
+            <h2>Supply Chain Traceability Graph View</h2>
+            <div style="display:flex; align-items:center; gap:12px;">
+              <div id="legend" class="legend"></div>
+              <button id="resetBtn" type="button">Reset graph</button>
+            </div>
+          </div>
+          <div id="network"></div>
+          <div id="expandMenu" class="expand-menu" style="display:none;"></div>
+          <p class="hint">Hover a node to see what you can expand from it. Drag to rearrange, scroll to zoom.</p>
+        </div>
+      </section>
+
+      <section id="view-brands" class="view">
+        <div class="view-header">
+          <h2>Inventory — Brands</h2>
+          <input id="brandsSearch" type="text" placeholder="Filter brands..." autocomplete="off" />
+        </div>
+        <div id="brandsGrid" class="brands-grid"></div>
+      </section>
+
+      <section id="view-products" class="view view-split">
+        <div class="items-list-pane">
+          <div class="view-header">
+            <h2>Samples — Products</h2>
+            <input id="productsSearch" type="text" placeholder="Filter products..." autocomplete="off" />
+          </div>
+          <div id="productsList" class="items-list"></div>
+        </div>
+        <div id="productDetail" class="detail-pane">
+          <p class="empty-hint">Select a product from the list to see its details.</p>
+        </div>
+      </section>
+
+      <section id="view-chemicals" class="view view-split">
+        <div class="items-list-pane">
+          <div class="view-header">
+            <h2>Chemicals</h2>
+          </div>
+          <div id="chemicalsList" class="items-list"></div>
+        </div>
+        <div id="chemicalDetail" class="detail-pane">
+          <p class="empty-hint">Select a chemical from the list to see its details.</p>
+        </div>
+      </section>
+
+      <section id="view-analytics" class="view view-placeholder">
+        <div class="placeholder-body"><i class="ti ti-chart-bar"></i><h2>Analytics</h2><p>Not built yet — this section is a placeholder in the new navigation.</p></div>
+      </section>
+      <section id="view-compliance" class="view view-placeholder">
+        <div class="placeholder-body"><i class="ti ti-shield-check"></i><h2>Compliance</h2><p>Not built yet — this section is a placeholder in the new navigation.</p></div>
+      </section>
+      <section id="view-audit" class="view view-placeholder">
+        <div class="placeholder-body"><i class="ti ti-clipboard-check"></i><h2>Audit</h2><p>Not built yet — this section is a placeholder in the new navigation.</p></div>
+      </section>
+      <section id="view-settings" class="view view-placeholder">
+        <div class="placeholder-body"><i class="ti ti-settings"></i><h2>Settings</h2><p>Not built yet — this section is a placeholder in the new navigation.</p></div>
+      </section>
+    </main>
+  </div>
+
+  <aside id="chatDrawer" class="chat-drawer">
+    <div class="chat-drawer-header">
+      <span id="drawerHeaderLabel"><i class="ti ti-sparkles"></i> AI Chat</span>
+      <div class="chat-drawer-header-actions">
+        <button id="drawerBackToChatBtn" type="button" aria-label="Back to chat" style="display:none;"><i class="ti ti-message-chatbot"></i></button>
+        <button id="chatCloseBtn" type="button" aria-label="Close panel"><i class="ti ti-x"></i></button>
+      </div>
+    </div>
+    <div id="chatPanelBody" class="drawer-body">
+      <div id="chatMessages" class="chat-messages"></div>
+      <div class="chat-input-row">
+        <input id="chatInput" type="text" placeholder="Ask AI anything about the supply chain..." autocomplete="off" />
+        <button id="chatSend" type="button" aria-label="Send"><i class="ti ti-send-2"></i></button>
+      </div>
+    </div>
+    <div id="detailsPanelBody" class="drawer-body" style="display:none;"></div>
+  </aside>
+</div>
+
+<script>document.write('<script src="data.js?t=' + Date.now() + '"><\/script>');</script>
+<script src="queries.js"></script>
+<script src="graph.js"></script>
+<script src="chat.js"></script>
+<script src="views.js"></script>
+</body>
+</html>
