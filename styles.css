@@ -541,6 +541,19 @@ html, body {
   color: var(--accent);
 }
 
+.chem-structure {
+  display: block;
+  max-width: 100%;
+  margin: 12px auto 0;
+  background: #fff;
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.entity-card .chem-structure {
+  margin: 0;
+}
+
 .detail-card-actions {
   display: flex;
   flex-direction: column;

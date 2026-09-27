@@ -626,9 +626,11 @@ function renderNodeDetails(nid) {
         </div>
       </div>
       <div class="detail-card-body">${detailLine(node)}</div>
+      ${chemStructureMarkup(node.nodeType, node.refId, "struct-node", nid)}
       ${buttons || restoreButtons ? `<div class="detail-card-actions">${buttons}${restoreButtons}</div>` : ""}
     </div>
   `;
+  drawChemStructureIfNeeded(node.nodeType, node.refId, "struct-node", nid);
   detailsPanelBody.querySelectorAll("button[data-rel]").forEach((btn) => {
     btn.addEventListener("click", () => {
       relations[btn.dataset.rel].run(nid, node.refId);

@@ -201,9 +201,11 @@ function renderEntityDetailsStandalone(type, refId, name) {
         </div>
       </div>
       <div class="detail-card-body">${detailLine(fakeNode)}</div>
+      ${chemStructureMarkup(type, refId, "struct-standalone")}
       ${buttons ? `<div class="detail-card-actions">${buttons}</div>` : ""}
     </div>
   `;
+  drawChemStructureIfNeeded(type, refId, "struct-standalone");
   detailsPanelBody.querySelectorAll("button[data-rel]").forEach((btn) => {
     btn.addEventListener("click", () => {
       const nid = ensureNode(type, refId, name);
