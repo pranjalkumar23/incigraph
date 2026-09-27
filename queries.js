@@ -4,6 +4,31 @@ const SUP_BY_ID = byId(SUPPLIERS);
 const BRAND_BY_ID = byId(BRANDS);
 const PROD_BY_ID = byId(PRODUCTS);
 
+// Standard public chemistry reference data (formula / molecular weight), keyed by chemical id.
+const CHEM_FORMULA = {
+  c1: { formula: "C6H6N2O", mw: "122.12 g/mol" },
+  c2: { formula: "(C14H21NO11)n — polymer", mw: "variable (50 kDa–6 MDa)" },
+  c3: { formula: "C8H10O2", mw: "138.16 g/mol" },
+  c4: { formula: "C16H34O / C18H38O — mixture", mw: "~242–270 g/mol" },
+  c5: { formula: "C7H6O3", mw: "138.12 g/mol" },
+  c6: { formula: "(C2H6OSi)n — polymer", mw: "variable" },
+  c7: { formula: "C2H4O3", mw: "76.05 g/mol" },
+  c8: { formula: "C10H30O5Si5", mw: "370.77 g/mol" },
+  c9: { formula: "C25H54ClN", mw: "404.16 g/mol" },
+  c10: { formula: "C9H19NO4", mw: "205.25 g/mol" },
+  c11: { formula: "C31H52O3", mw: "472.75 g/mol" },
+  c12: { formula: "C10H14N2Na2O8", mw: "336.21 g/mol" },
+  c13: { formula: "C19H38N2O3 — approx.", mw: "~342.5 g/mol" },
+  c14: { formula: "C7H5NaO2", mw: "144.10 g/mol" },
+  c15: { formula: "C6H7KO2", mw: "150.22 g/mol" },
+  c16: { formula: "C11H24O3", mw: "204.31 g/mol" },
+  c17: { formula: "C14H12O3", mw: "228.24 g/mol" },
+  c18: { formula: "C3H8O3", mw: "92.09 g/mol" },
+  c19: { formula: "C6H8O7", mw: "192.12 g/mol" },
+  c20: { formula: "C3H8O2", mw: "76.09 g/mol" },
+};
+CHEMICALS.forEach((c) => Object.assign(c, CHEM_FORMULA[c.id]));
+
 function productsUsingChemical(chemId) {
   return PRODUCTS.filter((p) => p.chemicals.includes(chemId));
 }

@@ -463,7 +463,7 @@ function detailLine(node) {
   const refId = node.refId;
   if (type === "chemical") {
     const c = CHEM_BY_ID[refId];
-    return `${c.category} · CAS ${c.cas} · INCI: ${c.inci}`;
+    return `${c.category} · CAS ${c.cas} · INCI: ${c.inci}${c.formula ? `<br/>Formula: ${c.formula}${c.mw ? ` · MW: ${c.mw}` : ""}` : ""}`;
   }
   if (type === "brand") {
     const b = BRAND_BY_ID[refId];

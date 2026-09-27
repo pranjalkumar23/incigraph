@@ -87,6 +87,7 @@ function renderChemicalsGrid(filter) {
         <span class="entity-icon" style="background:${style.bg};border-color:${style.border};">${style.icon}</span>
         <p class="entity-name">${c.name}</p>
         <p class="entity-sub">${c.category}</p>
+        <p class="entity-sub">${c.formula || `CAS ${c.cas}`}</p>
         <p class="entity-sub">${productsCount} product(s) · ${brandsCount} brand(s)</p>
       </div>`;
     })

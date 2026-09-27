@@ -211,6 +211,7 @@ function renderEntityDetailsStandalone(type, refId, name) {
       relations[btn.dataset.rel].run(nid, refId);
       markExpanded(nid, btn.dataset.rel);
       focusOn(nid);
+      switchView("graph");
       renderNodeDetails(nid);
       if (wasEmpty) {
         network.fit({ animation: false });
