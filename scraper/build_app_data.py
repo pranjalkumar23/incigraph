@@ -133,11 +133,24 @@ def load_manufacturers():
     return {r["brand_name"]: r for r in rows}
 
 
+def load_flipkart_fallback():
+    try:
+        with open("data/flipkart_products.json", encoding="utf-8") as f:
+            rows = json.load(f)
+    except FileNotFoundError:
+        return {}
+    by_brand = {}
+    for row in rows:
+        by_brand.setdefault(row["brand_name"], []).append(row)
+    return by_brand
+
+
 def main():
     with open("data/scraped_brands.json", encoding="utf-8") as f:
         scraped = json.load(f)
     legal_entities = load_legal_entities()
     manufacturers = load_manufacturers()
+    flipkart_fallback = load_flipkart_fallback()
 
     brands = []
     products = []
@@ -165,7 +178,8 @@ def main():
                 },
             }
         )
-        for product in brand["products"]:
+        brand_products = brand["products"] or flipkart_fallback.get(brand["brand_name"], [])
+        for product in brand_products:
             if not product.get("name"):
                 continue
             product_counter += 1
