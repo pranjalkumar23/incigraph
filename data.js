@@ -91,7 +91,9 @@ const CHEMICALS = [
       "s6"
     ],
     "aliases": [
-      "niacinamide"
+      "niacinamide",
+      "bio-niacinamide\u2122",
+      "niacinamide range"
     ]
   },
   {
@@ -110,7 +112,8 @@ const CHEMICALS = [
       "hyaluronic acid",
       "hydrolyzed sodium hyaluronate",
       "sodium acetylated hyaluronate",
-      "sodium hyaluronate crosspolymer"
+      "sodium hyaluronate crosspolymer",
+      "hyaluronic range"
     ]
   },
   {
@@ -154,7 +157,8 @@ const CHEMICALS = [
       "s8"
     ],
     "aliases": [
-      "salicylic acid"
+      "salicylic acid",
+      "salicylic range"
     ]
   },
   {
@@ -370,6 +374,612 @@ const CHEMICALS = [
     ],
     "aliases": [
       "propylene glycol"
+    ]
+  },
+  {
+    "id": "c21",
+    "name": "Ascorbic Acid",
+    "inci": "Ascorbic Acid",
+    "cas": "50-81-7",
+    "category": "Active - brightening/antioxidant",
+    "suppliers": [
+      "s2",
+      "s3",
+      "s8"
+    ],
+    "aliases": [
+      "vitamin c",
+      "ascorbic acid",
+      "l-ascorbic acid",
+      "vitamin c range"
+    ]
+  },
+  {
+    "id": "c22",
+    "name": "Retinol",
+    "inci": "Retinol",
+    "cas": "68-26-8",
+    "category": "Active - anti-aging",
+    "suppliers": [
+      "s2",
+      "s4"
+    ],
+    "aliases": [
+      "retinol"
+    ]
+  },
+  {
+    "id": "c23",
+    "name": "Lactic Acid",
+    "inci": "Lactic Acid",
+    "cas": "50-21-3",
+    "category": "Active - exfoliant",
+    "suppliers": [
+      "s3",
+      "s5"
+    ],
+    "aliases": [
+      "lactic acid"
+    ]
+  },
+  {
+    "id": "c24",
+    "name": "Kojic Acid",
+    "inci": "Kojic Acid",
+    "cas": "501-30-4",
+    "category": "Active - brightening",
+    "suppliers": [
+      "s2",
+      "s8"
+    ],
+    "aliases": [
+      "kojic acid",
+      "kojic range"
+    ]
+  },
+  {
+    "id": "c25",
+    "name": "Biotin",
+    "inci": "Biotin",
+    "cas": "58-85-5",
+    "category": "Active - hair/nail health",
+    "suppliers": [
+      "s2",
+      "s4"
+    ],
+    "aliases": [
+      "biotin",
+      "gro-biotin\u2122"
+    ]
+  },
+  {
+    "id": "c26",
+    "name": "Xanthan Gum",
+    "inci": "Xanthan Gum",
+    "cas": "11138-66-2",
+    "category": "Thickener / stabilizer",
+    "suppliers": [
+      "s4",
+      "s7"
+    ],
+    "aliases": [
+      "xanthan gum"
+    ]
+  },
+  {
+    "id": "c27",
+    "name": "Titanium Dioxide",
+    "inci": "Titanium Dioxide",
+    "cas": "13463-67-7",
+    "category": "UV filter / colorant (CI 77891)",
+    "suppliers": [
+      "s3",
+      "s6"
+    ],
+    "aliases": [
+      "titanium dioxide",
+      "ci 77891",
+      "titanium dioxide (ci 77891)"
+    ]
+  },
+  {
+    "id": "c28",
+    "name": "Butylated Hydroxytoluene",
+    "inci": "BHT",
+    "cas": "128-37-0",
+    "category": "Antioxidant / preservative",
+    "suppliers": [
+      "s5",
+      "s6"
+    ],
+    "aliases": [
+      "bht",
+      "butylated hydroxytoluene"
+    ]
+  },
+  {
+    "id": "c29",
+    "name": "Ethylhexyl Methoxycinnamate",
+    "inci": "Ethylhexyl Methoxycinnamate",
+    "cas": "5466-77-3",
+    "category": "UV filter",
+    "suppliers": [
+      "s3",
+      "s2"
+    ],
+    "aliases": [
+      "ethylhexyl methoxycinnamate",
+      "octinoxate"
+    ]
+  },
+  {
+    "id": "c30",
+    "name": "Butyl Methoxydibenzoylmethane",
+    "inci": "Butyl Methoxydibenzoylmethane",
+    "cas": "70356-09-1",
+    "category": "UV filter",
+    "suppliers": [
+      "s3",
+      "s2"
+    ],
+    "aliases": [
+      "butyl methoxydibenzoylmethane",
+      "avobenzone"
+    ]
+  },
+  {
+    "id": "c31",
+    "name": "Ethylhexyl Salicylate",
+    "inci": "Ethylhexyl Salicylate",
+    "cas": "118-60-5",
+    "category": "UV filter",
+    "suppliers": [
+      "s3",
+      "s2"
+    ],
+    "aliases": [
+      "ethylhexyl salicylate",
+      "octisalate"
+    ]
+  },
+  {
+    "id": "c32",
+    "name": "Sodium Laureth Sulfate",
+    "inci": "Sodium Laureth Sulfate",
+    "cas": "9004-82-4",
+    "category": "Surfactant",
+    "suppliers": [
+      "s5",
+      "s1"
+    ],
+    "aliases": [
+      "sodium laureth sulfate",
+      "sles"
+    ]
+  },
+  {
+    "id": "c33",
+    "name": "Sodium Chloride",
+    "inci": "Sodium Chloride",
+    "cas": "7647-14-5",
+    "category": "Viscosity modifier",
+    "suppliers": [
+      "s5"
+    ],
+    "aliases": [
+      "sodium chloride"
+    ]
+  },
+  {
+    "id": "c34",
+    "name": "Tetrasodium EDTA",
+    "inci": "Tetrasodium EDTA",
+    "cas": "64-02-2",
+    "category": "Chelating agent",
+    "suppliers": [
+      "s5",
+      "s6"
+    ],
+    "aliases": [
+      "tetrasodium edta"
+    ]
+  },
+  {
+    "id": "c35",
+    "name": "Sodium Hydroxide",
+    "inci": "Sodium Hydroxide",
+    "cas": "1310-73-2",
+    "category": "pH adjuster",
+    "suppliers": [
+      "s5"
+    ],
+    "aliases": [
+      "sodium hydroxide"
+    ]
+  },
+  {
+    "id": "c36",
+    "name": "Isopropyl Alcohol",
+    "inci": "Isopropyl Alcohol",
+    "cas": "67-63-0",
+    "category": "Solvent",
+    "suppliers": [
+      "s5"
+    ],
+    "aliases": [
+      "isopropyl alcohol"
+    ]
+  },
+  {
+    "id": "c37",
+    "name": "Caprylic/Capric Triglyceride",
+    "inci": "Caprylic/Capric Triglyceride",
+    "cas": "73398-61-5",
+    "category": "Emollient",
+    "suppliers": [
+      "s1",
+      "s7"
+    ],
+    "aliases": [
+      "caprylic/capric triglyceride"
+    ]
+  },
+  {
+    "id": "c38",
+    "name": "Stearic Acid",
+    "inci": "Stearic Acid",
+    "cas": "57-11-4",
+    "category": "Emulsifier",
+    "suppliers": [
+      "s1",
+      "s5"
+    ],
+    "aliases": [
+      "stearic acid"
+    ]
+  },
+  {
+    "id": "c39",
+    "name": "Butylene Glycol",
+    "inci": "Butylene Glycol",
+    "cas": "107-88-0",
+    "category": "Humectant / solvent",
+    "suppliers": [
+      "s4",
+      "s7"
+    ],
+    "aliases": [
+      "butylene glycol"
+    ]
+  },
+  {
+    "id": "c40",
+    "name": "Isopropyl Myristate",
+    "inci": "Isopropyl Myristate",
+    "cas": "110-27-0",
+    "category": "Emollient",
+    "suppliers": [
+      "s1",
+      "s6"
+    ],
+    "aliases": [
+      "isopropyl myristate"
+    ]
+  },
+  {
+    "id": "c41",
+    "name": "Phosphoric Acid",
+    "inci": "Phosphoric Acid",
+    "cas": "7664-38-2",
+    "category": "pH adjuster",
+    "suppliers": [
+      "s5"
+    ],
+    "aliases": [
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": "c42",
+    "name": "Caprylyl Glycol",
+    "inci": "Caprylyl Glycol",
+    "cas": "1117-86-8",
+    "category": "Preservative booster",
+    "suppliers": [
+      "s6",
+      "s5"
+    ],
+    "aliases": [
+      "caprylyl glycol"
+    ]
+  },
+  {
+    "id": "c43",
+    "name": "Coumarin",
+    "inci": "Coumarin",
+    "cas": "91-64-5",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8",
+      "s2"
+    ],
+    "aliases": [
+      "coumarin"
+    ]
+  },
+  {
+    "id": "c44",
+    "name": "Linalool",
+    "inci": "Linalool",
+    "cas": "78-70-6",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8",
+      "s2"
+    ],
+    "aliases": [
+      "linalool"
+    ]
+  },
+  {
+    "id": "c45",
+    "name": "Limonene",
+    "inci": "Limonene",
+    "cas": "5989-27-5",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8",
+      "s2"
+    ],
+    "aliases": [
+      "limonene"
+    ]
+  },
+  {
+    "id": "c46",
+    "name": "Geraniol",
+    "inci": "Geraniol",
+    "cas": "106-24-1",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8"
+    ],
+    "aliases": [
+      "geraniol"
+    ]
+  },
+  {
+    "id": "c47",
+    "name": "Citronellol",
+    "inci": "Citronellol",
+    "cas": "106-22-9",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8"
+    ],
+    "aliases": [
+      "citronellol"
+    ]
+  },
+  {
+    "id": "c48",
+    "name": "Sorbitol",
+    "inci": "Sorbitol",
+    "cas": "50-70-4",
+    "category": "Humectant",
+    "suppliers": [
+      "s1",
+      "s4"
+    ],
+    "aliases": [
+      "sorbitol"
+    ]
+  },
+  {
+    "id": "c49",
+    "name": "Acetic Acid",
+    "inci": "Acetic Acid",
+    "cas": "64-19-7",
+    "category": "pH adjuster",
+    "suppliers": [
+      "s5"
+    ],
+    "aliases": [
+      "acetic acid"
+    ]
+  },
+  {
+    "id": "c50",
+    "name": "Mica",
+    "inci": "Mica",
+    "cas": "12001-26-2",
+    "category": "Colorant / filler (mineral)",
+    "suppliers": [
+      "s3"
+    ],
+    "aliases": [
+      "mica"
+    ]
+  },
+  {
+    "id": "c51",
+    "name": "Redensyl",
+    "inci": "Redensyl",
+    "cas": "Proprietary blend \u2014 no single CAS",
+    "category": "Active - hair growth",
+    "suppliers": [
+      "s2"
+    ],
+    "aliases": [
+      "redensyl"
+    ]
+  },
+  {
+    "id": "c52",
+    "name": "Silica",
+    "inci": "Silica",
+    "cas": "7631-86-9",
+    "category": "Absorbent / bulking agent",
+    "suppliers": [
+      "s3",
+      "s6"
+    ],
+    "aliases": [
+      "silica"
+    ]
+  },
+  {
+    "id": "c53",
+    "name": "Fragrance",
+    "inci": "Parfum",
+    "cas": "Undisclosed proprietary blend",
+    "category": "Fragrance",
+    "suppliers": [
+      "s8"
+    ],
+    "aliases": [
+      "fragrance",
+      "parfum",
+      "perfume"
+    ]
+  },
+  {
+    "id": "c54",
+    "name": "Peptides",
+    "inci": "Peptides",
+    "cas": "Class of compounds \u2014 no single CAS",
+    "category": "Active - anti-aging",
+    "suppliers": [
+      "s2",
+      "s4"
+    ],
+    "aliases": [
+      "peptides"
+    ]
+  },
+  {
+    "id": "c55",
+    "name": "Tetrasodium Etidronate",
+    "inci": "Tetrasodium Etidronate",
+    "cas": "3794-83-0",
+    "category": "Chelating agent",
+    "suppliers": [
+      "s6",
+      "s5"
+    ],
+    "aliases": [
+      "tetrasodium etidronate"
+    ]
+  },
+  {
+    "id": "c56",
+    "name": "Isoeugenol",
+    "inci": "Isoeugenol",
+    "cas": "97-54-1",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8"
+    ],
+    "aliases": [
+      "isoeugenol"
+    ]
+  },
+  {
+    "id": "c57",
+    "name": "Hexyl Cinnamal",
+    "inci": "Hexyl Cinnamal",
+    "cas": "101-86-0",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8"
+    ],
+    "aliases": [
+      "hexyl cinnamal"
+    ]
+  },
+  {
+    "id": "c58",
+    "name": "Benzyl Salicylate",
+    "inci": "Benzyl Salicylate",
+    "cas": "118-58-1",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8"
+    ],
+    "aliases": [
+      "benzyl salicylate"
+    ]
+  },
+  {
+    "id": "c59",
+    "name": "Benzyl Benzoate",
+    "inci": "Benzyl Benzoate",
+    "cas": "120-51-4",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8"
+    ],
+    "aliases": [
+      "benzyl benzoate"
+    ]
+  },
+  {
+    "id": "c60",
+    "name": "Hydroxycitronellal",
+    "inci": "Hydroxycitronellal",
+    "cas": "107-75-5",
+    "category": "Fragrance ingredient (allergen)",
+    "suppliers": [
+      "s8"
+    ],
+    "aliases": [
+      "hydroxycitronellal"
+    ]
+  },
+  {
+    "id": "c61",
+    "name": "Iron Oxides",
+    "inci": "CI 77491 / CI 77492 / CI 77499",
+    "cas": "1309-37-1",
+    "category": "Colorant (mineral)",
+    "suppliers": [
+      "s3"
+    ],
+    "aliases": [
+      "ci 77491",
+      "ci 77492",
+      "ci 77499",
+      "iron oxide",
+      "iron oxides"
+    ]
+  },
+  {
+    "id": "c62",
+    "name": "CI 19140 (Tartrazine)",
+    "inci": "CI 19140",
+    "cas": "1934-21-0",
+    "category": "Colorant (synthetic)",
+    "suppliers": [
+      "s3"
+    ],
+    "aliases": [
+      "ci 19140",
+      "tartrazine",
+      "yellow 5"
+    ]
+  },
+  {
+    "id": "c63",
+    "name": "CI 42090 (Brilliant Blue FCF)",
+    "inci": "CI 42090",
+    "cas": "3844-45-9",
+    "category": "Colorant (synthetic)",
+    "suppliers": [
+      "s3"
+    ],
+    "aliases": [
+      "ci 42090",
+      "brilliant blue fcf"
     ]
   }
 ];
@@ -5718,6 +6328,7 @@ const PRODUCTS = [
     "url": "https://www.sesacare.com/products/sesa-vedscience-dark-spot-serum-30-ml",
     "ingredientsVerified": false,
     "chemicals": [
+      "c24",
       "c1"
     ],
     "ingredientsRaw": [
@@ -6124,7 +6735,8 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c7",
-      "c1"
+      "c1",
+      "c23"
     ],
     "ingredientsRaw": [
       "Glycolic Acid",
@@ -6843,7 +7455,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-gold-ayurvedic-oil",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -6885,7 +7501,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-gold-anti-hairfall-shampoo",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -6927,7 +7547,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-gold-advanced-hair-growth-serum",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -6969,7 +7593,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-ayurvedic-ahf-shampoo-conditioner-combo-800ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -7011,7 +7639,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-ayurvedic-hair-growth-capsule-pack-of-3-90-capsules",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -7053,7 +7685,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-gold-anti-dandruff-shampoo",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -7095,7 +7731,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-organic-onion-oil-with-curry-leaves",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -7137,7 +7777,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-organic-onion-shampoo-300ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -7179,7 +7823,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/kesh-king-organic-onion-conditioner-with-curry-leaves-for-hydrated-and-nourished-hair-200ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -7221,7 +7869,11 @@ const PRODUCTS = [
     "brand": "rb40",
     "url": "https://www.keshking.com/products/rosemary-oil",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25",
+      "c51",
+      "c1"
+    ],
     "ingredientsRaw": [
       "Shop By Ingredients",
       "Gro-Biotin™",
@@ -7315,7 +7967,9 @@ const PRODUCTS = [
     "brand": "rb44",
     "url": "https://themancompany.com/products/edp-amour",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53"
+    ],
     "ingredientsRaw": [
       "FAQs",
       "A:",
@@ -7338,7 +7992,16 @@ const PRODUCTS = [
     "brand": "rb44",
     "url": "https://themancompany.com/products/eau-de-parfum-night-50-ml",
     "ingredientsVerified": true,
-    "chemicals": [],
+    "chemicals": [
+      "c40",
+      "c45",
+      "c44",
+      "c43",
+      "c60",
+      "c59",
+      "c58",
+      "c47"
+    ],
     "ingredientsRaw": [
       "Aqua",
       "Isopropyl Myristate",
@@ -7380,7 +8043,9 @@ const PRODUCTS = [
     "brand": "rb44",
     "url": "https://themancompany.com/products/edp-pravy",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53"
+    ],
     "ingredientsRaw": [
       "FAQs",
       "A:",
@@ -7403,7 +8068,14 @@ const PRODUCTS = [
     "brand": "rb44",
     "url": "https://themancompany.com/products/eau-de-toilette-blanc-50ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53",
+      "c40",
+      "c44",
+      "c46",
+      "c60",
+      "c43"
+    ],
     "ingredientsRaw": [
       "Other Ingredients:",
       "Extra Neutral Alcohol",
@@ -7457,7 +8129,9 @@ const PRODUCTS = [
     "brand": "rb44",
     "url": "https://themancompany.com/products/eau-de-parfum-tranquil-50-ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53"
+    ],
     "ingredientsRaw": [
       "Top Note: Lemon",
       "At the first hit of the fragrance",
@@ -7566,7 +8240,24 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c20",
-      "c18"
+      "c32",
+      "c48",
+      "c18",
+      "c53",
+      "c33",
+      "c49",
+      "c34",
+      "c55",
+      "c28",
+      "c43",
+      "c45",
+      "c44",
+      "c63",
+      "c57",
+      "c58",
+      "c46",
+      "c59",
+      "c52"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -7640,7 +8331,18 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c20",
-      "c18"
+      "c32",
+      "c48",
+      "c18",
+      "c33",
+      "c53",
+      "c49",
+      "c34",
+      "c55",
+      "c28",
+      "c43",
+      "c45",
+      "c44"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -7675,7 +8377,18 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c20",
-      "c18"
+      "c32",
+      "c48",
+      "c18",
+      "c33",
+      "c53",
+      "c49",
+      "c34",
+      "c55",
+      "c28",
+      "c43",
+      "c45",
+      "c44"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -7710,7 +8423,18 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c20",
-      "c18"
+      "c32",
+      "c48",
+      "c18",
+      "c33",
+      "c53",
+      "c49",
+      "c34",
+      "c55",
+      "c28",
+      "c43",
+      "c45",
+      "c44"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -7744,10 +8468,19 @@ const PRODUCTS = [
     "url": "https://www.fiama.in/products/blackcurrant-bearberry-shower-gel-250-ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c32",
       "c13",
+      "c53",
       "c18",
+      "c35",
+      "c33",
       "c14",
-      "c3"
+      "c3",
+      "c34",
+      "c28",
+      "c44",
+      "c45",
+      "c43"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -7783,10 +8516,19 @@ const PRODUCTS = [
     "url": "https://www.fiama.in/products/blackcurrant-bearberry-shower-gel-500-ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c32",
       "c13",
+      "c53",
       "c18",
+      "c35",
+      "c33",
       "c14",
-      "c3"
+      "c3",
+      "c34",
+      "c28",
+      "c44",
+      "c45",
+      "c43"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -7822,10 +8564,19 @@ const PRODUCTS = [
     "url": "https://www.fiama.in/products/blackcurrant-bearberry-shower-gel-895-ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c32",
       "c13",
+      "c53",
       "c18",
+      "c35",
+      "c33",
       "c14",
-      "c3"
+      "c3",
+      "c34",
+      "c28",
+      "c44",
+      "c45",
+      "c43"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -7865,8 +8616,15 @@ const PRODUCTS = [
       "c1",
       "c18",
       "c7",
+      "c53",
       "c3",
-      "c19"
+      "c34",
+      "c28",
+      "c35",
+      "c19",
+      "c33",
+      "c44",
+      "c27"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -7907,7 +8665,25 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c20",
-      "c18"
+      "c32",
+      "c48",
+      "c18",
+      "c53",
+      "c33",
+      "c49",
+      "c34",
+      "c55",
+      "c28",
+      "c58",
+      "c47",
+      "c46",
+      "c45",
+      "c44",
+      "c62",
+      "c43",
+      "c57",
+      "c60",
+      "c27"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8038,8 +8814,17 @@ const PRODUCTS = [
     "url": "https://www.fiama.in/products/cool-burst-men-shower-gel-250-ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c32",
       "c13",
-      "c18"
+      "c53",
+      "c18",
+      "c35",
+      "c34",
+      "c28",
+      "c33",
+      "c27",
+      "c44",
+      "c45"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8123,7 +8908,23 @@ const PRODUCTS = [
     "url": "https://www.engageshop.in/products/engage-gift-assorted-luxury-perfume-set-for-men-100ml-long-lasting-assorted-pack-birthday-gift-anniversary-gift-25ml-x-4",
     "ingredientsVerified": true,
     "chemicals": [
-      "c20"
+      "c29",
+      "c31",
+      "c30",
+      "c28",
+      "c59",
+      "c47",
+      "c43",
+      "c46",
+      "c45",
+      "c44",
+      "c62",
+      "c63",
+      "c53",
+      "c20",
+      "c58",
+      "c57",
+      "c60"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8177,7 +8978,23 @@ const PRODUCTS = [
     "url": "https://www.engageshop.in/collections/all/products/engage-gift-assorted-luxury-perfume-set-for-men-100ml-long-lasting-assorted-pack-birthday-gift-anniversary-gift-25ml-x-4",
     "ingredientsVerified": true,
     "chemicals": [
-      "c20"
+      "c29",
+      "c31",
+      "c30",
+      "c28",
+      "c59",
+      "c47",
+      "c43",
+      "c46",
+      "c45",
+      "c44",
+      "c62",
+      "c63",
+      "c53",
+      "c20",
+      "c58",
+      "c57",
+      "c60"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8230,7 +9047,9 @@ const PRODUCTS = [
     "brand": "rb50",
     "url": "https://www.engageshop.in/products/amber-hues-perfume-for-men-eau-de-parfum-ambery-warm-long-lasting-1",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53"
+    ],
     "ingredientsRaw": [
       "Engage Amber Hues is a premium"
     ],
@@ -8242,7 +9061,9 @@ const PRODUCTS = [
     "brand": "rb50",
     "url": "https://www.engageshop.in/collections/all/products/amber-hues-perfume-for-men-eau-de-parfum-ambery-warm-long-lasting-1",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53"
+    ],
     "ingredientsRaw": [
       "Engage Amber Hues is a premium"
     ],
@@ -8254,7 +9075,16 @@ const PRODUCTS = [
     "brand": "rb50",
     "url": "https://www.engageshop.in/products/indigo-skies-perfume-for-men-eau-de-parfum-earthy-aqua-long-lasting",
     "ingredientsVerified": true,
-    "chemicals": [],
+    "chemicals": [
+      "c29",
+      "c31",
+      "c58",
+      "c47",
+      "c57",
+      "c45",
+      "c44",
+      "c62"
+    ],
     "ingredientsRaw": [
       "AQUA",
       "ETHYLHEXYL METHOXYCINNAMATE",
@@ -8286,7 +9116,16 @@ const PRODUCTS = [
     "brand": "rb50",
     "url": "https://www.engageshop.in/collections/all/products/indigo-skies-perfume-for-men-eau-de-parfum-earthy-aqua-long-lasting",
     "ingredientsVerified": true,
-    "chemicals": [],
+    "chemicals": [
+      "c29",
+      "c31",
+      "c58",
+      "c47",
+      "c57",
+      "c45",
+      "c44",
+      "c62"
+    ],
     "ingredientsRaw": [
       "AQUA",
       "ETHYLHEXYL METHOXYCINNAMATE",
@@ -8319,7 +9158,23 @@ const PRODUCTS = [
     "url": "https://www.engageshop.in/products/engage-gift-assorted-luxury-perfume-set-for-women-100ml-long-lasting-assorted-pack-birthday-gift-anniversary-gift-25ml-x-4",
     "ingredientsVerified": true,
     "chemicals": [
-      "c20"
+      "c29",
+      "c31",
+      "c30",
+      "c28",
+      "c59",
+      "c58",
+      "c47",
+      "c43",
+      "c46",
+      "c60",
+      "c56",
+      "c45",
+      "c44",
+      "c62",
+      "c53",
+      "c20",
+      "c57"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8378,7 +9233,23 @@ const PRODUCTS = [
     "url": "https://www.engageshop.in/collections/all/products/engage-gift-assorted-luxury-perfume-set-for-women-100ml-long-lasting-assorted-pack-birthday-gift-anniversary-gift-25ml-x-4",
     "ingredientsVerified": true,
     "chemicals": [
-      "c20"
+      "c29",
+      "c31",
+      "c30",
+      "c28",
+      "c59",
+      "c58",
+      "c47",
+      "c43",
+      "c46",
+      "c60",
+      "c56",
+      "c45",
+      "c44",
+      "c62",
+      "c53",
+      "c20",
+      "c57"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8437,7 +9308,17 @@ const PRODUCTS = [
     "url": "https://www.engageshop.in/products/engage-eau-de-parfum-yin-100ml",
     "ingredientsVerified": false,
     "chemicals": [
-      "c20"
+      "c53",
+      "c20",
+      "c29",
+      "c31",
+      "c30",
+      "c28",
+      "c47",
+      "c46",
+      "c45",
+      "c44",
+      "c62"
     ],
     "ingredientsRaw": [
       "83.99% W/W ETHYL ALCOHOL (95%V/V) DENATURED WITH TERTIARY",
@@ -8468,7 +9349,17 @@ const PRODUCTS = [
     "url": "https://www.engageshop.in/collections/all/products/engage-eau-de-parfum-yin-100ml",
     "ingredientsVerified": false,
     "chemicals": [
-      "c20"
+      "c53",
+      "c20",
+      "c29",
+      "c31",
+      "c30",
+      "c28",
+      "c47",
+      "c46",
+      "c45",
+      "c44",
+      "c62"
     ],
     "ingredientsRaw": [
       "83.99% W/W ETHYL ALCOHOL (95%V/V) DENATURED WITH TERTIARY",
@@ -8559,10 +9450,16 @@ const PRODUCTS = [
     "url": "https://www.dermafique.com/products/acne-avert-spot-corrector-15ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c39",
       "c1",
       "c18",
       "c2",
-      "c3"
+      "c26",
+      "c23",
+      "c3",
+      "c42",
+      "c35",
+      "c53"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -8591,10 +9488,21 @@ const PRODUCTS = [
     "url": "https://www.dermafique.com/collections/all/products/absolute-detox-facial-cleanser-100ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c32",
       "c18",
       "c13",
+      "c33",
+      "c6",
+      "c53",
       "c11",
       "c10",
+      "c34",
+      "c57",
+      "c45",
+      "c44",
+      "c47",
+      "c27",
+      "c61",
       "c20"
     ],
     "ingredientsRaw": [
@@ -8656,7 +9564,11 @@ const PRODUCTS = [
       "c13",
       "c5",
       "c1",
-      "c11"
+      "c10",
+      "c11",
+      "c53",
+      "c57",
+      "c44"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8691,11 +9603,17 @@ const PRODUCTS = [
     "url": "https://www.dermafique.com/collections/all/products/acne-avert-serum-30ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c39",
       "c5",
       "c1",
       "c18",
+      "c42",
+      "c23",
       "c10",
-      "c3"
+      "c26",
+      "c3",
+      "c35",
+      "c53"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -8728,11 +9646,17 @@ const PRODUCTS = [
     "url": "https://www.dermafique.com/collections/all/products/acne-spot-corrector-10ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c39",
       "c1",
       "c18",
       "c2",
+      "c26",
+      "c23",
       "c11",
-      "c3"
+      "c3",
+      "c42",
+      "c35",
+      "c53"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -8760,10 +9684,16 @@ const PRODUCTS = [
     "url": "https://www.dermafique.com/collections/all/products/acne-avert-spot-corrector-15ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c39",
       "c1",
       "c18",
       "c2",
-      "c3"
+      "c26",
+      "c23",
+      "c3",
+      "c42",
+      "c35",
+      "c53"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -8792,14 +9722,22 @@ const PRODUCTS = [
     "url": "https://www.dermafique.com/collections/all/products/advanced-radiance-vitamin-c-serum-30-ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c39",
       "c6",
       "c1",
       "c18",
+      "c21",
       "c5",
       "c2",
+      "c20",
       "c11",
+      "c37",
+      "c26",
       "c12",
-      "c3"
+      "c35",
+      "c3",
+      "c42",
+      "c53"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -8841,10 +9779,19 @@ const PRODUCTS = [
       "c6",
       "c18",
       "c1",
+      "c38",
       "c11",
       "c3",
+      "c27",
       "c10",
-      "c12"
+      "c28",
+      "c12",
+      "c62",
+      "c53",
+      "c47",
+      "c57",
+      "c56",
+      "c44"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8896,10 +9843,19 @@ const PRODUCTS = [
       "c6",
       "c18",
       "c1",
+      "c38",
       "c11",
       "c3",
+      "c27",
       "c10",
-      "c12"
+      "c28",
+      "c12",
+      "c62",
+      "c53",
+      "c47",
+      "c57",
+      "c56",
+      "c44"
     ],
     "ingredientsRaw": [
       "AQUA",
@@ -8948,13 +9904,27 @@ const PRODUCTS = [
     "url": "https://www.dermafique.com/collections/all/products/age-defying-bb-creme-50g",
     "ingredientsVerified": true,
     "chemicals": [
+      "c29",
       "c8",
+      "c6",
       "c18",
+      "c27",
+      "c48",
       "c20",
+      "c37",
+      "c4",
       "c11",
       "c10",
+      "c26",
+      "c50",
       "c3",
-      "c12"
+      "c12",
+      "c61",
+      "c53",
+      "c47",
+      "c57",
+      "c56",
+      "c44"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -9182,7 +10152,17 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c20",
-      "c12"
+      "c53",
+      "c12",
+      "c28",
+      "c59",
+      "c58",
+      "c47",
+      "c45",
+      "c57",
+      "c60",
+      "c56",
+      "c44"
     ],
     "ingredientsRaw": [
       "Water",
@@ -9230,7 +10210,10 @@ const PRODUCTS = [
     "brand": "rb57",
     "url": "https://enchanteur.in/products/alluring-daily-wear-perfume-for-women-100ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53",
+      "c28"
+    ],
     "ingredientsRaw": [
       "Ingredients: Ethyl Alcohol",
       "Perfume",
@@ -9246,7 +10229,10 @@ const PRODUCTS = [
     "brand": "rb57",
     "url": "https://enchanteur.in/products/alluring-daily-wear-perfume-for-women-50ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53",
+      "c28"
+    ],
     "ingredientsRaw": [
       "Ingredients: Ethyl Alcohol",
       "Perfume",
@@ -9264,7 +10250,17 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c20",
-      "c12"
+      "c53",
+      "c12",
+      "c28",
+      "c59",
+      "c58",
+      "c47",
+      "c45",
+      "c57",
+      "c60",
+      "c56",
+      "c44"
     ],
     "ingredientsRaw": [
       "Water",
@@ -9856,7 +10852,11 @@ const PRODUCTS = [
     "brand": "rb67",
     "url": "https://mamaearth.in/products/tea-tree-face-wash",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c5",
+      "c1",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Tea Tree:",
       "Salicylic Acid:",
@@ -9871,7 +10871,10 @@ const PRODUCTS = [
     "brand": "rb67",
     "url": "https://mamaearth.in/products/rice-face-wash-with-rice-water-niacinamide-for-glass-skin-150-ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Rice Water:",
       "Rich in antioxidants",
@@ -9889,7 +10892,9 @@ const PRODUCTS = [
     "brand": "rb67",
     "url": "https://mamaearth.in/products/vitamin-c-daily-glow-sunscreen-with-vitamin-c-turmeric-for-sun-protection-glow-50-g",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c21"
+    ],
     "ingredientsRaw": [
       "Vitamin C :",
       "Loaded with antioxidants",
@@ -9947,7 +10952,11 @@ const PRODUCTS = [
     "brand": "rb67",
     "url": "https://mamaearth.in/products/vitamin-c-daily-glow-face-serum-with-vitamin-c-turmeric-for-radiant-skin-30-ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c21",
+      "c1",
+      "c19"
+    ],
     "ingredientsRaw": [
       "Vitamin C :",
       "Loaded with antioxidants",
@@ -9981,7 +10990,9 @@ const PRODUCTS = [
     "brand": "rb67",
     "url": "https://mamaearth.in/products/mung-bean-pore-cleansing-foam-scrub-with-mung-bean-aha-bha-for-normal-to-oily-skin-100-g",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1"
+    ],
     "ingredientsRaw": [
       "Mung Bean:",
       "AHA & BHA:",
@@ -9996,7 +11007,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/benzoyl-peroxide-gel-face-wash-100ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10018,7 +11036,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/10-vitamin-c-face-serum-with-niacinamide-hyaluronic-acid-for-skin-radiance-30ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10040,7 +11065,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/1-hyaluronic-sunscreen-aqua-gel-with-spf-50-pa-80g",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10062,7 +11094,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/2-kojic-acid-face-serum-with-1-alpha-arbutin-niacinamide-30-ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10084,7 +11123,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/1-hyaluronic-sunscreen-aqua-gel",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10106,7 +11152,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/sali-cinamide-anti-acne-face-wash-with-2-salicylic-acid-2-niacinamide-100ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10128,7 +11181,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/10-percent-niacinamide-serum",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10150,7 +11210,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/2-salicylic-acid-serum",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10172,7 +11239,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/2-sali-cinamide-anti-acne-face-wash-with-2-salicylic-acid-2-niacinamide-150-ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10194,7 +11268,14 @@ const PRODUCTS = [
     "brand": "rb68",
     "url": "https://thedermaco.com/products/1-hyaluronic-sunscreen-oil-free-gel-50-g",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c5",
+      "c21",
+      "c24",
+      "c2",
+      "c18"
+    ],
     "ingredientsRaw": [
       "Shop by ingredients",
       "Niacinamide Range",
@@ -10216,7 +11297,11 @@ const PRODUCTS = [
     "brand": "rb69",
     "url": "https://aqualogica.in/products/glow-dewy-sunscreen-with-spf-50-pa-for-uvab-and-blue-light-protection-for-glowing-and-well-protected-skin-50-gm-3",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c30",
+      "c2",
+      "c21"
+    ],
     "ingredientsRaw": [
       "Dr. Meera’s",
       "3+ new-gen photostable filters",
@@ -10265,8 +11350,12 @@ const PRODUCTS = [
     "chemicals": [
       "c18",
       "c6",
+      "c2",
+      "c11",
+      "c26",
       "c20",
       "c3",
+      "c52",
       "c16",
       "c19"
     ],
@@ -10337,8 +11426,11 @@ const PRODUCTS = [
     "url": "https://aqualogica.in/products/refresh-on-the-go-set-of-3-perfume-body-mist",
     "ingredientsVerified": true,
     "chemicals": [
+      "c28",
       "c18",
-      "c2"
+      "c2",
+      "c47",
+      "c44"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -10387,7 +11479,11 @@ const PRODUCTS = [
     "brand": "rb69",
     "url": "https://aqualogica.in/products/glow-dewy-sunscreen-50g",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c30",
+      "c2",
+      "c21"
+    ],
     "ingredientsRaw": [
       "Dr. Meera’s",
       "3+ new-gen photostable filters",
@@ -10446,8 +11542,12 @@ const PRODUCTS = [
     "chemicals": [
       "c18",
       "c6",
+      "c2",
+      "c11",
+      "c26",
       "c20",
       "c3",
+      "c52",
       "c16",
       "c19"
     ],
@@ -10520,10 +11620,14 @@ const PRODUCTS = [
     "chemicals": [
       "c6",
       "c18",
+      "c39",
       "c2",
       "c1",
+      "c37",
       "c3",
-      "c16"
+      "c16",
+      "c63",
+      "c53"
     ],
     "ingredientsRaw": [
       "Water",
@@ -10558,7 +11662,8 @@ const PRODUCTS = [
     "url": "https://aqualogica.in/products/refresh-perfume-body-mist-sun-kissed-vanilla-150ml",
     "ingredientsVerified": false,
     "chemicals": [
-      "c2"
+      "c2",
+      "c53"
     ],
     "ingredientsRaw": [
       "Gen Z’s POV",
@@ -10644,7 +11749,10 @@ const PRODUCTS = [
     "brand": "rb71",
     "url": "https://bblunt.com/products/hot-shot-hold-spray-for-instant-firm-hold-300-ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Ethyl Alcohol",
       "Butane",
@@ -10711,7 +11819,13 @@ const PRODUCTS = [
     "url": "https://www.stazebeauty.com/products/triple-treat-stacked-face-palette",
     "ingredientsVerified": false,
     "chemicals": [
-      "c8"
+      "c52",
+      "c37",
+      "c6",
+      "c8",
+      "c27",
+      "c61",
+      "c62"
     ],
     "ingredientsRaw": [
       "CONCEALER: Isononyl Isononanoate",
@@ -10804,7 +11918,11 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c8",
-      "c11"
+      "c37",
+      "c11",
+      "c62",
+      "c61",
+      "c27"
     ],
     "ingredientsRaw": [
       "Cyclopentasiloxane",
@@ -10844,7 +11962,10 @@ const PRODUCTS = [
     "url": "https://www.stazebeauty.com/products/gloss-lock-2-in-1-liquid-lipstick-02-im-pretty",
     "ingredientsVerified": false,
     "chemicals": [
+      "c50",
       "c3",
+      "c27",
+      "c61",
       "c6"
     ],
     "ingredientsRaw": [
@@ -10879,7 +12000,9 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c6",
-      "c10"
+      "c52",
+      "c10",
+      "c42"
     ],
     "ingredientsRaw": [
       "Isododecane",
@@ -10918,6 +12041,7 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c6",
+      "c52",
       "c11"
     ],
     "ingredientsRaw": [
@@ -10955,7 +12079,14 @@ const PRODUCTS = [
     "url": "https://www.stazebeauty.com/products/liquid-lipstick-staze-9to9-lips-dont-lie",
     "ingredientsVerified": false,
     "chemicals": [
-      "c6"
+      "c50",
+      "c52",
+      "c53",
+      "c6",
+      "c27",
+      "c61",
+      "c62",
+      "c63"
     ],
     "ingredientsRaw": [
       "Isododecane",
@@ -10990,7 +12121,15 @@ const PRODUCTS = [
     "url": "https://www.stazebeauty.com/products/hd-bright-compact-200w-beige",
     "ingredientsVerified": false,
     "chemicals": [
-      "c6"
+      "c6",
+      "c50",
+      "c3",
+      "c16",
+      "c29",
+      "c11",
+      "c53",
+      "c27",
+      "c61"
     ],
     "ingredientsRaw": [
       "Talc",
@@ -11019,10 +12158,16 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c8",
+      "c39",
       "c6",
       "c3",
+      "c16",
+      "c53",
+      "c33",
       "c12",
-      "c11"
+      "c11",
+      "c27",
+      "c61"
     ],
     "ingredientsRaw": [
       "Cyclopentasiloxane",
@@ -11060,7 +12205,10 @@ const PRODUCTS = [
     "url": "https://www.stazebeauty.com/products/cheek-me-out-intense-color-blendable-multipurpose-stick",
     "ingredientsVerified": false,
     "chemicals": [
+      "c37",
+      "c38",
       "c6",
+      "c52",
       "c11"
     ],
     "ingredientsRaw": [
@@ -11096,8 +12244,11 @@ const PRODUCTS = [
     "url": "https://www.stazebeauty.com/products/oh-my-shadow-intense-color-eye-palette-1",
     "ingredientsVerified": false,
     "chemicals": [
+      "c50",
       "c6",
-      "c3"
+      "c3",
+      "c61",
+      "c27"
     ],
     "ingredientsRaw": [
       "Mica",
@@ -11228,7 +12379,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11251,7 +12405,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/vitamin-c-e-super-bright-moisturizer",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11274,7 +12431,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/watermelon-cooling-spf-50-face-sunscreen",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11297,7 +12457,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/dot-key-ceramides-hyaluronic-hydrating-face-cream-i-repairs-skin-barrier-intense-moisturization-sensitive-dry-skin-fragrance-free",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11320,7 +12483,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-spf-50-pa",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11343,7 +12509,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/meltie-lipbalm",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11366,7 +12535,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/10-niacinamide-strawberry-brightening-face-serum",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11389,7 +12561,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11412,7 +12587,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/hydrating-gel-probiotics-72-hr",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11435,7 +12613,10 @@ const PRODUCTS = [
     "url": "https://www.dotandkey.com/products/10-vitamin-c-e-face-serum-pack-of-2",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c21",
+      "c1",
+      "c5",
+      "c22"
     ],
     "ingredientsRaw": [
       "Vitamin C",
@@ -11888,7 +13069,9 @@ const PRODUCTS = [
     "brand": "rb82",
     "url": "https://thesirona.com/products/cooling-mist",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c3"
+    ],
     "ingredientsRaw": [],
     "image": "http://thesirona.com/cdn/shop/files/Cooling__Mist.png?v=1779433111"
   },
@@ -12016,7 +13199,9 @@ const PRODUCTS = [
     "brand": "rb84",
     "url": "https://letshyphen.com/products/melanoclear-brightening-moisturizer-50-gm",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1"
+    ],
     "ingredientsRaw": [
       "1% Melazero",
       "4% Niacinamide",
@@ -12031,7 +13216,9 @@ const PRODUCTS = [
     "brand": "rb84",
     "url": "https://letshyphen.com/products/triple-clay-pore-detox-brightening-face-mask-50-gm",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c10"
+    ],
     "ingredientsRaw": [
       "Kaolin Clay",
       "Bentonite Clay",
@@ -12064,7 +13251,9 @@ const PRODUCTS = [
     "brand": "rb84",
     "url": "https://letshyphen.com/products/soak-it-up-moisturizing-body-wash-with-5-glycerin-1-trehalose-250ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c18"
+    ],
     "ingredientsRaw": [
       "5% Glycerin",
       "1% Trehalose",
@@ -12079,7 +13268,10 @@ const PRODUCTS = [
     "brand": "rb84",
     "url": "https://letshyphen.com/products/bright-barrier-body-lotion-200ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c21"
+    ],
     "ingredientsRaw": [
       "10% (Niacinamide + Niosome Vitamin C)",
       "Glutathione",
@@ -12103,7 +13295,9 @@ const PRODUCTS = [
     "brand": "rb84",
     "url": "https://letshyphen.com/products/juicy-lips-trio",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c54"
+    ],
     "ingredientsRaw": [
       "Peptides:",
       "Vitamin E 1%",
@@ -12118,7 +13312,9 @@ const PRODUCTS = [
     "brand": "rb84",
     "url": "https://letshyphen.com/products/juicy-lips-or-nothing-kit",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c54"
+    ],
     "ingredientsRaw": [
       "PEPTIDES",
       "VITAMIN E 1%",
@@ -12136,7 +13332,9 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c2",
-      "c1"
+      "c1",
+      "c54",
+      "c23"
     ],
     "ingredientsRaw": [
       "Kakadu Plum",
@@ -12157,7 +13355,9 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c2",
-      "c1"
+      "c1",
+      "c54",
+      "c23"
     ],
     "ingredientsRaw": [
       "Kakadu Plum",
@@ -12327,10 +13527,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/rosemary-rice-water-hair-growth-spray",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12360,10 +13567,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/hair-growth-serum-roll-on",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12393,10 +13607,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/advanced-anti-grey-serum",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12426,10 +13647,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/lactic-acid-zemea-vitamin-e-exfoliating-body-wash",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12459,10 +13687,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/expert-anti-dandruff-shampoo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12492,10 +13727,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/underarm-roll-on",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12525,10 +13767,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/anti-hairfall-shampoo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12558,10 +13807,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/advanced-hair-growth-serum",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12591,10 +13847,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/anti-hair-fall-shampoo-conditioner-combo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12624,10 +13887,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/natural-lip-balm",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12657,10 +13927,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/rosemary-rice-water-hair-growth-spray",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12690,10 +13967,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/hair-growth-serum-roll-on",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12723,10 +14007,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/advanced-anti-grey-serum",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12756,10 +14047,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/lactic-acid-zemea-vitamin-e-exfoliating-body-wash",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12789,10 +14087,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/expert-anti-dandruff-shampoo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12822,10 +14127,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/underarm-roll-on",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12855,10 +14167,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/anti-hairfall-shampoo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12888,10 +14207,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/advanced-hair-growth-serum",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12921,10 +14247,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/anti-hair-fall-shampoo-conditioner-combo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12954,10 +14287,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/natural-lip-balm",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -12987,10 +14327,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/rosemary-rice-water-hair-growth-spray",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13020,10 +14367,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/hair-growth-serum-roll-on",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13053,10 +14407,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/advanced-anti-grey-serum",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13086,10 +14447,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/lactic-acid-zemea-vitamin-e-exfoliating-body-wash",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13119,10 +14487,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/expert-anti-dandruff-shampoo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13152,10 +14527,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/underarm-roll-on",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13185,10 +14567,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/anti-hairfall-shampoo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13218,10 +14607,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/advanced-hair-growth-serum",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13251,10 +14647,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/anti-hair-fall-shampoo-conditioner-combo",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13284,10 +14687,17 @@ const PRODUCTS = [
     "url": "https://innovist.com/products/natural-lip-balm",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1",
       "c5",
       "c2",
-      "c7"
+      "c54",
+      "c23",
+      "c25",
+      "c24",
+      "c51",
+      "c7",
+      "c22"
     ],
     "ingredientsRaw": [
       "Ingredients",
@@ -13599,9 +15009,15 @@ const PRODUCTS = [
     "url": "https://www.flipkart.com/karthika-dryness-shield-shampoo-amla-henna-aloe-vera-long-thick-hair/p/itm52a165842b8bb?pid=SMPHCXXE4XKWYGYJ&lid=LSTSMPHCXXE4XKWYGYJRAVXLZ&marketplace=FLIPKART&q=Karthika+personal+care&store=g9b%2Flcf%2Fqqm&srno=s_1_1&otracker=search&fm=organic&iid=en_PRFhUmgIgbZ-exnqPT_i8n_JWB0o9hjL9ZT3240VvWiqw6rinG83fNIbrvXEZAiN8UeJeL6ooXzdRB0WathnqLf5-4L4wym00V7h3R5Y1ymWvuxyoE1ExwXNWMrxsgKY&ppt=None&ppn=None&ssid=lqb7ert6q80000001790571614631&qH=adc46b1c57f00f5b&ov_redirect=true&ov_redirect=true",
     "ingredientsVerified": true,
     "chemicals": [
+      "c32",
       "c13",
+      "c33",
+      "c53",
       "c12",
-      "c19"
+      "c62",
+      "c63",
+      "c19",
+      "c35"
     ],
     "ingredientsRaw": [
       "Water",
@@ -13934,7 +15350,10 @@ const PRODUCTS = [
     "brand": "rb102",
     "url": "https://www.raagaprofessional.com/products/instant-tan-removal-cream-for-face-72g",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c24",
+      "c23"
+    ],
     "ingredientsRaw": [
       "Kojic Acid",
       "Stops your skin from overproducing melanin",
@@ -13950,7 +15369,10 @@ const PRODUCTS = [
     "brand": "rb102",
     "url": "https://www.raagaprofessional.com/collections/all/products/instant-tan-removal-cream-for-face-72g",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c24",
+      "c23"
+    ],
     "ingredientsRaw": [
       "Kojic Acid",
       "Stops your skin from overproducing melanin",
@@ -13966,7 +15388,10 @@ const PRODUCTS = [
     "brand": "rb102",
     "url": "https://www.raagaprofessional.com/products/de-tan-tan-removal-cream-kojic-milk-72g-12g-6",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c24",
+      "c23"
+    ],
     "ingredientsRaw": [
       "Kojic Acid",
       "Stops your skin from overproducing melanin",
@@ -14781,7 +16206,9 @@ const PRODUCTS = [
     "brand": "rb119",
     "url": "https://www.lotusbotanicals.com/products/carrot-niacinamide-glow-and-de-tan-mineral-sunscreen-spf-50-pa",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1"
+    ],
     "ingredientsRaw": [
       "CARROT EXTRACT:",
       "NIACINAMIDE:"
@@ -14794,7 +16221,9 @@ const PRODUCTS = [
     "brand": "rb119",
     "url": "https://www.lotusbotanicals.com/products/sandalwood-hyaluronic-acid-glow-and-hydrating-sunscreen-serum-spf50-pa",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c2"
+    ],
     "ingredientsRaw": [
       "Together"
     ],
@@ -14825,6 +16254,7 @@ const PRODUCTS = [
     "url": "https://www.lotusbotanicals.com/products/vitamin-c-skin-brightening-face-serum",
     "ingredientsVerified": false,
     "chemicals": [
+      "c21",
       "c1"
     ],
     "ingredientsRaw": [
@@ -14874,7 +16304,8 @@ const PRODUCTS = [
       "c13",
       "c18",
       "c10",
-      "c12"
+      "c12",
+      "c53"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -14906,7 +16337,8 @@ const PRODUCTS = [
       "c13",
       "c18",
       "c10",
-      "c12"
+      "c12",
+      "c53"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -15178,6 +16610,7 @@ const PRODUCTS = [
     "url": "https://shahnaz.in/products/shahnaz-husain-hair-touch-up-plus-black-7-50g",
     "ingredientsVerified": false,
     "chemicals": [
+      "c38",
       "c3",
       "c11"
     ],
@@ -15251,7 +16684,9 @@ const PRODUCTS = [
     "brand": "rb122",
     "url": "https://shahnaz.in/products/diamond-skin-revival-kit-10gx4-diamond-nourishing-cream-diamond-scrub-diamond-lotion-diamond-rejuvenating-mask-free-professional-power-skin-tonic-15ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c18"
+    ],
     "ingredientsRaw": [
       "Date",
       "Shea Butter",
@@ -15297,8 +16732,21 @@ const PRODUCTS = [
     "url": "https://shahnaz.in/products/shahnaz-husain-pot-of-gold-plus-foundation-30g",
     "ingredientsVerified": false,
     "chemicals": [
+      "c38",
       "c18",
-      "c6"
+      "c40",
+      "c6",
+      "c53",
+      "c58",
+      "c46",
+      "c56",
+      "c59",
+      "c47",
+      "c45",
+      "c3",
+      "c50",
+      "c27",
+      "c61"
     ],
     "ingredientsRaw": [
       "Aqua (Water)",
@@ -15387,9 +16835,18 @@ const PRODUCTS = [
     "url": "https://shahnaz.in/products/shahnaz-husain-shacover-foundation-50g",
     "ingredientsVerified": false,
     "chemicals": [
+      "c38",
+      "c37",
       "c18",
+      "c52",
       "c20",
-      "c15"
+      "c29",
+      "c40",
+      "c53",
+      "c26",
+      "c15",
+      "c27",
+      "c61"
     ],
     "ingredientsRaw": [
       "Water (Aqua)",
@@ -15441,11 +16898,15 @@ const PRODUCTS = [
     "url": "https://shahnaz.in/products/papaya-saffron-face-wash-50g",
     "ingredientsVerified": false,
     "chemicals": [
+      "c32",
       "c13",
       "c18",
       "c3",
+      "c6",
+      "c53",
       "c15",
-      "c16"
+      "c16",
+      "c61"
     ],
     "ingredientsRaw": [
       "Aqua (Water)",
@@ -15522,6 +16983,8 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c18",
+      "c10",
+      "c3",
       "c19"
     ],
     "ingredientsRaw": [
@@ -15551,7 +17014,8 @@ const PRODUCTS = [
     "chemicals": [
       "c18",
       "c3",
-      "c14"
+      "c14",
+      "c53"
     ],
     "ingredientsRaw": [
       "Cherry fruit juice",
@@ -15583,7 +17047,12 @@ const PRODUCTS = [
     "url": "https://www.jovees.com/products/jovees-derma-rice-water-4-niacinamide-glowing-skin-toner-100-ml",
     "ingredientsVerified": false,
     "chemicals": [
-      "c1"
+      "c1",
+      "c10",
+      "c3",
+      "c18",
+      "c26",
+      "c53"
     ],
     "ingredientsRaw": [
       "Purified water",
@@ -15620,7 +17089,10 @@ const PRODUCTS = [
     "url": "https://www.jovees.com/products/lemon-face-wash",
     "ingredientsVerified": false,
     "chemicals": [
-      "c18"
+      "c18",
+      "c3",
+      "c62",
+      "c53"
     ],
     "ingredientsRaw": [
       "Lemon peel extract",
@@ -15648,7 +17120,8 @@ const PRODUCTS = [
     "url": "https://www.jovees.com/products/honey-apple-conditioning-shampoo",
     "ingredientsVerified": false,
     "chemicals": [
-      "c3"
+      "c3",
+      "c53"
     ],
     "ingredientsRaw": [
       "Honey",
@@ -15692,7 +17165,10 @@ const PRODUCTS = [
     "chemicals": [
       "c1",
       "c18",
-      "c2"
+      "c2",
+      "c26",
+      "c3",
+      "c53"
     ],
     "ingredientsRaw": [
       "Niacinamide",
@@ -15720,7 +17196,12 @@ const PRODUCTS = [
     "url": "https://www.jovees.com/collections/all/products/jovees-herbal-2-alpha-arbutin-pigmentation-cure-serum-with-1-kojic-acid-cica-extract-vitamin-b3-reduces-acne-spots-uneven-skin-tone-for-all-skin-types-30-ml",
     "ingredientsVerified": false,
     "chemicals": [
-      "c2"
+      "c24",
+      "c26",
+      "c3",
+      "c18",
+      "c2",
+      "c53"
     ],
     "ingredientsRaw": [
       "Barley extract",
@@ -15748,7 +17229,10 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c18",
-      "c5"
+      "c5",
+      "c3",
+      "c26",
+      "c53"
     ],
     "ingredientsRaw": [
       "Glycerin",
@@ -16303,7 +17787,9 @@ const PRODUCTS = [
     "brand": "rb130",
     "url": "https://www.layerr.com/products/rose-vitamin-e-300ml-copy",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53"
+    ],
     "ingredientsRaw": [
       "Coconut & Vanilla",
       "Coconut Oil",
@@ -16481,7 +17967,9 @@ const PRODUCTS = [
     "brand": "rb131",
     "url": "https://wottagirl.com/collections/all/products/coconut-vanilla-shower-gel-300ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c53"
+    ],
     "ingredientsRaw": [
       "Coconut & Vanilla",
       "Coconut Oil",
@@ -16801,11 +18289,14 @@ const PRODUCTS = [
       "c8",
       "c4",
       "c9",
+      "c36",
       "c6",
       "c20",
       "c7",
       "c3",
       "c16",
+      "c53",
+      "c29",
       "c10",
       "c11",
       "c19",
@@ -16857,6 +18348,7 @@ const PRODUCTS = [
       "c1",
       "c14",
       "c15",
+      "c53",
       "c7"
     ],
     "ingredientsRaw": [
@@ -16900,6 +18392,7 @@ const PRODUCTS = [
       "c1",
       "c14",
       "c15",
+      "c53",
       "c7"
     ],
     "ingredientsRaw": [
@@ -16938,6 +18431,8 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c18",
+      "c48",
+      "c39",
       "c2",
       "c3",
       "c16",
@@ -16994,11 +18489,16 @@ const PRODUCTS = [
     "url": "https://plumgoodness.com/products/thinkderma-1-resveratrol-vitamin-c-youthful-glow-moisturizer-fights-signs-of-aging-enhances-collagen-production-boosts-glow-lightweight-quick-absorbing-100-vegan",
     "ingredientsVerified": true,
     "chemicals": [
+      "c40",
+      "c37",
       "c18",
       "c17",
+      "c21",
       "c4",
       "c3",
       "c16",
+      "c38",
+      "c53",
       "c19"
     ],
     "ingredientsRaw": [
@@ -17041,8 +18541,11 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c2",
+      "c42",
+      "c26",
       "c18",
-      "c3"
+      "c3",
+      "c48"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -17087,8 +18590,11 @@ const PRODUCTS = [
       "c13",
       "c18",
       "c5",
+      "c48",
+      "c35",
       "c3",
       "c16",
+      "c53",
       "c10"
     ],
     "ingredientsRaw": [
@@ -17127,6 +18633,9 @@ const PRODUCTS = [
     "url": "https://plumgoodness.com/products/vitamin-c-face-toner-with-mandarin-kakadu-plum",
     "ingredientsVerified": true,
     "chemicals": [
+      "c21",
+      "c42",
+      "c48",
       "c19"
     ],
     "ingredientsRaw": [
@@ -17158,6 +18667,7 @@ const PRODUCTS = [
     "chemicals": [
       "c18",
       "c6",
+      "c21",
       "c2",
       "c3",
       "c16",
@@ -17205,6 +18715,9 @@ const PRODUCTS = [
     "url": "https://plumgoodness.com/products/vitamin-c-toner-with-mandarin",
     "ingredientsVerified": true,
     "chemicals": [
+      "c21",
+      "c42",
+      "c48",
       "c19"
     ],
     "ingredientsRaw": [
@@ -17435,7 +18948,12 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/exfoliating-glycolic-acid-toner",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c7",
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -17505,7 +19023,11 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/acne-pimple-patch",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c5",
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -17576,7 +19098,12 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/aha-salicylic-acid-body-wash",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c5",
+      "c7",
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -17645,7 +19172,12 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/detan-sunscreen-body-lotion-4-niacinamide-1-kojic-acid-dipalmitate-spf-50-pa",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c24",
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -17715,7 +19247,11 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/moisture-locking-lip-sleeping-mask-with-collagen-and-peptide",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c54",
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -17787,7 +19323,10 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/vitamin-c-and-ferulic-acid-serum",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Bestseller",
       "Skip to product information",
@@ -17883,7 +19422,11 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/2-in-1-formula-moisturizer-with-spf-50-pa",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c10",
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -17962,7 +19505,12 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/oil-free-hydrating-face-serum",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c1",
+      "c2",
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -18035,7 +19583,10 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/vitamin-c-gel-sunscreen",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c21",
+      "c53"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -18126,7 +19677,10 @@ const PRODUCTS = [
     "brand": "rb139",
     "url": "https://thedeconstruct.in/products/acne-control-moisturizer",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c10",
+      "c21"
+    ],
     "ingredientsRaw": [
       "Skip to product information",
       "Open media 1 in modal",
@@ -18215,7 +19769,12 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c8",
-      "c11"
+      "c6",
+      "c29",
+      "c27",
+      "c37",
+      "c11",
+      "c53"
     ],
     "ingredientsRaw": [
       "Cyclopentasiloxane",
@@ -18263,6 +19822,7 @@ const PRODUCTS = [
       "c18",
       "c10",
       "c12",
+      "c26",
       "c19"
     ],
     "ingredientsRaw": [
@@ -18296,7 +19856,8 @@ const PRODUCTS = [
       "c18",
       "c13",
       "c10",
-      "c12"
+      "c12",
+      "c35"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -18335,8 +19896,11 @@ const PRODUCTS = [
       "c14",
       "c15",
       "c19",
+      "c33",
       "c11",
-      "c12"
+      "c12",
+      "c62",
+      "c53"
     ],
     "ingredientsRaw": [
       "AQUA(WATER)",
@@ -18396,6 +19960,7 @@ const PRODUCTS = [
     "url": "https://juicychemistry.com/products/aloe-vera-gel",
     "ingredientsVerified": false,
     "chemicals": [
+      "c26",
       "c19"
     ],
     "ingredientsRaw": [
@@ -18416,7 +19981,10 @@ const PRODUCTS = [
     "url": "https://juicychemistry.com/products/moisturising-mineral-sunscreen-spf-40",
     "ingredientsVerified": false,
     "chemicals": [
-      "c4"
+      "c38",
+      "c4",
+      "c5",
+      "c18"
     ],
     "ingredientsRaw": [
       "Aloe Barbadensis Leaf Juice*",
@@ -18442,7 +20010,9 @@ const PRODUCTS = [
     "brand": "rb142",
     "url": "https://juicychemistry.com/products/saffron-rose-australian-sandalwood-organic-face-scrub",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c11"
+    ],
     "ingredientsRaw": [
       "Sucrose (Sugar)",
       "Oryza Sativa (Rice) Powder*",
@@ -18466,7 +20036,9 @@ const PRODUCTS = [
     "brand": "rb142",
     "url": "https://juicychemistry.com/products/blood-orange-rosehip-organic-lip-balm",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c11"
+    ],
     "ingredientsRaw": [
       "Prunus Armeniaca (Apricot) Kernel Oil*",
       "RicinusCommunis (Castor) Seed Oil*",
@@ -18496,7 +20068,11 @@ const PRODUCTS = [
     "url": "https://juicychemistry.com/products/5-aha-2-bha-underarm-roll-on-deodorant",
     "ingredientsVerified": false,
     "chemicals": [
-      "c5"
+      "c39",
+      "c23",
+      "c5",
+      "c35",
+      "c26"
     ],
     "ingredientsRaw": [
       "Aloe Barbadensis Leaf Juice*",
@@ -18571,7 +20147,13 @@ const PRODUCTS = [
     "url": "https://juicychemistry.com/products/stemcells-multi-peptide-hair-growth-serum-fortified-with-redensyl-anagain-30-ml",
     "ingredientsVerified": true,
     "chemicals": [
-      "c2"
+      "c51",
+      "c39",
+      "c14",
+      "c16",
+      "c2",
+      "c5",
+      "c35"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -18633,12 +20215,16 @@ const PRODUCTS = [
     "url": "https://www.arata.in/products/arata-mitoactive-mitochondrial-hair-growth-serum-30-ml",
     "ingredientsVerified": true,
     "chemicals": [
+      "c37",
       "c3",
       "c6",
       "c20",
+      "c53",
       "c2",
       "c11",
+      "c21",
       "c16",
+      "c35",
       "c15"
     ],
     "ingredientsRaw": [
@@ -18681,7 +20267,9 @@ const PRODUCTS = [
     "url": "https://www.arata.in/products/arata-super-shampoo-200ml",
     "ingredientsVerified": false,
     "chemicals": [
-      "c2"
+      "c10",
+      "c2",
+      "c11"
     ],
     "ingredientsRaw": [
       "1% N-DurHance™",
@@ -18703,7 +20291,9 @@ const PRODUCTS = [
     "brand": "rb143",
     "url": "https://www.arata.in/products/arata-intensive-hair-growth-serum-hair-fall-30ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c51"
+    ],
     "ingredientsRaw": [
       "3% Redensyl",
       "3% Procapil",
@@ -18720,7 +20310,9 @@ const PRODUCTS = [
     "brand": "rb143",
     "url": "https://www.arata.in/products/arata-anti-hair-fall-shampoo-200ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25"
+    ],
     "ingredientsRaw": [
       "Hairdian AP",
       "Caffeine",
@@ -18736,7 +20328,10 @@ const PRODUCTS = [
     "brand": "rb143",
     "url": "https://www.arata.in/products/arata-anti-hair-fall-shampoo-hair-growth-serum-combo",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c51",
+      "c25"
+    ],
     "ingredientsRaw": [
       "Redensyl",
       "Procapil",
@@ -18754,7 +20349,9 @@ const PRODUCTS = [
     "brand": "rb143",
     "url": "https://www.arata.in/products/arata-anti-dandruff-shampoo-200ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c5"
+    ],
     "ingredientsRaw": [
       "1% Piroctone Olamine",
       "1% Salicylic Acid",
@@ -18789,7 +20386,9 @@ const PRODUCTS = [
     "brand": "rb143",
     "url": "https://www.arata.in/products/arata-anti-grey-hair-serum-premature-greying-30ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25"
+    ],
     "ingredientsRaw": [
       "2% MelanoGray™",
       "1.5% Silverfree™",
@@ -18805,7 +20404,9 @@ const PRODUCTS = [
     "brand": "rb143",
     "url": "https://www.arata.in/products/arata-anti-breakage-intensive-conditioner-200ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c25"
+    ],
     "ingredientsRaw": [
       "ReparAge®",
       "Aurist AGC™",
@@ -18821,7 +20422,9 @@ const PRODUCTS = [
     "brand": "rb143",
     "url": "https://www.arata.in/products/arata-anti-dandruff-conditioner-200ml",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c5"
+    ],
     "ingredientsRaw": [
       "1% Piroctone Olamine",
       "1% Salicylic Acid",
@@ -18839,7 +20442,10 @@ const PRODUCTS = [
     "brand": "rb144",
     "url": "https://www.vilvah.com/products/anti-aging-face-serum",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c22",
+      "c54"
+    ],
     "ingredientsRaw": [
       "Previous",
       "Next",
@@ -19069,7 +20675,11 @@ const PRODUCTS = [
     "brand": "rb145",
     "url": "https://traya.health/products/hair-vitamin-biotin-and-bhringraj",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c21",
+      "c52",
+      "c25"
+    ],
     "ingredientsRaw": [
       "Vitamins and Minerals",
       "AnA",
@@ -19115,6 +20725,7 @@ const PRODUCTS = [
     "url": "https://traya.health/products/defence-shampoo-mild-shampoo-with-biotin-100-ml-copy",
     "ingredientsVerified": false,
     "chemicals": [
+      "c1",
       "c19"
     ],
     "ingredientsRaw": [
@@ -19133,7 +20744,8 @@ const PRODUCTS = [
     "url": "https://traya.health/products/defence-conditioner",
     "ingredientsVerified": false,
     "chemicals": [
-      "c1"
+      "c1",
+      "c25"
     ],
     "ingredientsRaw": [
       "Niacinamide",
@@ -19152,7 +20764,9 @@ const PRODUCTS = [
     "brand": "rb145",
     "url": "https://traya.health/products/calm-ras-100-herbal-actives-helps-manage-anxiety-stress-live",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c21"
+    ],
     "ingredientsRaw": [
       "Jatamansi",
       "Ashwagandha",
@@ -19242,7 +20856,9 @@ const PRODUCTS = [
     "brand": "rb145",
     "url": "https://traya.health/products/hair-actives-serum-copy-1",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c51"
+    ],
     "ingredientsRaw": [
       "Redensyl 3%",
       "Hairgenyl 0.3%",
@@ -19667,8 +21283,12 @@ const PRODUCTS = [
     "url": "https://www.sugarcosmetics.com/products/sugar-pop-16-hr-perfume-gift-set",
     "ingredientsVerified": true,
     "chemicals": [
+      "c62",
+      "c63",
+      "c53",
       "c20",
-      "c16"
+      "c16",
+      "c28"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -19724,7 +21344,12 @@ const PRODUCTS = [
     "url": "https://www.sugarcosmetics.com/products/sugar-pop-24-hour-waterproof-kajal-01-black",
     "ingredientsVerified": true,
     "chemicals": [
-      "c18"
+      "c18",
+      "c21",
+      "c53",
+      "c3",
+      "c16",
+      "c33"
     ],
     "ingredientsRaw": [
       "Water",
@@ -19775,9 +21400,18 @@ const PRODUCTS = [
     "url": "https://www.sugarcosmetics.com/products/4-in-1-lip-twist-1",
     "ingredientsVerified": false,
     "chemicals": [
+      "c2",
+      "c40",
       "c6",
+      "c37",
       "c11",
-      "c2"
+      "c3",
+      "c16",
+      "c53",
+      "c62",
+      "c27",
+      "c61",
+      "c63"
     ],
     "ingredientsRaw": [
       "Twist. Swipe. Slay",
@@ -19920,7 +21554,11 @@ const PRODUCTS = [
     "brand": "rb150",
     "url": "https://www.sugarcosmetics.com/products/4-in-1-nail-lacquer-kit-01-nude-nectar",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c52",
+      "c41"
+    ],
     "ingredientsRaw": [
       "Caramel Cream for those soft",
       "Kit Includes:",
@@ -19994,7 +21632,11 @@ const PRODUCTS = [
     "brand": "rb150",
     "url": "https://www.sugarcosmetics.com/products/4-in-1-nail-lacquer-kit-02-rouge-canvas",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c52",
+      "c41"
+    ],
     "ingredientsRaw": [
       "Kit includes",
       "About this item",
@@ -20076,7 +21718,11 @@ const PRODUCTS = [
     "brand": "rb150",
     "url": "https://www.sugarcosmetics.com/products/4-in-1-nail-lacquer-kit-03-radiant-rainbow",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c52",
+      "c41"
+    ],
     "ingredientsRaw": [
       "Burgundy Bloom with your favourite denims",
       "Kit Includes:",
@@ -20159,7 +21805,11 @@ const PRODUCTS = [
     "brand": "rb150",
     "url": "https://www.sugarcosmetics.com/products/4-in-1-nail-lacquer-kit-04-pastel-paradise",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c52",
+      "c41"
+    ],
     "ingredientsRaw": [
       "If dreamy",
       "Kit includes",
@@ -20244,11 +21894,19 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c8",
+      "c27",
+      "c50",
       "c20",
       "c18",
+      "c6",
+      "c40",
       "c1",
+      "c26",
       "c2",
-      "c3"
+      "c3",
+      "c53",
+      "c28",
+      "c61"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -20307,9 +21965,17 @@ const PRODUCTS = [
     "url": "https://www.sugarcosmetics.com/products/ace-of-face-foundation-stick",
     "ingredientsVerified": false,
     "chemicals": [
+      "c61",
       "c6",
+      "c27",
+      "c37",
+      "c29",
+      "c50",
+      "c52",
       "c3",
-      "c16"
+      "c42",
+      "c16",
+      "c28"
     ],
     "ingredientsRaw": [
       "If you're always on the move",
@@ -20398,8 +22064,12 @@ const PRODUCTS = [
     "url": "https://www.sugarcosmetics.com/products/sugar-pop-16-hr-perfume-gift-set",
     "ingredientsVerified": true,
     "chemicals": [
+      "c62",
+      "c63",
+      "c53",
       "c20",
-      "c16"
+      "c16",
+      "c28"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -20455,7 +22125,12 @@ const PRODUCTS = [
     "url": "https://www.sugarcosmetics.com/products/sugar-pop-24-hour-waterproof-kajal-01-black",
     "ingredientsVerified": true,
     "chemicals": [
-      "c18"
+      "c18",
+      "c21",
+      "c53",
+      "c3",
+      "c16",
+      "c33"
     ],
     "ingredientsRaw": [
       "Water",
@@ -20506,9 +22181,18 @@ const PRODUCTS = [
     "url": "https://www.sugarcosmetics.com/products/4-in-1-lip-twist-1",
     "ingredientsVerified": false,
     "chemicals": [
+      "c2",
+      "c40",
       "c6",
+      "c37",
       "c11",
-      "c2"
+      "c3",
+      "c16",
+      "c53",
+      "c62",
+      "c27",
+      "c61",
+      "c63"
     ],
     "ingredientsRaw": [
       "Twist. Swipe. Slay",
@@ -20651,7 +22335,11 @@ const PRODUCTS = [
     "brand": "rb151",
     "url": "https://www.sugarcosmetics.com/products/4-in-1-nail-lacquer-kit-01-nude-nectar",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c52",
+      "c41"
+    ],
     "ingredientsRaw": [
       "Caramel Cream for those soft",
       "Kit Includes:",
@@ -20725,7 +22413,11 @@ const PRODUCTS = [
     "brand": "rb151",
     "url": "https://www.sugarcosmetics.com/products/4-in-1-nail-lacquer-kit-02-rouge-canvas",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c52",
+      "c41"
+    ],
     "ingredientsRaw": [
       "Kit includes",
       "About this item",
@@ -20807,7 +22499,11 @@ const PRODUCTS = [
     "brand": "rb151",
     "url": "https://www.sugarcosmetics.com/products/4-in-1-nail-lacquer-kit-03-radiant-rainbow",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c52",
+      "c41"
+    ],
     "ingredientsRaw": [
       "Burgundy Bloom with your favourite denims",
       "Kit Includes:",
@@ -20890,7 +22586,11 @@ const PRODUCTS = [
     "brand": "rb151",
     "url": "https://www.sugarcosmetics.com/products/4-in-1-nail-lacquer-kit-04-pastel-paradise",
     "ingredientsVerified": false,
-    "chemicals": [],
+    "chemicals": [
+      "c36",
+      "c52",
+      "c41"
+    ],
     "ingredientsRaw": [
       "If dreamy",
       "Kit includes",
@@ -20975,11 +22675,19 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c8",
+      "c27",
+      "c50",
       "c20",
       "c18",
+      "c6",
+      "c40",
       "c1",
+      "c26",
       "c2",
-      "c3"
+      "c3",
+      "c53",
+      "c28",
+      "c61"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -21038,9 +22746,17 @@ const PRODUCTS = [
     "url": "https://www.sugarcosmetics.com/products/ace-of-face-foundation-stick",
     "ingredientsVerified": false,
     "chemicals": [
+      "c61",
       "c6",
+      "c27",
+      "c37",
+      "c29",
+      "c50",
+      "c52",
       "c3",
-      "c16"
+      "c42",
+      "c16",
+      "c28"
     ],
     "ingredientsRaw": [
       "If you're always on the move",
@@ -21357,8 +23073,13 @@ const PRODUCTS = [
     "url": "https://colorbarcosmetics.com/products/24hrs-wear-weightless-powder-foundation",
     "ingredientsVerified": false,
     "chemicals": [
+      "c50",
+      "c27",
+      "c29",
       "c3",
-      "c15"
+      "c15",
+      "c52",
+      "c61"
     ],
     "ingredientsRaw": [
       "Talc",
@@ -21405,11 +23126,19 @@ const PRODUCTS = [
     "chemicals": [
       "c18",
       "c8",
+      "c4",
+      "c11",
       "c3",
       "c16",
       "c2",
+      "c30",
+      "c29",
+      "c26",
+      "c38",
       "c14",
-      "c15"
+      "c15",
+      "c35",
+      "c53"
     ],
     "ingredientsRaw": [
       "Purified Water",
@@ -21535,7 +23264,9 @@ const PRODUCTS = [
     "chemicals": [
       "c3",
       "c1",
-      "c12"
+      "c12",
+      "c2",
+      "c11"
     ],
     "ingredientsRaw": [
       "Purified Aqua",
@@ -21645,7 +23376,14 @@ const PRODUCTS = [
     "url": "https://www.reneecosmetics.in/products/renee-stay-forever-matte-liquid-lipsticks-combo-of-10",
     "ingredientsVerified": false,
     "chemicals": [
-      "c3"
+      "c50",
+      "c52",
+      "c6",
+      "c27",
+      "c62",
+      "c63",
+      "c3",
+      "c11"
     ],
     "ingredientsRaw": [
       "All Ingredients:",
@@ -21792,7 +23530,13 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c8",
-      "c3"
+      "c28",
+      "c42",
+      "c3",
+      "c50",
+      "c27",
+      "c61",
+      "c62"
     ],
     "ingredientsRaw": [
       "Trimethylsiloxysilicate",
@@ -21827,8 +23571,13 @@ const PRODUCTS = [
     "url": "https://marscosmetics.in/products/edge-of-desire-lip-liner",
     "ingredientsVerified": false,
     "chemicals": [
+      "c50",
+      "c37",
       "c3",
-      "c11"
+      "c11",
+      "c42",
+      "c27",
+      "c61"
     ],
     "ingredientsRaw": [
       "Hydrogenated Polyisobutene",
@@ -21861,9 +23610,14 @@ const PRODUCTS = [
     "chemicals": [
       "c6",
       "c11",
+      "c52",
       "c3",
       "c16",
-      "c2"
+      "c53",
+      "c2",
+      "c27",
+      "c61",
+      "c63"
     ],
     "ingredientsRaw": [
       "Tridecyl Trimellitate",
@@ -21902,7 +23656,10 @@ const PRODUCTS = [
     "ingredientsVerified": false,
     "chemicals": [
       "c2",
-      "c11"
+      "c40",
+      "c11",
+      "c28",
+      "c53"
     ],
     "ingredientsRaw": [
       "This Moisturising Lip Balm contains Simmondsia",
@@ -21932,9 +23689,14 @@ const PRODUCTS = [
     "ingredientsVerified": true,
     "chemicals": [
       "c20",
+      "c38",
+      "c52",
       "c6",
       "c3",
-      "c16"
+      "c42",
+      "c16",
+      "c53",
+      "c61"
     ],
     "ingredientsRaw": [
       "Aqua",
@@ -21971,7 +23733,10 @@ const PRODUCTS = [
     "chemicals": [
       "c8",
       "c11",
-      "c3"
+      "c3",
+      "c16",
+      "c27",
+      "c61"
     ],
     "ingredientsRaw": [
       "Cyclopentasiloxane",
@@ -22001,7 +23766,9 @@ const PRODUCTS = [
     "chemicals": [
       "c20",
       "c2",
-      "c3"
+      "c3",
+      "c53",
+      "c61"
     ],
     "ingredientsRaw": [
       "Aqua (Water)",
@@ -22023,8 +23790,12 @@ const PRODUCTS = [
     "url": "https://marscosmetics.in/products/wonder-2-in-1-compact-powder",
     "ingredientsVerified": false,
     "chemicals": [
+      "c50",
+      "c37",
       "c6",
-      "c3"
+      "c3",
+      "c42",
+      "c61"
     ],
     "ingredientsRaw": [
       "Talc",
@@ -22052,8 +23823,14 @@ const PRODUCTS = [
     "url": "https://marscosmetics.in/products/face-palette-fantasy",
     "ingredientsVerified": false,
     "chemicals": [
+      "c50",
       "c6",
-      "c16"
+      "c3",
+      "c16",
+      "c61",
+      "c27",
+      "c62",
+      "c52"
     ],
     "ingredientsRaw": [
       "Shade 1",
@@ -22095,7 +23872,15 @@ const PRODUCTS = [
     "url": "https://marscosmetics.in/products/cover-rangers-all-in-one-palette",
     "ingredientsVerified": false,
     "chemicals": [
-      "c6"
+      "c50",
+      "c6",
+      "c52",
+      "c40",
+      "c27",
+      "c28",
+      "c61",
+      "c63",
+      "c62"
     ],
     "ingredientsRaw": [
       "Ethylhexyl Palmitate",
