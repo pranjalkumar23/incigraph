@@ -151,6 +151,10 @@ SKIP_TOKENS = {"view more", "view less", "see all"}
 
 def clean_ingredient_token(token):
     token = token.strip().strip(".")
+    # Some source pages prefix a label's value with a stray leading colon (e.g. a
+    # "Color: Iron Oxide Black" spec row scraped as just its value) — strip that so
+    # the real ingredient name underneath still gets recognized.
+    token = re.sub(r"^:\s*", "", token).strip()
     return token
 
 
@@ -170,12 +174,35 @@ BENEFIT_WORD_RE = re.compile(
     re.I,
 )
 
+# Marketing bullets, disclaimers, usage instructions, and e-commerce/address boilerplate that
+# some source pages mix into the same block of text as the actual INCI list. None of this is a
+# real ingredient, but it doesn't start with a lowercase letter or a "benefit" verb, so the
+# checks above let it through.
+LEADING_MARKER_RE = re.compile(r"^[\-\*→•]")
+NUMBERED_BULLET_RE = re.compile(r"^\d+[.)]\s")
+JUNK_PATTERN_RE = re.compile(
+    r"(shop by|view all|open media|read more|check delivery|customer favor|regular price|"
+    r"why it works|estimated delivery|cash on delivery|pincode|country of origin|company name|"
+    r"warehouse|division|tax included|cashback|available offers?|flat \d+% off|up to \d+% off|"
+    r"free (mini|sample)|surprise freebie|maximum retail price|\bmrp\b|net quantity|shipping|"
+    r"how to use|directions?:|patch test|discontinue use|consult (a |your )?(doctor|dermatologist|physician)|"
+    r"keep out of reach|store in a cool|shake well|wash off|rinse (thoroughly|off)|leave (it )?on|"
+    r"apply (a )?(thin|generous|small)|massage (gently|into)|for external use only|"
+    r"pvt\.? ?ltd|made in india|manufactured by|marketed by|packed by|"
+    r"centimeters|millimeters|months from|natural origin|units sold|users saw)",
+    re.I,
+)
+
 
 def looks_like_ingredient_name(token):
     t = token.strip()
     if not t:
         return False
     if not re.search(r"[a-zA-Z]", t):
+        return False
+    if LEADING_MARKER_RE.match(t) or NUMBERED_BULLET_RE.match(t):
+        return False
+    if JUNK_PATTERN_RE.search(t):
         return False
     if t[:1].islower():
         return False
