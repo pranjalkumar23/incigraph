@@ -99,6 +99,8 @@ function largestComponentIds() {
   return best;
 }
 
+const MAX_FIT_SCALE = 1.4;
+
 function fitVisible(animation, focusNid) {
   let ids;
   if (focusNid && nodesDS.get(focusNid)) {
@@ -109,6 +111,11 @@ function fitVisible(animation, focusNid) {
     if (!ids.length) ids = nodesDS.get().filter((n) => !n.hidden).map((n) => n.id);
   }
   network.fit({ animation, nodes: ids });
+  // A tiny subtree (e.g. one freshly-added node) would otherwise get fit()-zoomed in
+  // extremely close, making it look like a giant blur rather than a readable card.
+  if (network.getScale() > MAX_FIT_SCALE) {
+    network.moveTo({ scale: MAX_FIT_SCALE, position: network.getViewPosition(), animation });
+  }
   return ids;
 }
 
@@ -667,6 +674,14 @@ function setRoot(type, id, label) {
 }
 
 function ensureNode(type, id, label) {
+  const nid = nodeIdFor(type, id);
+  if (!nodesDS.get(nid) && nodesDS.length > 0) {
+    // A brand-new anchor entity that isn't connected to anything already on screen
+    // means the user has moved on to a different question — drop the previous,
+    // now-unrelated subtree so the graph stays focused on what's being asked instead
+    // of accumulating stale branches from earlier queries.
+    resetGraph();
+  }
   return addNode(type, id, label);
 }
 
