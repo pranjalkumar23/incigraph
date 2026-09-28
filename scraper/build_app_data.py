@@ -166,6 +166,59 @@ def trim_to_full_inci(tokens):
     return tokens
 
 
+SIZE_UNIT_RE = re.compile(
+    r"[\s,\-–]*\(?\s*\d+(\.\d+)?\s*(ml|g|gm|gms|kg|l|litre|liters?|oz)\.?\s*\)?\s*$", re.I
+)
+PACK_COUNT_RE = re.compile(r"[\s,\-–]*\(?\s*pack\s*(?:of)?\s*\d+\s*\)?\s*$", re.I)
+
+
+def normalize_sku_name(name):
+    # A "SKU" is the product, not the specific size/pack-count a listing happens to be
+    # for — "Blackcurrant & Bearberry Gel Bar, 125g (Pack of 6)" and "..., 125 g" are the
+    # same SKU. Repeatedly strip trailing size/pack-count fragments (a title can have
+    # both, in either order) until nothing more comes off.
+    prev = name.strip()
+    for _ in range(6):
+        new = PACK_COUNT_RE.sub("", prev)
+        new = SIZE_UNIT_RE.sub("", new)
+        new = new.strip().rstrip(",-–").strip()
+        if not new or new == prev:
+            break
+        prev = new
+    return prev
+
+
+def is_better_sku_candidate(candidate, current):
+    c_verified = bool(candidate.get("ingredients_verified"))
+    cur_verified = bool(current.get("ingredients_verified"))
+    if c_verified != cur_verified:
+        return c_verified
+    c_len = len(candidate.get("ingredients_raw") or [])
+    cur_len = len(current.get("ingredients_raw") or [])
+    if c_len != cur_len:
+        return c_len > cur_len
+    c_image = bool(candidate.get("image"))
+    cur_image = bool(current.get("image"))
+    if c_image != cur_image:
+        return c_image
+    return False
+
+
+def dedupe_skus(raw_products):
+    best_by_key = {}
+    display_name_by_key = {}
+    for product in raw_products:
+        name = (product.get("name") or "").strip()
+        if not name:
+            continue
+        clean_name = normalize_sku_name(name) or name
+        key = clean_name.lower()
+        if key not in best_by_key or is_better_sku_candidate(product, best_by_key[key]):
+            best_by_key[key] = product
+            display_name_by_key[key] = clean_name
+    return [dict(best_by_key[key], name=display_name_by_key[key]) for key in best_by_key]
+
+
 BENEFIT_WORD_RE = re.compile(
     r"\b(helps?|fights?|reduces?|boosts?|tightens?|shrinks?|moisturi[sz]es?|hydrates?|nourishes?|protects?|"
     r"smooth(en)?s?|controls?|prevents?|soothes?|restores?|improves?|locks?|adds?|gives?|provides?|"
@@ -302,9 +355,7 @@ def main():
             }
         )
         brand_products = brand["products"] or flipkart_fallback.get(brand["brand_name"], [])
-        for product in brand_products:
-            if not product.get("name"):
-                continue
+        for product in dedupe_skus(brand_products):
             product_counter += 1
             product_id = f"rp{product_counter}"
             ingredients_raw = trim_to_full_inci(product.get("ingredients_raw") or [])
