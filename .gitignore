@@ -1,6 +1,9 @@
 __pycache__/
 *.pyc
 *.log
+.env
+backend/venv/
+backend/local.db
 
 # raw scraped debug page dumps, not project source
 flipkart.html
