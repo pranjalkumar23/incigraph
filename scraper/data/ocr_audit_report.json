@@ -1,0 +1,83 @@
+{
+  "report": {
+    "sample_size": 10,
+    "image_unreachable": 0,
+    "ocr_errors": 0,
+    "ocr_ok": 10,
+    "images_showing_ingredient_panel": 0,
+    "images_showing_ingredient_panel_rate": 0.0,
+    "avg_token_overlap_when_panel_visible": null
+  },
+  "results": [
+    {
+      "id": "rp4400",
+      "name": "Ultra Smoothing Hair SerumWith Vitamin E & Omega 3, 6 & 9 - 100 ml |",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp2081",
+      "name": "Liv.52 pet",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp4982",
+      "name": "Exfoliating Underarm Mistfor Pigmentation & Odour Control",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp9358",
+      "name": "Oxybenzone & OMC Free Sunscreen",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp872",
+      "name": "Charcoal Ultimate Trio",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp1221",
+      "name": "Ignite Luxury EDT for Her",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp11744",
+      "name": "कRAVE | Crème Lipstick",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp7749",
+      "name": "Gheesutrā Cleansing Balm | Enhance your cleansing ritual with Ghee |",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp1607",
+      "name": "Winter Defense Moisturizing Cream",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.0
+    },
+    {
+      "id": "rp4743",
+      "name": "Advanced Hair Growth Serum Roll-OnWith 5% Rosemary, 4% Anagain, & 3% Redensyl",
+      "status": "ok",
+      "has_ingredient_marker_in_image": false,
+      "token_overlap": 0.12
+    }
+  ]
+}

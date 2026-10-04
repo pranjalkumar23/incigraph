@@ -1,0 +1,910 @@
+{
+  "report": {
+    "sample_size": 100,
+    "unreachable_count": 1,
+    "unreachable_rate": 0.01,
+    "reachable_count": 99,
+    "name_match_rate": 1.0,
+    "avg_ingredient_jaccard_similarity": 0.838,
+    "exact_ingredient_match_rate": 0.677
+  },
+  "results": [
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "SUGAR Play Smooth Operator Lip Crayon 04 YOLO (TOI)",
+      "live_name": "SUGAR Play Smooth Operator Lip Crayon 04 YOLO (TOI)",
+      "id": "rp10477",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.19,
+      "stored_name": "Deep Cleansing Coffee Face Wash",
+      "live_name": "Deep Cleansing Coffee Face Wash",
+      "id": "rp1825",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Lip Honey Plumping Gloss with Plant Vitamin C and Peppermint Oil",
+      "live_name": "Lip Honey Plumping Gloss with Plant Vitamin C and Peppermint Oil",
+      "id": "rp410",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "RESOURCE Renal Food For Dietary Management Vanilla Flavour 400g Pet Jar",
+      "live_name": "RESOURCE Renal Food For Dietary Management Vanilla Flavour 400g Pet Jar",
+      "id": "rp12150",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Natural Lip Balmfor Chapped Lips | SPF 50 PA++++ | Natural",
+      "live_name": "Natural Lip Balmfor Chapped Lips | SPF 50 PA++++ | Natural - 4.5 gm",
+      "id": "rp4507",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Intimate Wet Wipes (Pack of 30 Wipes)",
+      "live_name": "Intimate Wet Wipes (Pack of 30 Wipes)",
+      "id": "rp4013",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Lightweight Breathable Performance RunLite Tee KIC058 Mauve",
+      "live_name": "Lightweight Breathable Performance RunLite Tee KIC058 Mauve",
+      "id": "rp3658",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.3,
+      "stored_name": "HimFlora®",
+      "live_name": "HimFlora®",
+      "id": "rp2287",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.4,
+      "stored_name": "Recode Snap Ready Foundation 20 ml 02 (Vanilla)",
+      "live_name": "Recode Snap Ready Foundation 20 ml 02 (Vanilla)",
+      "id": "rp12067",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.18,
+      "stored_name": "Himalaya Clear Complexion Brightening Day Cream",
+      "live_name": "Himalaya Clear Complexion Brightening Day Cream",
+      "id": "rp1680",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.94,
+      "stored_name": "Ultime Pro Matte Play Eyeliner",
+      "live_name": "Ultime Pro Matte Play Eyeliner",
+      "id": "rp11088",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Mintop Pro Plus| Hair Regrowth Serum by Dr Reddys|Fortified with Redensyl Procapil Biotin and Copexil| Proven Hair Fall Control| Scalp Nutrition|",
+      "live_name": "Mintop Pro Plus| Hair Regrowth Serum by Dr Reddys|Fortified with Redensyl Procapil Biotin and Copexil| Proven Hair Fall Control| Scalp Nutrition| 50 Ml",
+      "id": "rp12136",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.45,
+      "stored_name": "Hawaiian Rumba Deodorant Roll On by Plum BodyLovin'",
+      "live_name": "Hawaiian Rumba Deodorant Roll On by Plum BodyLovin'",
+      "id": "rp8936",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Morning Dew Combo - Deo 150ml, DWP 100ml & CP",
+      "live_name": "Morning Dew Combo - Deo 150ml, DWP 100ml & CP 18ml",
+      "id": "rp1425",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Mouth Freshener Spray - Sweet Candied Orange Flavour",
+      "live_name": "Mouth Freshener Spray - Sweet Candied Orange Flavour",
+      "id": "rp9675",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.8,
+      "stored_name": "Apricot & Honey Peel Off Mask",
+      "live_name": "Apricot & Honey Peel Off Mask",
+      "id": "rp6913",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Glow Boosting Face serum with Gotukola and Indian Ginseng",
+      "live_name": "Glow Boosting Face serum with Gotukola and Indian Ginseng",
+      "id": "rp521",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Full-Size Herb Enriched Matte Liquid Lipstick Kit - Set of 3",
+      "live_name": "Full-Size Herb Enriched Matte Liquid Lipstick Kit - Set of 3",
+      "id": "rp489",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.67,
+      "stored_name": "Active Fresh Gel",
+      "live_name": "Active Fresh Gel",
+      "id": "rp1536",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Kica High-Waisted Workout Leggings Grey",
+      "live_name": "Kica High-Waisted Workout Leggings Grey",
+      "id": "rp3583",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.33,
+      "stored_name": "MATCHA MORINGA CLEANSING BUFF\n – Earth Rhythm - Clean. Kind. Effective",
+      "live_name": "MATCHA MORINGA CLEANSING BUFF\n – Earth Rhythm - Clean. Kind. Effective",
+      "id": "rp3812",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Victor Perfume 70ml | DENVER",
+      "live_name": "Victor Perfume 70ml | DENVER",
+      "id": "rp8280",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Women's Dual Face Razor (1N)",
+      "live_name": "Women's Dual Face Razor (1N)",
+      "id": "rp9864",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Skin Brightening Bathing Bar with Sandalwood and Turmeric",
+      "live_name": "Skin Brightening Bathing Bar with Sandalwood and Turmeric",
+      "id": "rp435",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Patuá Haircare Combo",
+      "live_name": "Patuá Haircare Combo",
+      "id": "rp9196",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.9,
+      "stored_name": "Hydrating Barrier Repair Combo",
+      "live_name": "Hydrating Barrier Repair Combo",
+      "id": "rp3258",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "No Makeup-Makeup kit",
+      "live_name": "No Makeup-Makeup kit",
+      "id": "rp11732",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Everlasting Voluminous Mascara",
+      "live_name": "Everlasting Voluminous Mascara",
+      "id": "rp10648",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "RENEE Pink Therapy PDRN Moisturising Lip Balm For Dry, Chapped Lips With PDRN, Peptides & Ceramides\n – Renee Cosmetics",
+      "live_name": "RENEE Pink Therapy PDRN Moisturising Lip Balm For Dry, Chapped Lips With PDRN, Peptides & Ceramides\n – Renee Cosmetics",
+      "id": "rp11491",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.75,
+      "stored_name": "Green Tea Pore Cleansing Face Wash For Oily & Acne-Prone Skin",
+      "live_name": "Green Tea Pore Cleansing Face Wash For Oily & Acne-Prone Skin",
+      "id": "rp8929",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Shahnaz Husain White Pearl Kit - Skin Whitening Therapy - 20g+",
+      "live_name": "Shahnaz Husain White Pearl Kit - Skin Whitening Therapy - 20g+15ml",
+      "id": "rp6874",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Kica Performance Wrap Skort with Built-In 4\" Shorts KIC400 Olive",
+      "live_name": "Kica Performance Wrap Skort with Built-In 4\" Shorts KIC400 Olive",
+      "id": "rp3612",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.0,
+      "stored_name": "Khadi Natural Neem Charcoal Soap Combo Pack Of 5 – 125gm Each",
+      "live_name": "Khadi Natural Neem Charcoal Soap Combo Pack Of 5 – 125gm Each",
+      "id": "rp7360",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Lemon Mint Probiotic Anti-Plaque Mouthwash",
+      "live_name": "Lemon Mint Probiotic Anti-Plaque Mouthwash",
+      "id": "rp9655",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Brightening Body WashWith Vitamin C for Bright & Glowing Skin",
+      "live_name": "Brightening Body WashWith Vitamin C for Bright & Glowing Skin - 473 ml",
+      "id": "rp4558",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.5,
+      "stored_name": "Permanent Hair Color - Brown",
+      "live_name": "Permanent Hair Color - Brown",
+      "id": "rp107",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Mee Mee Tiny Pal 2-in-1 Sipper & Spout Kids Bottle, 500ml, Vacuum Insulated Stainless Steel Water Bottle with Adjustable Strap, Leak-Proof & Travel Friendly",
+      "live_name": "Mee Mee Tiny Pal 2-in-1 Sipper & Spout Kids Bottle, 500ml, Vacuum Insulated Stainless Steel Water Bottle with Adjustable Strap, Leak-Proof & Travel Friendly",
+      "id": "rp12433",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.5,
+      "stored_name": "2% Niacinamide Hydrating BB Cream with 1% Hyaluronic Acid Complex & Aquaxyl™  - 30 g |  03 - Warm Beige",
+      "live_name": "2% Niacinamide Hydrating BB Cream with 1% Hyaluronic Acid Complex & Aquaxyl™  - 30 g |  03 - Warm Beige",
+      "id": "rp2616",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.62,
+      "stored_name": "RENEE Korean Glow Serum, 15ml\n – Renee Cosmetics",
+      "live_name": "RENEE Korean Glow Serum, 15ml\n – Renee Cosmetics",
+      "id": "rp11439",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.78,
+      "stored_name": "Bridal Brightening Face Scrub | Turmeric & Pearl Millet Flour",
+      "live_name": "Bridal Brightening Face Scrub | Turmeric & Pearl Millet Flour",
+      "id": "rp6925",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "DermaBotanics Kojic Acid + Multi Berry Blemish Free Facewash",
+      "live_name": "DermaBotanics Kojic Acid + Multi Berry Blemish Free Facewash",
+      "id": "rp5575",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "2% Mandelic Acid Odour Control Body Washfor Long Lasting Freshness",
+      "live_name": "2% Mandelic Acid Odour Control Body Washfor Long Lasting Freshness - 236 ml",
+      "id": "rp4553",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.5,
+      "stored_name": "Clear Skin & Sun Protection Combo",
+      "live_name": "Clear Skin & Sun Protection Combo",
+      "id": "rp2548",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Kica Cotton Wide Leg Pants With Functional Pockets KIC516 Black",
+      "live_name": "Kica Cotton Wide Leg Pants With Functional Pockets KIC516 Black",
+      "id": "rp3528",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Lavender & Peppermint Essential Oil to Healthy Relaxation",
+      "live_name": "Lavender & Peppermint Essential Oil to Healthy Relaxation",
+      "id": "rp12510",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "YouthRx firm & bright day crème",
+      "live_name": "YouthRx firm & bright day crème",
+      "id": "rp5515",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.33,
+      "stored_name": "Digyton Plus",
+      "live_name": "Digyton Plus",
+      "id": "rp1675",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.6,
+      "stored_name": "Cucumber & Coconut Soap",
+      "live_name": "Cucumber & Coconut Soap",
+      "id": "rp1520",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Proedit Silk Touch Matte Lip Color",
+      "live_name": "Proedit Silk Touch Matte Lip Color",
+      "id": "rp6225",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.33,
+      "stored_name": "Tan Removal Orange Peel-Off Mask",
+      "live_name": "Tan Removal Orange Peel-Off Mask",
+      "id": "rp1585",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "WhiteGlow Brightening Ritual Combo",
+      "live_name": "WhiteGlow Brightening Ritual Combo",
+      "id": "rp5882",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Ecostay Nail Enamel MAROON LOVE 10ML E6",
+      "live_name": "Ecostay Nail Enamel MAROON LOVE 10ML E6",
+      "id": "rp5636",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Value Combo - Bikini Line Hair Removal Creme RADIANCE and Foam Intimate Wash 150ml for Women",
+      "live_name": "Value Combo - Bikini Line Hair Removal Creme RADIANCE and Foam Intimate Wash 150ml for Women",
+      "id": "rp9892",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Anti Dandruff Shampoowith Salicylic Acid, Piroctone Olamine & Biotin - 250 ml |",
+      "live_name": "Anti Dandruff Shampoowith Salicylic Acid, Piroctone Olamine & Biotin - 250 ml | Pack of 2",
+      "id": "rp4334",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.95,
+      "stored_name": "Kesh King Organic Rosemary Oil",
+      "live_name": "Kesh King Organic Rosemary Oil 200 ml",
+      "id": "rp712",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Recode 20 G Spf 50++ Sun screen Protection Gel -Trial Pack",
+      "live_name": "Recode 20 G Spf 50++ Sun screen Protection Gel -Trial Pack",
+      "id": "rp11956",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Khadi Natural Sweet Almond Hair & Body Oil - 100ml Sale",
+      "live_name": "Khadi Natural Sweet Almond Hair & Body Oil - 100ml Sale",
+      "id": "rp7528",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "KLUB Man Deodorant",
+      "live_name": "KLUB Man Deodorant - 150ml",
+      "id": "rp8786",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.17,
+      "stored_name": "Protective Sunscreen Lotion",
+      "live_name": "Protective Sunscreen Lotion",
+      "id": "rp2046",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Precious Brightening Ultimate Radiance Beauty Duo",
+      "live_name": "Precious Brightening Ultimate Radiance Beauty Duo",
+      "id": "rp6202",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Autumn Bloom Daily Wear Perfume",
+      "live_name": "Autumn Bloom Daily Wear Perfume 100ml",
+      "id": "rp1292",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "The ultimate vanilla combo by BodyLovin'",
+      "live_name": "The ultimate vanilla combo by BodyLovin'",
+      "id": "rp9045",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Intensely Hydrating Face Moisturizerwith Hyaluronic Acid",
+      "live_name": "Intensely Hydrating Face Moisturizerwith Hyaluronic Acid - 100 gm",
+      "id": "rp4804",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.82,
+      "stored_name": "Glide & Define Trio",
+      "live_name": "Glide & Define Trio",
+      "id": "rp10300",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.72,
+      "stored_name": "SUGAR Play Vibe Check Liquid Lipstick",
+      "live_name": "SUGAR Play Vibe Check Liquid Lipstick",
+      "id": "rp10134",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "YouthRx firm & bright facewash",
+      "live_name": "YouthRx firm & bright facewash",
+      "id": "rp5926",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Arata Anti-Dandruff Shampoo & Conditioner Combo",
+      "live_name": "Arata Anti-Dandruff Shampoo & Conditioner Combo",
+      "id": "rp9460",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Mediterranean Sea Salt Moisturising Body Lotion",
+      "live_name": "Mediterranean Sea Salt Moisturising Body Lotion(300ml)",
+      "id": "rp3151",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.61,
+      "stored_name": "RENEE Very Matte Lipsticks, 1.6g\n – Renee Cosmetics",
+      "live_name": "RENEE Very Matte Lipsticks, 1.6g\n – Renee Cosmetics",
+      "id": "rp11544",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Relax Hand wash, 1L Bottle",
+      "live_name": "Relax Hand wash, 1L Bottle",
+      "id": "rp1140",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Charcoal Soap Bar | Activated Charcoal",
+      "live_name": "Charcoal Soap Bar | Activated Charcoal",
+      "id": "rp751",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Youthful Glow Face Serum",
+      "live_name": "Youthful Glow Face Serum",
+      "id": "rp10835",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Women Max Dry Comfortable Bright Joggers",
+      "live_name": "Women Max Dry Comfortable Bright Joggers",
+      "id": "rp3734",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Rosemary & Rice WaterHair Growth Spray",
+      "live_name": "Rosemary & Rice WaterHair Growth Spray - 200 ml",
+      "id": "rp4742",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Clear Gel Bar pack of 9 (125gm x 9)",
+      "live_name": "Clear Gel Bar pack of 9 (125gm x 9)",
+      "id": "rp1308",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Cocoa Butter Body Lotion (200ml) Earth Rhythm\n – Earth Rhythm - Clean. Kind. Effective",
+      "live_name": "Cocoa Butter Body Lotion (200ml) Earth Rhythm\n – Earth Rhythm - Clean. Kind. Effective",
+      "id": "rp3815",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.26,
+      "stored_name": "Youth Eternity Day Cream",
+      "live_name": "Youth Eternity Day Cream",
+      "id": "rp1655",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Proedit Tinted Lip Oils Enriched With Hyaluronic Acid",
+      "live_name": "Proedit Tinted Lip Oils Enriched With Hyaluronic Acid",
+      "id": "rp6228",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Root Strengthening DuoHair Growth Serum 30 ml & Anti-Hairfall Shampoo",
+      "live_name": "Root Strengthening DuoHair Growth Serum 30 ml & Anti-Hairfall Shampoo 250 ml",
+      "id": "rp4555",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.0,
+      "stored_name": "Khadi Natural Pure Amla Hair Oil Paraben & Mineral Free",
+      "live_name": "Khadi Natural Pure Amla Hair Oil Paraben & Mineral Free - 210ml",
+      "id": "rp7429",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Set of 3 Glide Peptide Plumping Gloss Sticks",
+      "live_name": "Set of 3 Glide Peptide Plumping Gloss Sticks",
+      "id": "rp10416",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "DermaBotanics Daily UV acne sunscreen SPF 50+ PA ++++",
+      "live_name": "DermaBotanics Daily UV acne sunscreen SPF 50+ PA ++++",
+      "id": "rp5978",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.88,
+      "stored_name": "Detan+ Brighter Skin Combo",
+      "live_name": "Detan+ Brighter Skin Combo",
+      "id": "rp2665",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Ecostay Pore-fectionist Primer",
+      "live_name": "Ecostay Pore-fectionist Primer",
+      "id": "rp6066",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.27,
+      "stored_name": "Radiance Boost Ubtan Face Serum",
+      "live_name": "Radiance Boost Ubtan Face Serum",
+      "id": "rp5821",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Fleece Oversized Hoodie",
+      "live_name": "Fleece Oversized Hoodie",
+      "id": "rp3433",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Pro Blush Brush",
+      "live_name": "Pro Blush Brush",
+      "id": "rp10981",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Feel Fresh!Exfoliating Body Wash - 236 ml & Peach Underarm Roll On",
+      "live_name": "Feel Fresh!Exfoliating Body Wash - 236 ml & Peach Underarm Roll On - 40 ml",
+      "id": "rp4375",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "RENEE Premium Holographic Pouch\n – Renee Cosmetics",
+      "live_name": "RENEE Premium Holographic Pouch\n – Renee Cosmetics",
+      "id": "rp11499",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Faces Canada Strobe Serum",
+      "live_name": "Faces Canada Strobe Serum - 27ml",
+      "id": "rp11200",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Classic Mascara",
+      "live_name": "Classic Mascara",
+      "id": "rp10618",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.5,
+      "stored_name": "Engage Gift Perfume Set - Celebrations For Women, 100ml, Long Lasting, Assorted Pack, Birthday Gift, Anniversary Gift, 25ml x 4",
+      "live_name": "Engage Gift Perfume Set - Celebrations For Women, 100ml, Long Lasting, Assorted Pack, Birthday Gift, Anniversary Gift, 25ml x 4",
+      "id": "rp1170",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.74,
+      "stored_name": "Glide Peptide Plumping Gloss Stick",
+      "live_name": "Glide Peptide Plumping Gloss Stick",
+      "id": "rp9981",
+      "source": "brand-site"
+    },
+    {
+      "status": "unreachable",
+      "url": "https://www.sugarcosmetics.com/products/nothing-else-matter-longwear-lipstick-13-rose-job-free-gift",
+      "id": "rp10404",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 0.0,
+      "stored_name": "7 in 1 Repair & Revive Conditioner for Upto 100% Damage Repair",
+      "live_name": "7 in 1 Repair & Revive Conditioner for Upto 100% Damage Repair - 250g",
+      "id": "rp2804",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Hydmatte FX - Magic Concealer - 6g -Cool Vanilla",
+      "live_name": "Hydmatte FX - Magic Concealer - 6g -Cool Vanilla",
+      "id": "rp8752",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Recode Makeup Pencil Sharpener Cum Cap",
+      "live_name": "Recode Makeup Pencil Sharpener Cum Cap",
+      "id": "rp11947",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Impower Self Defence Pepper Spray with Green Chilli Formula, Long Range, Compact Size",
+      "live_name": "Impower Self Defence Pepper Spray with Green Chilli Formula, Long Range, Compact Size (Pack of 1)",
+      "id": "rp4011",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Hydrate & Refresh Skin Duo",
+      "live_name": "Hydrate & Refresh Skin Duo",
+      "id": "rp2678",
+      "source": "brand-site"
+    },
+    {
+      "status": "ok",
+      "name_match": true,
+      "ingredient_similarity": 1.0,
+      "stored_name": "Aloevera Gel | Natural Moisturizer, Suits all Skin Types |",
+      "live_name": "Aloevera Gel | Natural Moisturizer, Suits all Skin Types | 100 ml",
+      "id": "rp7574",
+      "source": "brand-site"
+    }
+  ]
+}

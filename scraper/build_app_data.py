@@ -454,6 +454,7 @@ def main():
                     "chemicals": match_chemicals(ingredients_raw),
                     "ingredientsRaw": cleaned_ingredients,
                     "image": product.get("image"),
+                    "source": product.get("source", "brand-site"),
                 }
             )
 

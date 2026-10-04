@@ -56,6 +56,7 @@ class ProductOut(BaseModel):
     url: Optional[str] = None
     ingredients_verified: bool = False
     image: Optional[str] = None
+    source: str = "brand-site"
 
 
 class ProductDetailOut(ProductOut):

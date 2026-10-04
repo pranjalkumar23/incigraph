@@ -134,6 +134,7 @@ def main():
                 ingredients_verified=bool(p.get("ingredientsVerified")),
                 ingredients_raw=p.get("ingredientsRaw", []),
                 image=p.get("image"),
+                source=p.get("source", "brand-site"),
             )
             row.chemicals = [chemical_by_id[cid] for cid in p.get("chemicals", []) if cid in chemical_by_id]
             db.add(row)

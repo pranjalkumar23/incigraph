@@ -77,6 +77,9 @@ class Product(Base):
     ingredients_verified = Column(Boolean, default=False)
     ingredients_raw = Column(JSON, default=list)
     image = Column(String)
+    # "brand-site" (primary, higher-trust) or "flipkart" (fallback for brands with no
+    # dedicated storefront) — see scraper/audit_sample.py for measured accuracy by source.
+    source = Column(String, default="brand-site")
 
     brand = relationship("Brand", back_populates="products")
     chemicals = relationship("Chemical", secondary=product_chemicals, back_populates="products")
