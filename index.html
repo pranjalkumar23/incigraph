@@ -10,6 +10,25 @@
 <script src="https://cdn.jsdelivr.net/npm/openchemlib@8/dist/openchemlib-minimal.js"></script>
 </head>
 <body>
+<script>
+  if (localStorage.getItem("inciAuthed") === "1") {
+    document.documentElement.classList.add("authed");
+  }
+</script>
+
+<div id="loginScreen" class="login-screen">
+  <form id="loginForm" class="login-card">
+    <div class="login-logo"><i class="ti ti-flask-2"></i> InciGraph.ai</div>
+    <p class="login-subtitle">Sign in to continue</p>
+    <label class="login-label" for="loginUsername">Username</label>
+    <input id="loginUsername" class="login-input" type="text" autocomplete="username" autofocus />
+    <label class="login-label" for="loginPassword">Password</label>
+    <input id="loginPassword" class="login-input" type="password" autocomplete="current-password" />
+    <p id="loginError" class="login-error" style="display:none;">Invalid username or password.</p>
+    <button type="submit" class="login-submit">Sign in</button>
+  </form>
+</div>
+
 <div class="app-shell">
   <div id="navBackdrop" class="nav-backdrop"></div>
   <nav class="side-nav">
@@ -22,6 +41,7 @@
     <button class="nav-item placeholder-nav" data-view="compliance"><i class="ti ti-shield-check"></i> Compliance</button>
     <button class="nav-item placeholder-nav" data-view="audit"><i class="ti ti-clipboard-check"></i> Audit</button>
     <button class="nav-item placeholder-nav" data-view="settings"><i class="ti ti-settings"></i> Settings</button>
+    <button id="logoutBtn" class="nav-item" type="button"><i class="ti ti-logout"></i> Log out</button>
   </nav>
 
   <div class="shell-main">
@@ -110,6 +130,7 @@
   </aside>
 </div>
 
+<script src="auth.js"></script>
 <script>document.write('<script src="data.js?t=' + Date.now() + '"><\/script>');</script>
 <script src="queries.js"></script>
 <script src="graph.js"></script>
